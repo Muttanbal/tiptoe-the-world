@@ -118,22 +118,25 @@
       "key": "australia-sydney",
       "city": "Sydney",
       "country": "Australia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/qG2qPRyqPaQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; location and subject described on source page; live image rendering not yet checked"
     },
     {
       "key": "australia-melbourne",
       "city": "Melbourne",
       "country": "Australia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/_gfGS2ywGx8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; location and subject described on source page; live image rendering not yet checked"
     },
     {
       "key": "australia-brisbane",
       "city": "Brisbane",
       "country": "Australia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/si5PIMWsFhE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; location and subject described on source page; live image rendering not yet checked"
     },
     {
       "key": "canada-toronto",
