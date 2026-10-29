@@ -55,25 +55,39 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 // City-specific photography: never reuse a country's generic image for its cities.
 // Wikimedia's encyclopaedia thumbnails are requested by exact city and country.
 // Missing/ambiguous photos leave an attractive labelled placeholder, not a wrong photo.
+/* Destination photo audit: each city has its own resolved image and no country-image inheritance. */
 const cityPhotoSeen=new Set();
 const cityPhotoCache=new Map();
+const cityPhotoPending=new Map();
+const cityArticleOverrides={'New York':'New York City','Quebec City':'Quebec City','Washington DC':'Washington, D.C.','Mexico City':'Mexico City','Ho Chi Minh City':'Ho Chi Minh City','Siem Reap':'Siem Reap','Ella':'Ella, Sri Lanka','Kandy':'Kandy','Colombo':'Colombo'};
 async function cityPhotoFor(name,country){
- const key=name+'|'+country;
+ const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
- const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:'intitle:"'+name+'" '+country,gsrlimit:'6',prop:'pageimages|info',pithumbsize:'1200',format:'json',origin:'*'});
- try{
-  const res=await fetch('https://en.wikipedia.org/w/api.php?'+params.toString());
-  if(!res.ok)throw new Error('Image lookup failed');
-  const data=await res.json();
-  const pages=Object.values(data.query?.pages||{}).filter(p=>p.thumbnail?.source);
-  const lower=name.toLowerCase();
-  pages.sort((a,b)=>Number(b.title.toLowerCase()===lower)-Number(a.title.toLowerCase()===lower));
-  const choice=pages.find(p=>p.title.toLowerCase().includes(lower)&&!cityPhotoSeen.has(p.thumbnail.source));
-  if(!choice)throw new Error('No distinct city image');
-  cityPhotoSeen.add(choice.thumbnail.source);
-  cityPhotoCache.set(key,choice.thumbnail.source);
-  return choice.thumbnail.source;
- }catch(e){cityPhotoCache.set(key,null);return null}
+ if(cityPhotoPending.has(key))return cityPhotoPending.get(key);
+ const task=(async()=>{
+  const article=cityArticleOverrides[name]||name;
+  const candidates=[article,article+', '+country,article+' ('+country+')'];
+  let selected=null;
+  for(const title of candidates){
+   try{
+    const api='https://en.wikipedia.org/w/api.php?'+new URLSearchParams({action:'query',titles:title,prop:'pageimages',pithumbsize:'1200',format:'json',origin:'*'});
+    const response=await fetch(api);
+    if(!response.ok)continue;
+    const data=await response.json();
+    const page=Object.values(data.query?.pages||{})[0];
+    if(!page||page.missing!==undefined||!page.thumbnail?.source)continue;
+    const url=page.thumbnail.source;
+    if(cityPhotoSeen.has(url))continue;
+    selected=url;break;
+   }catch(e){}
+  }
+  if(selected)cityPhotoSeen.add(selected);
+  cityPhotoCache.set(key,selected);
+  cityPhotoPending.delete(key);
+  return selected;
+ })();
+ cityPhotoPending.set(key,task);
+ return task;
 }
 function installCityPhoto(element,name,country){
  element.classList.add('city-photo-loading');
@@ -87,7 +101,6 @@ function installCityPhoto(element,name,country){
   else{element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph unavailable')}
  });
 }
-
 /* Static country imagery: no runtime API lookup and no blank cards. */
 const countryPhotoRegistry=[{"name":"United States","slug":"united-states","img":"https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1400&q=82"},{"name":"France","slug":"france","img":"https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1400&q=82"},{"name":"Kenya","slug":"kenya","img":"https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1400&q=82"},{"name":"Australia","slug":"australia","img":"https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1400&q=82"},{"name":"Canada","slug":"canada","img":"https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1400&q=82"},{"name":"Mexico","slug":"mexico","img":"https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=1400&q=82"},{"name":"Costa Rica","slug":"costa-rica","img":"https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?w=1400&q=82"},{"name":"Brazil","slug":"brazil","img":"https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=1400&q=82"},{"name":"Argentina","slug":"argentina","img":"https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=1400&q=82"},{"name":"Chile","slug":"chile","img":"https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1400&q=82"},{"name":"Colombia","slug":"colombia","img":"https://images.unsplash.com/photo-1531968455001-5c5272a41129?w=1400&q=82"},{"name":"Italy","slug":"italy","img":"https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=1400&q=82"},{"name":"Spain","slug":"spain","img":"https://images.unsplash.com/photo-1539037116277-4db20889f2d4?w=1400&q=82"},{"name":"Germany","slug":"germany","img":"https://images.unsplash.com/photo-1467269204594-9661b134dd2b?w=1400&q=82"},{"name":"Greece","slug":"greece","img":"https://images.unsplash.com/photo-1504512485720-7d83a16ee930?w=1400&q=82"},{"name":"Morocco","slug":"morocco","img":"https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=1400&q=82"},{"name":"Egypt","slug":"egypt","img":"https://images.unsplash.com/photo-1539768942893-daf53e448371?w=1400&q=82"},{"name":"South Africa","slug":"south-africa","img":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1400&q=82"},{"name":"Tanzania","slug":"tanzania","img":"https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1400&q=82"},{"name":"Thailand","slug":"thailand","img":"https://images.unsplash.com/photo-1528181304800-259b08848526?w=1400&q=82"},{"name":"India","slug":"india","img":"https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=1400&q=82"},{"name":"Vietnam","slug":"vietnam","img":"https://images.unsplash.com/photo-1528127269322-539801943592?w=1400&q=82"},{"name":"Indonesia","slug":"indonesia","img":"https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=1400&q=82"},{"name":"Fiji","slug":"fiji","img":"https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=1400&q=82"},{"name":"Panama","slug":"panama","img":"https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1400&q=82"},{"name":"Jamaica","slug":"jamaica","img":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1400&q=82"},{"name":"Dominican Republic","slug":"dominican-republic","img":"https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1400&q=82"},{"name":"Ecuador","slug":"ecuador","img":"https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1400&q=82"},{"name":"Bolivia","slug":"bolivia","img":"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1400&q=82"},{"name":"Portugal","slug":"portugal","img":"https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1400&q=82"},{"name":"United Kingdom","slug":"united-kingdom","img":"https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1400&q=82"},{"name":"Netherlands","slug":"netherlands","img":"https://images.unsplash.com/photo-1534351590666-13e3e1a3d3b9?w=1400&q=82"},{"name":"Switzerland","slug":"switzerland","img":"https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=1400&q=82"},{"name":"Tunisia","slug":"tunisia","img":"https://images.unsplash.com/photo-1511497584788-876760111969?w=1400&q=82"},{"name":"Uganda","slug":"uganda","img":"https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1400&q=82"},{"name":"Namibia","slug":"namibia","img":"https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1400&q=82"},{"name":"South Korea","slug":"south-korea","img":"https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1400&q=82"},{"name":"Malaysia","slug":"malaysia","img":"https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=1400&q=82"},{"name":"Singapore","slug":"singapore","img":"https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=1400&q=82"},{"name":"Philippines","slug":"philippines","img":"https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=1400&q=82"},{"name":"Nepal","slug":"nepal","img":"https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1400&q=82"},{"name":"Samoa","slug":"samoa","img":"https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1400&q=82"},{"name":"Vanuatu","slug":"vanuatu","img":"https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1400&q=82"},{"name":"Papua New Guinea","slug":"papua-new-guinea","img":"https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1400&q=82"},{"name":"Guatemala","slug":"guatemala","img":"https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=1400&q=82"},{"name":"Belize","slug":"belize","img":"https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=1400&q=82"},{"name":"Cuba","slug":"cuba","img":"https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=1400&q=82"},{"name":"Uruguay","slug":"uruguay","img":"https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?w=1400&q=82"},{"name":"Paraguay","slug":"paraguay","img":"https://images.unsplash.com/photo-1439853949212-09789ba454d5?w=1400&q=82"},{"name":"Austria","slug":"austria","img":"https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=1400&q=82"},{"name":"Croatia","slug":"croatia","img":"https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1400&q=82"},{"name":"Türkiye","slug":"turkiye","img":"https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1400&q=82"},{"name":"Ireland","slug":"ireland","img":"https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1400&q=82"},{"name":"Botswana","slug":"botswana","img":"https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1400&q=82"},{"name":"Rwanda","slug":"rwanda","img":"https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1400&q=82"},{"name":"Zambia","slug":"zambia","img":"https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1400&q=82"},{"name":"Cambodia","slug":"cambodia","img":"https://images.unsplash.com/photo-1533676802871-eca1ae998cd5?w=1400&q=82"},{"name":"Sri Lanka","slug":"sri-lanka","img":"https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1400&q=82"},{"name":"United Arab Emirates","slug":"united-arab-emirates","img":"https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1400&q=82"},{"name":"Jordan","slug":"jordan","img":"https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1400&q=82"},{"name":"Taiwan","slug":"taiwan","img":"https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1400&q=82"},{"name":"Tonga","slug":"tonga","img":"https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=1400&q=82"},{"name":"Solomon Islands","slug":"solomon-islands","img":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1400&q=82"},{"name":"Cook Islands","slug":"cook-islands","img":"https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=1400&q=82"}];
 countryPhotoRegistry.forEach(country=>{
