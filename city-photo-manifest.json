@@ -83,15 +83,17 @@
       "key": "france-lyon",
       "city": "Lyon",
       "country": "France",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20basilique%20de%20fourvi%C3%A8re.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: Lyon basilique de fourvière.jpg; Imbolcus; CC BY-SA (verify exact license and attribution before production)"
     },
     {
       "key": "france-marseille",
       "city": "Marseille",
       "country": "France",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marseille%20Old%20Port%20and%20Notre%20Dame%20de%20la%20Garde.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: Marseille Old Port and Notre Dame de la Garde.jpg; Benh LIEU SONG; CC BY-SA (verify exact license and attribution before production)"
     },
     {
       "key": "kenya-nairobi",
