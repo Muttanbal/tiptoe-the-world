@@ -405,15 +405,21 @@
       "key": "morocco-marrakech",
       "city": "Marrakech",
       "country": "Morocco",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marrakesh%2C%20Morocco-%20Jemaa%20el-Fnaa%20square.jpg?width=1100",
+      "status": "candidate-needs-visual-verification",
+      "source": "https://commons.wikimedia.org/wiki/File:Marrakesh%2C_Morocco-_Jemaa_el-Fnaa_square.jpg",
+      "credit": "Nouaman Bentaj",
+      "license": "Public Domain Mark"
     },
     {
       "key": "morocco-fes",
       "city": "Fes",
       "country": "Morocco",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20of%20the%20Medina%20of%20Fes.jpg?width=1100",
+      "status": "candidate-needs-visual-verification",
+      "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_Medina_of_Fes.jpg",
+      "credit": "Mustang Joe",
+      "license": "CC0 1.0"
     },
     {
       "key": "morocco-casablanca",
@@ -426,8 +432,11 @@
       "key": "morocco-essaouira",
       "city": "Essaouira",
       "country": "Morocco",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Essaouira%20port%2C%20Morocco.jpg?width=1100",
+      "status": "candidate-needs-visual-verification",
+      "source": "https://commons.wikimedia.org/wiki/File:Essaouira_port%2C_Morocco.jpg",
+      "credit": "Goldfinchshuffle",
+      "license": "CC BY-SA 4.0"
     },
     {
       "key": "egypt-cairo",
