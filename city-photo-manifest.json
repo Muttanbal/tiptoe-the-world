@@ -1,0 +1,1469 @@
+{
+  "version": 1,
+  "description": "Explicit photo assignments for Tiptoe the World city pages. candidate images require destination and URL verification before marking verified. Unassigned cities use labelled placeholders, not unrelated images.",
+  "cities": [
+    {
+      "key": "united-states-new-york",
+      "city": "New York",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "united-states-los-angeles",
+      "city": "Los Angeles",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "united-states-san-francisco",
+      "city": "San Francisco",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "united-states-las-vegas",
+      "city": "Las Vegas",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-states-miami",
+      "city": "Miami",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-states-chicago",
+      "city": "Chicago",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-states-boston",
+      "city": "Boston",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-states-seattle",
+      "city": "Seattle",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-states-new-orleans",
+      "city": "New Orleans",
+      "country": "United States",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "france-paris",
+      "city": "Paris",
+      "country": "France",
+      "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "france-nice",
+      "city": "Nice",
+      "country": "France",
+      "url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "france-lyon",
+      "city": "Lyon",
+      "country": "France",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "france-marseille",
+      "city": "Marseille",
+      "country": "France",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "kenya-nairobi",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "kenya-mombasa",
+      "city": "Mombasa",
+      "country": "Kenya",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "kenya-diani-beach",
+      "city": "Diani Beach",
+      "country": "Kenya",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "australia-sydney",
+      "city": "Sydney",
+      "country": "Australia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "australia-melbourne",
+      "city": "Melbourne",
+      "country": "Australia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "australia-brisbane",
+      "city": "Brisbane",
+      "country": "Australia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "canada-toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "canada-vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "canada-montreal",
+      "city": "Montreal",
+      "country": "Canada",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "canada-quebec-city",
+      "city": "Quebec City",
+      "country": "Canada",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "mexico-mexico-city",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "mexico-cancun",
+      "city": "Cancun",
+      "country": "Mexico",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "mexico-oaxaca",
+      "city": "Oaxaca",
+      "country": "Mexico",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "costa-rica-san-jose",
+      "city": "San Jose",
+      "country": "Costa Rica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "costa-rica-la-fortuna",
+      "city": "La Fortuna",
+      "country": "Costa Rica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "costa-rica-manuel-antonio",
+      "city": "Manuel Antonio",
+      "country": "Costa Rica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "brazil-rio-de-janeiro",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "brazil-sao-paulo",
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "brazil-salvador",
+      "city": "Salvador",
+      "country": "Brazil",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "brazil-florianopolis",
+      "city": "Florianópolis",
+      "country": "Brazil",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "brazil-recife",
+      "city": "Recife",
+      "country": "Brazil",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "argentina-buenos-aires",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "argentina-mendoza",
+      "city": "Mendoza",
+      "country": "Argentina",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "argentina-bariloche",
+      "city": "Bariloche",
+      "country": "Argentina",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "argentina-ushuaia",
+      "city": "Ushuaia",
+      "country": "Argentina",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "argentina-el-calafate",
+      "city": "El Calafate",
+      "country": "Argentina",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "chile-santiago",
+      "city": "Santiago",
+      "country": "Chile",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "chile-valparaiso",
+      "city": "Valparaiso",
+      "country": "Chile",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "chile-san-pedro-de-atacama",
+      "city": "San Pedro de Atacama",
+      "country": "Chile",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "colombia-bogota",
+      "city": "Bogota",
+      "country": "Colombia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "colombia-medellin",
+      "city": "Medellin",
+      "country": "Colombia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "colombia-cartagena",
+      "city": "Cartagena",
+      "country": "Colombia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "italy-rome",
+      "city": "Rome",
+      "country": "Italy",
+      "url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "italy-florence",
+      "city": "Florence",
+      "country": "Italy",
+      "url": "https://images.unsplash.com/photo-1541370976299-4d24ebbc9077?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "italy-venice",
+      "city": "Venice",
+      "country": "Italy",
+      "url": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "spain-barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "spain-madrid",
+      "city": "Madrid",
+      "country": "Spain",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "spain-seville",
+      "city": "Seville",
+      "country": "Spain",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "germany-berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "germany-munich",
+      "city": "Munich",
+      "country": "Germany",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "germany-hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "greece-athens",
+      "city": "Athens",
+      "country": "Greece",
+      "url": "https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "greece-santorini",
+      "city": "Santorini",
+      "country": "Greece",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "greece-crete",
+      "city": "Crete",
+      "country": "Greece",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "morocco-marrakech",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "morocco-fes",
+      "city": "Fes",
+      "country": "Morocco",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "morocco-casablanca",
+      "city": "Casablanca",
+      "country": "Morocco",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "morocco-essaouira",
+      "city": "Essaouira",
+      "country": "Morocco",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "egypt-cairo",
+      "city": "Cairo",
+      "country": "Egypt",
+      "url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "egypt-luxor",
+      "city": "Luxor",
+      "country": "Egypt",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "egypt-aswan",
+      "city": "Aswan",
+      "country": "Egypt",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "egypt-sharm-el-sheikh",
+      "city": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-africa-cape-town",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-africa-johannesburg",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-africa-durban",
+      "city": "Durban",
+      "country": "South Africa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-africa-stellenbosch",
+      "city": "Stellenbosch",
+      "country": "South Africa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tanzania-arusha",
+      "city": "Arusha",
+      "country": "Tanzania",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tanzania-zanzibar",
+      "city": "Zanzibar",
+      "country": "Tanzania",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tanzania-dar-es-salaam",
+      "city": "Dar es Salaam",
+      "country": "Tanzania",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tanzania-moshi",
+      "city": "Moshi",
+      "country": "Tanzania",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "thailand-bangkok",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "url": "https://images.unsplash.com/photo-1508004680771-708b02aabdc0?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "thailand-chiang-mai",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "thailand-phuket",
+      "city": "Phuket",
+      "country": "Thailand",
+      "url": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "thailand-krabi",
+      "city": "Krabi",
+      "country": "Thailand",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "india-delhi",
+      "city": "Delhi",
+      "country": "India",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "india-jaipur",
+      "city": "Jaipur",
+      "country": "India",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "india-mumbai",
+      "city": "Mumbai",
+      "country": "India",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vietnam-hanoi",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vietnam-ho-chi-minh-city",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vietnam-hoi-an",
+      "city": "Hoi An",
+      "country": "Vietnam",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "indonesia-bali",
+      "city": "Bali",
+      "country": "Indonesia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "indonesia-jakarta",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "indonesia-yogyakarta",
+      "city": "Yogyakarta",
+      "country": "Indonesia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "fiji-nadi",
+      "city": "Nadi",
+      "country": "Fiji",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "fiji-suva",
+      "city": "Suva",
+      "country": "Fiji",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "fiji-denarau-island",
+      "city": "Denarau Island",
+      "country": "Fiji",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "panama-panama-city",
+      "city": "Panama City",
+      "country": "Panama",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "panama-bocas-del-toro",
+      "city": "Bocas del Toro",
+      "country": "Panama",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "panama-boquete",
+      "city": "Boquete",
+      "country": "Panama",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "jamaica-montego-bay",
+      "city": "Montego Bay",
+      "country": "Jamaica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "jamaica-negril",
+      "city": "Negril",
+      "country": "Jamaica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "jamaica-ocho-rios",
+      "city": "Ocho Rios",
+      "country": "Jamaica",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "dominican-republic-punta-cana",
+      "city": "Punta Cana",
+      "country": "Dominican Republic",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "dominican-republic-santo-domingo",
+      "city": "Santo Domingo",
+      "country": "Dominican Republic",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "dominican-republic-puerto-plata",
+      "city": "Puerto Plata",
+      "country": "Dominican Republic",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ecuador-quito",
+      "city": "Quito",
+      "country": "Ecuador",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ecuador-guayaquil",
+      "city": "Guayaquil",
+      "country": "Ecuador",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ecuador-cuenca",
+      "city": "Cuenca",
+      "country": "Ecuador",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "bolivia-la-paz",
+      "city": "La Paz",
+      "country": "Bolivia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "bolivia-uyuni",
+      "city": "Uyuni",
+      "country": "Bolivia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "bolivia-sucre",
+      "city": "Sucre",
+      "country": "Bolivia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "portugal-lisbon",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "url": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "portugal-porto",
+      "city": "Porto",
+      "country": "Portugal",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "portugal-faro",
+      "city": "Faro",
+      "country": "Portugal",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-kingdom-london",
+      "city": "London",
+      "country": "United Kingdom",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-kingdom-edinburgh",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-kingdom-bath",
+      "city": "Bath",
+      "country": "United Kingdom",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "netherlands-amsterdam",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "url": "https://images.unsplash.com/photo-1534351590666-13e3e9a7b501?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "netherlands-rotterdam",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "netherlands-the-hague",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "switzerland-zurich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "switzerland-lucerne",
+      "city": "Lucerne",
+      "country": "Switzerland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "switzerland-interlaken",
+      "city": "Interlaken",
+      "country": "Switzerland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tunisia-tunis",
+      "city": "Tunis",
+      "country": "Tunisia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tunisia-hammamet",
+      "city": "Hammamet",
+      "country": "Tunisia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tunisia-sousse",
+      "city": "Sousse",
+      "country": "Tunisia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uganda-kampala",
+      "city": "Kampala",
+      "country": "Uganda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uganda-entebbe",
+      "city": "Entebbe",
+      "country": "Uganda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uganda-jinja",
+      "city": "Jinja",
+      "country": "Uganda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "namibia-windhoek",
+      "city": "Windhoek",
+      "country": "Namibia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "namibia-swakopmund",
+      "city": "Swakopmund",
+      "country": "Namibia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "namibia-sossusvlei",
+      "city": "Sossusvlei",
+      "country": "Namibia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-korea-seoul",
+      "city": "Seoul",
+      "country": "South Korea",
+      "url": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "south-korea-busan",
+      "city": "Busan",
+      "country": "South Korea",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "south-korea-jeju",
+      "city": "Jeju",
+      "country": "South Korea",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "malaysia-kuala-lumpur",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "malaysia-penang",
+      "city": "Penang",
+      "country": "Malaysia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "malaysia-langkawi",
+      "city": "Langkawi",
+      "country": "Malaysia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "singapore-marina-bay",
+      "city": "Marina Bay",
+      "country": "Singapore",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "singapore-sentosa",
+      "city": "Sentosa",
+      "country": "Singapore",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "singapore-chinatown",
+      "city": "Chinatown",
+      "country": "Singapore",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "philippines-manila",
+      "city": "Manila",
+      "country": "Philippines",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "philippines-cebu",
+      "city": "Cebu",
+      "country": "Philippines",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "philippines-el-nido",
+      "city": "El Nido",
+      "country": "Philippines",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "nepal-kathmandu",
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "nepal-pokhara",
+      "city": "Pokhara",
+      "country": "Nepal",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "nepal-chitwan",
+      "city": "Chitwan",
+      "country": "Nepal",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "samoa-apia",
+      "city": "Apia",
+      "country": "Samoa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "samoa-upolu",
+      "city": "Upolu",
+      "country": "Samoa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "samoa-savaii",
+      "city": "Savaii",
+      "country": "Samoa",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vanuatu-port-vila",
+      "city": "Port Vila",
+      "country": "Vanuatu",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vanuatu-espiritu-santo",
+      "city": "Espiritu Santo",
+      "country": "Vanuatu",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "vanuatu-tanna",
+      "city": "Tanna",
+      "country": "Vanuatu",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "papua-new-guinea-port-moresby",
+      "city": "Port Moresby",
+      "country": "Papua New Guinea",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "papua-new-guinea-madang",
+      "city": "Madang",
+      "country": "Papua New Guinea",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "papua-new-guinea-rabaul",
+      "city": "Rabaul",
+      "country": "Papua New Guinea",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "guatemala-antigua-guatemala",
+      "city": "Antigua Guatemala",
+      "country": "Guatemala",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "guatemala-guatemala-city",
+      "city": "Guatemala City",
+      "country": "Guatemala",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "guatemala-flores",
+      "city": "Flores",
+      "country": "Guatemala",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "belize-san-pedro",
+      "city": "San Pedro",
+      "country": "Belize",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "belize-caye-caulker",
+      "city": "Caye Caulker",
+      "country": "Belize",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "belize-san-ignacio",
+      "city": "San Ignacio",
+      "country": "Belize",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cuba-havana",
+      "city": "Havana",
+      "country": "Cuba",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cuba-trinidad",
+      "city": "Trinidad",
+      "country": "Cuba",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cuba-varadero",
+      "city": "Varadero",
+      "country": "Cuba",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uruguay-montevideo",
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uruguay-punta-del-este",
+      "city": "Punta del Este",
+      "country": "Uruguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "uruguay-colonia-del-sacramento",
+      "city": "Colonia del Sacramento",
+      "country": "Uruguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "paraguay-asuncion",
+      "city": "Asuncion",
+      "country": "Paraguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "paraguay-encarnacion",
+      "city": "Encarnacion",
+      "country": "Paraguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "paraguay-ciudad-del-este",
+      "city": "Ciudad del Este",
+      "country": "Paraguay",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "austria-vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "austria-salzburg",
+      "city": "Salzburg",
+      "country": "Austria",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "austria-innsbruck",
+      "city": "Innsbruck",
+      "country": "Austria",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "croatia-dubrovnik",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "url": "https://images.unsplash.com/photo-1555990538-1e6c7b4d5c64?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "croatia-split",
+      "city": "Split",
+      "country": "Croatia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "croatia-zagreb",
+      "city": "Zagreb",
+      "country": "Croatia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "turkiye-istanbul",
+      "city": "Istanbul",
+      "country": "Türkiye",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "turkiye-cappadocia",
+      "city": "Cappadocia",
+      "country": "Türkiye",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "turkiye-antalya",
+      "city": "Antalya",
+      "country": "Türkiye",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ireland-dublin",
+      "city": "Dublin",
+      "country": "Ireland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ireland-galway",
+      "city": "Galway",
+      "country": "Ireland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "ireland-cork",
+      "city": "Cork",
+      "country": "Ireland",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "botswana-maun",
+      "city": "Maun",
+      "country": "Botswana",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "botswana-kasane",
+      "city": "Kasane",
+      "country": "Botswana",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "botswana-gaborone",
+      "city": "Gaborone",
+      "country": "Botswana",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "rwanda-kigali",
+      "city": "Kigali",
+      "country": "Rwanda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "rwanda-musanze",
+      "city": "Musanze",
+      "country": "Rwanda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "rwanda-gisenyi",
+      "city": "Gisenyi",
+      "country": "Rwanda",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "zambia-livingstone",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "zambia-lusaka",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "zambia-south-luangwa",
+      "city": "South Luangwa",
+      "country": "Zambia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cambodia-siem-reap",
+      "city": "Siem Reap",
+      "country": "Cambodia",
+      "url": "https://images.unsplash.com/photo-1602643163983-ed0babc39797?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "cambodia-phnom-penh",
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cambodia-kampot",
+      "city": "Kampot",
+      "country": "Cambodia",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "sri-lanka-colombo",
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "sri-lanka-kandy",
+      "city": "Kandy",
+      "country": "Sri Lanka",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "sri-lanka-ella",
+      "city": "Ella",
+      "country": "Sri Lanka",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-arab-emirates-dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "united-arab-emirates-abu-dhabi",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "united-arab-emirates-sharjah",
+      "city": "Sharjah",
+      "country": "United Arab Emirates",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "jordan-amman",
+      "city": "Amman",
+      "country": "Jordan",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "jordan-petra",
+      "city": "Petra",
+      "country": "Jordan",
+      "url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85",
+      "status": "candidate"
+    },
+    {
+      "key": "jordan-wadi-rum",
+      "city": "Wadi Rum",
+      "country": "Jordan",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "taiwan-taipei",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "taiwan-kaohsiung",
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "taiwan-taichung",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tonga-nuku-alofa",
+      "city": "Nuku'alofa",
+      "country": "Tonga",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tonga-vava-u",
+      "city": "Vava'u",
+      "country": "Tonga",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "tonga-ha-apai",
+      "city": "Ha'apai",
+      "country": "Tonga",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "solomon-islands-honiara",
+      "city": "Honiara",
+      "country": "Solomon Islands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "solomon-islands-gizo",
+      "city": "Gizo",
+      "country": "Solomon Islands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "solomon-islands-munda",
+      "city": "Munda",
+      "country": "Solomon Islands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cook-islands-rarotonga",
+      "city": "Rarotonga",
+      "country": "Cook Islands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cook-islands-aitutaki",
+      "city": "Aitutaki",
+      "country": "Cook Islands",
+      "url": null,
+      "status": "needs-review"
+    },
+    {
+      "key": "cook-islands-muri",
+      "city": "Muri",
+      "country": "Cook Islands",
+      "url": null,
+      "status": "needs-review"
+    }
+  ]
+}
