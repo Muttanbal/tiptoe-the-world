@@ -56,49 +56,28 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 // Wikimedia's encyclopaedia thumbnails are requested by exact city and country.
 // Missing/ambiguous photos leave an attractive labelled placeholder, not a wrong photo.
 /* Destination photo audit: each city has its own resolved image and no country-image inheritance. */
-const cityPhotoSeen=new Set();
+/* Permanent city photo registry: static, reviewable and no runtime encyclopaedia lookups. */
 const cityPhotoCache=new Map();
-const cityPhotoPending=new Map();
-const cityArticleOverrides={'New York':'New York City','Quebec City':'Quebec City','Washington DC':'Washington, D.C.','Mexico City':'Mexico City','Ho Chi Minh City':'Ho Chi Minh City','Siem Reap':'Siem Reap','Ella':'Ella, Sri Lanka','Kandy':'Kandy','Colombo':'Colombo'};
+const cityPhotoManifestPromise=fetch('./city-photo-manifest.json').then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>new Map(m.cities.map(x=>[x.key,x]))).catch(()=>new Map());
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
- if(cityPhotoPending.has(key))return cityPhotoPending.get(key);
- const task=(async()=>{
-  const article=cityArticleOverrides[name]||name;
-  const candidates=[article,article+', '+country,article+' ('+country+')'];
-  let selected=null;
-  for(const title of candidates){
-   try{
-    const api='https://en.wikipedia.org/w/api.php?'+new URLSearchParams({action:'query',titles:title,prop:'pageimages',pithumbsize:'1200',format:'json',origin:'*'});
-    const response=await fetch(api);
-    if(!response.ok)continue;
-    const data=await response.json();
-    const page=Object.values(data.query?.pages||{})[0];
-    if(!page||page.missing!==undefined||!page.thumbnail?.source)continue;
-    const url=page.thumbnail.source;
-    if(cityPhotoSeen.has(url))continue;
-    selected=url;break;
-   }catch(e){}
-  }
-  if(selected)cityPhotoSeen.add(selected);
-  cityPhotoCache.set(key,selected);
-  cityPhotoPending.delete(key);
-  return selected;
- })();
- cityPhotoPending.set(key,task);
- return task;
+ const photo=await cityPhotoManifestPromise;
+ const match=Array.from(photo.values()).find(x=>x.city===name&&x.country===country);
+ const url=match?.url||null;
+ cityPhotoCache.set(key,url);
+ return url;
 }
 function installCityPhoto(element,name,country){
  element.classList.add('city-photo-loading');
  element.style.backgroundImage='none';
  element.setAttribute('role','img');
- element.setAttribute('aria-label','Photograph of '+name+', '+country);
+ element.setAttribute('aria-label','Image for '+name+', '+country);
  element.dataset.cityLabel=name;
  cityPhotoFor(name,country).then(url=>{
   element.classList.remove('city-photo-loading');
   if(url){element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.add('city-photo-loaded')}
-  else{element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph unavailable')}
+  else{element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph awaiting verification')}
  });
 }
 /* Static country imagery: no runtime API lookup and no blank cards. */
