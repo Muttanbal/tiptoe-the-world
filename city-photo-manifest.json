@@ -195,9 +195,9 @@
       "key": "mexico-oaxaca",
       "city": "Oaxaca",
       "country": "Mexico",
-      "url": "https://unsplash.com/photos/rI9a2uB0K7s/download?force=true&w=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Oaxaca de Juárez street scene candidate from Unsplash; destination and license must be confirmed against source. Rendering not checked."
+      "url": null,
+      "status": "needs-review",
+      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
     },
     {
       "key": "costa-rica-san-jose",
@@ -232,9 +232,9 @@
       "key": "brazil-sao-paulo",
       "city": "Sao Paulo",
       "country": "Brazil",
-      "url": "https://unsplash.com/photos/z8O3FqJ7t9M/download?force=true&w=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "São Paulo skyline candidate from Unsplash; destination and license must be confirmed against source. Rendering not checked."
+      "url": null,
+      "status": "needs-review",
+      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
     },
     {
       "key": "brazil-salvador",
@@ -376,9 +376,9 @@
       "key": "spain-seville",
       "city": "Seville",
       "country": "Spain",
-      "url": "https://unsplash.com/photos/fJ4fWfY4pqs/download?force=true&w=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Seville historic centre candidate from Unsplash; destination and license must be confirmed against source. Rendering not checked."
+      "url": null,
+      "status": "needs-review",
+      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
     },
     {
       "key": "germany-berlin",
