@@ -287,8 +287,9 @@
       "key": "argentina-ushuaia",
       "city": "Ushuaia",
       "country": "Argentina",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/eA_WK_DIaQ4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Caio Portela; city across water, Ushuaia; https://unsplash.com/photos/eA_WK_DIaQ4; Unsplash License; image rendering not yet checked."
     },
     {
       "key": "argentina-el-calafate",
@@ -325,8 +326,9 @@
       "key": "colombia-bogota",
       "city": "Bogota",
       "country": "Colombia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/flPmLzeIfx8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Random Institute; aerial Bogotá cityscape; https://unsplash.com/photos/flPmLzeIfx8; Unsplash License; image rendering not yet checked."
     },
     {
       "key": "colombia-medellin",
