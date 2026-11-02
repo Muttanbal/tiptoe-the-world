@@ -803,8 +803,9 @@
       "key": "portugal-porto",
       "city": "Porto",
       "country": "Portugal",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/kScSQfXvCxA/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Gustavo Soares, Ponte Dom Luís I, Porto, Portugal; https://unsplash.com/photos/a-bridge-over-a-river-with-a-city-in-the-background-kScSQfXvCxA ; Unsplash License; direct rendering pending."
     },
     {
       "key": "portugal-faro",
@@ -817,8 +818,9 @@
       "key": "united-kingdom-london",
       "city": "London",
       "country": "United Kingdom",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/RCLO9vhMqxM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Polina Sushko, Tower Bridge, London, United Kingdom; https://unsplash.com/photos/tower-bridge-in-london-RCLO9vhMqxM ; Unsplash License; direct rendering pending."
     },
     {
       "key": "united-kingdom-edinburgh",
