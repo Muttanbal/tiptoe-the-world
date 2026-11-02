@@ -135,7 +135,7 @@ async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  const photo=await cityPhotoManifestPromise;
- const match=Array.from(photo.values()).find(x=>x.city===name&&x.country===country);
+ const match=photo.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')) || Array.from(photo.values()).find(x=>x.city===name&&x.country===country);
  const url=(match?.status === 'verified' && match?.url) || null;
  cityPhotoCache.set(key,url);
  return url;
