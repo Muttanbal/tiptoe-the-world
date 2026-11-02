@@ -1129,8 +1129,9 @@
       "key": "samoa-savaii",
       "city": "Savaii",
       "country": "Samoa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/iGY1BeCXfCM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nik Schmidt; Savai'i Samoa beach and palm trees at sunset; https://unsplash.com/photos/a-beach-with-palm-trees-and-the-sun-setting-iGY1BeCXfCM; Unsplash License; source page location verified; download and rendering not tested."
     },
     {
       "key": "vanuatu-port-vila",
@@ -1144,8 +1145,9 @@
       "key": "vanuatu-espiritu-santo",
       "city": "Espiritu Santo",
       "country": "Vanuatu",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/9OJwwOsQPCQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Dillon Hunt; Espiritu Santo Vanuatu aerial tropical island and turquoise sea; https://unsplash.com/photos/lush-green-island-surrounded-by-clear-turquoise-water-9OJwwOsQPCQ; Unsplash License; source page location verified; download and rendering not tested."
     },
     {
       "key": "vanuatu-tanna",
@@ -1456,8 +1458,9 @@
       "key": "zambia-south-luangwa",
       "city": "South Luangwa",
       "country": "Zambia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/tWsKSIg2gxM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Dmitrii Zhodzishskii; giraffes crossing dirt road in South Luangwa National Park Zambia; https://unsplash.com/photos/two-giraffes-cross-the-dirt-road-with-a-car-tWsKSIg2gxM; Unsplash License; source page location verified; download and rendering not tested."
     },
     {
       "key": "cambodia-siem-reap",
