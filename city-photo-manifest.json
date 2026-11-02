@@ -280,8 +280,9 @@
       "key": "argentina-bariloche",
       "city": "Bariloche",
       "country": "Argentina",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/UgOHYo4Zu3I/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ruben Mavarez; lakes and mountains, Bariloche, Argentina; https://unsplash.com/photos/UgOHYo4Zu3I; Unsplash License; render pending."
     },
     {
       "key": "argentina-ushuaia",
@@ -334,8 +335,9 @@
       "key": "colombia-medellin",
       "city": "Medellin",
       "country": "Colombia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/XzwoM7cJqj4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nicolás Pinilla; elevated city view, Medellín, Colombia; https://unsplash.com/photos/XzwoM7cJqj4; Unsplash License; render pending."
     },
     {
       "key": "colombia-cartagena",
@@ -460,8 +462,9 @@
       "key": "morocco-casablanca",
       "city": "Casablanca",
       "country": "Morocco",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ymEGRkA25zQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Fahad Al Rabbani Jillani; Hassan II Mosque, Casablanca, Morocco; https://unsplash.com/photos/ymEGRkA25zQ; Unsplash License; render pending."
     },
     {
       "key": "morocco-essaouira",
