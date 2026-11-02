@@ -1,6 +1,10 @@
 name: Prepare destination photo review
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/prepare-photo-review.yml'
 permissions:
   contents: read
 jobs:
