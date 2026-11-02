@@ -601,8 +601,9 @@
       "key": "india-delhi",
       "city": "Delhi",
       "country": "India",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/szx7jO2sKHQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Priyanshu Shankhdhar; India Gate, New Delhi; https://unsplash.com/photos/india-gate-monument-in-new-delhi-szx7jO2sKHQ ; Unsplash License; render pending."
     },
     {
       "key": "india-jaipur",
@@ -616,8 +617,9 @@
       "key": "india-mumbai",
       "city": "Mumbai",
       "country": "India",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/v4tYukU-N70/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Daniel Dara; Gateway of India, Mumbai; https://unsplash.com/photos/a-large-group-of-people-outside-a-large-stone-building-with-gateway-of-india-in-the-background-v4tYukU-N70 ; Unsplash License; render pending."
     },
     {
       "key": "vietnam-hanoi",
@@ -993,8 +995,9 @@
       "key": "singapore-marina-bay",
       "city": "Marina Bay",
       "country": "Singapore",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Uii70ORiFPE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meriç Dağlı; Marina Bay Sands, Singapore; https://unsplash.com/photos/marina-bay-sands-singapore-Uii70ORiFPE ; Unsplash License; render pending."
     },
     {
       "key": "singapore-sentosa",
