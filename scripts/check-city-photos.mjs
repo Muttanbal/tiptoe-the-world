@@ -17,7 +17,7 @@ for(const x of entries)statuses[x.status]=(statuses[x.status]||0)+1;
 console.log(JSON.stringify({total:entries.length,missingUrl:entries.filter(x=>!x.url).length,statuses,errors},null,2));
 
 if(process.argv.includes('--check-remote')){
- const verified=entries.filter(x=>x.status==='verified');
+ const verified=entries.filter(x=>x.url);
  const remote=[];
  for(const x of verified){
   try{
@@ -25,14 +25,14 @@ if(process.argv.includes('--check-remote')){
    const type=response.headers.get('content-type')||'';
    const valid=response.ok&&type.toLowerCase().startsWith('image/');
    if(response.body)await response.body.cancel();
-   remote.push({city:x.city,country:x.country,status:response.status,contentType:type,valid});
-   if(!valid)errors.push('Verified image did not return an image: '+x.key+' (HTTP '+response.status+', '+type+')');
+   remote.push({city:x.city,country:x.country,photoStatus:x.status,status:response.status,contentType:type,valid});
+   if(!valid && x.status==='verified')errors.push('Verified image did not return an image: '+x.key+' (HTTP '+response.status+', '+type+')');
   }catch(e){
-   remote.push({city:x.city,country:x.country,error:String(e),valid:false});
-   errors.push('Verified image request failed: '+x.key);
+   remote.push({city:x.city,country:x.country,photoStatus:x.status,error:String(e),valid:false});
+   if(x.status==='verified')errors.push('Verified image request failed: '+x.key);
   }
  }
- console.log('Remote verified-photo checks:',JSON.stringify(remote,null,2));
+ console.log('Remote photo checks (candidates are informational, not visually verified):',JSON.stringify(remote,null,2));
 }
 if(errors.length)process.exitCode=1;
 
