@@ -16,9 +16,9 @@ small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
 <div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="copyfail" type="button">Copy failed photo report</button></div>
 <p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
 <script>
-let records=[];const failedUrls=new Set();
+let records=[];const failedUrls=new Set();const loadedUrls=new Set();
 const grid=document.getElementById('grid'),count=document.getElementById('count');
-function updateCount(){const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=grid.children.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing · '+failedUrls.size+' failed to load in this session';}
+function updateCount(){const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=grid.children.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing · '+failedUrls.size+' failed to load in this session · '+loadedUrls.size+' loaded in this session';}
 function render(){
  const term=document.getElementById('search').value.trim().toLowerCase(),filter=document.getElementById('filter').value;
  const selected=records.filter(x=>(x.city+' '+x.country).toLowerCase().includes(term)&&
@@ -27,7 +27,7 @@ function render(){
  for(const x of selected){
   const card=document.createElement('article'),preview=document.createElement('div'),details=document.createElement('div');
   preview.className='preview';details.className='details';
-  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{failedUrls.add(x.key);img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';updateCount();};img.onload=()=>{card.dataset.imageResult='loaded';};img.src=x.url;preview.append(img)}
+  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{failedUrls.add(x.key);img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';updateCount();};img.onload=()=>{loadedUrls.add(x.key);card.dataset.imageResult='loaded';updateCount();};img.src=x.url;preview.append(img)}
   else preview.textContent='No photograph assigned';
   const title=document.createElement('strong');title.textContent=x.city+', '+x.country;
   const br=document.createElement('br'),status=document.createElement('span');status.className='status';status.textContent=x.status||'unknown';
