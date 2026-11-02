@@ -20,3 +20,5 @@ jobs:
           node-version: '22'
       - name: Check city photo manifest integrity
         run: node scripts/check-city-photos.mjs
+      - name: Test verified image URLs
+        run: node scripts/check-city-photos.mjs --check-remote
