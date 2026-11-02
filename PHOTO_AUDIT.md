@@ -1,0 +1,223 @@
+# Destination photography audit
+
+Manifest entries: 209
+Verified: 0
+Without photo URL: 173
+
+This report records outstanding work, not completed visual verification. Do not set `verified` without checking location, image render, and rights.
+
+## Destinations needing photographs
+
+- Mombasa, Kenya (kenya-mombasa)
+- Diani Beach, Kenya (kenya-diani-beach)
+- Vancouver, Canada (canada-vancouver)
+- Montreal, Canada (canada-montreal)
+- Quebec City, Canada (canada-quebec-city)
+- Mexico City, Mexico (mexico-mexico-city)
+- Cancun, Mexico (mexico-cancun)
+- Oaxaca, Mexico (mexico-oaxaca)
+- San Jose, Costa Rica (costa-rica-san-jose)
+- La Fortuna, Costa Rica (costa-rica-la-fortuna)
+- Manuel Antonio, Costa Rica (costa-rica-manuel-antonio)
+- Rio de Janeiro, Brazil (brazil-rio-de-janeiro)
+- Sao Paulo, Brazil (brazil-sao-paulo)
+- Salvador, Brazil (brazil-salvador)
+- Florianópolis, Brazil (brazil-florianopolis)
+- Recife, Brazil (brazil-recife)
+- Buenos Aires, Argentina (argentina-buenos-aires)
+- Mendoza, Argentina (argentina-mendoza)
+- Bariloche, Argentina (argentina-bariloche)
+- Ushuaia, Argentina (argentina-ushuaia)
+- El Calafate, Argentina (argentina-el-calafate)
+- Santiago, Chile (chile-santiago)
+- Valparaiso, Chile (chile-valparaiso)
+- San Pedro de Atacama, Chile (chile-san-pedro-de-atacama)
+- Bogota, Colombia (colombia-bogota)
+- Medellin, Colombia (colombia-medellin)
+- Cartagena, Colombia (colombia-cartagena)
+- Madrid, Spain (spain-madrid)
+- Seville, Spain (spain-seville)
+- Berlin, Germany (germany-berlin)
+- Munich, Germany (germany-munich)
+- Hamburg, Germany (germany-hamburg)
+- Santorini, Greece (greece-santorini)
+- Crete, Greece (greece-crete)
+- Casablanca, Morocco (morocco-casablanca)
+- Luxor, Egypt (egypt-luxor)
+- Aswan, Egypt (egypt-aswan)
+- Sharm el-Sheikh, Egypt (egypt-sharm-el-sheikh)
+- Cape Town, South Africa (south-africa-cape-town)
+- Johannesburg, South Africa (south-africa-johannesburg)
+- Durban, South Africa (south-africa-durban)
+- Stellenbosch, South Africa (south-africa-stellenbosch)
+- Arusha, Tanzania (tanzania-arusha)
+- Zanzibar, Tanzania (tanzania-zanzibar)
+- Dar es Salaam, Tanzania (tanzania-dar-es-salaam)
+- Moshi, Tanzania (tanzania-moshi)
+- Chiang Mai, Thailand (thailand-chiang-mai)
+- Krabi, Thailand (thailand-krabi)
+- Delhi, India (india-delhi)
+- Jaipur, India (india-jaipur)
+- Mumbai, India (india-mumbai)
+- Hanoi, Vietnam (vietnam-hanoi)
+- Ho Chi Minh City, Vietnam (vietnam-ho-chi-minh-city)
+- Hoi An, Vietnam (vietnam-hoi-an)
+- Bali, Indonesia (indonesia-bali)
+- Jakarta, Indonesia (indonesia-jakarta)
+- Yogyakarta, Indonesia (indonesia-yogyakarta)
+- Nadi, Fiji (fiji-nadi)
+- Suva, Fiji (fiji-suva)
+- Denarau Island, Fiji (fiji-denarau-island)
+- Panama City, Panama (panama-panama-city)
+- Bocas del Toro, Panama (panama-bocas-del-toro)
+- Boquete, Panama (panama-boquete)
+- Montego Bay, Jamaica (jamaica-montego-bay)
+- Negril, Jamaica (jamaica-negril)
+- Ocho Rios, Jamaica (jamaica-ocho-rios)
+- Punta Cana, Dominican Republic (dominican-republic-punta-cana)
+- Santo Domingo, Dominican Republic (dominican-republic-santo-domingo)
+- Puerto Plata, Dominican Republic (dominican-republic-puerto-plata)
+- Quito, Ecuador (ecuador-quito)
+- Guayaquil, Ecuador (ecuador-guayaquil)
+- Cuenca, Ecuador (ecuador-cuenca)
+- La Paz, Bolivia (bolivia-la-paz)
+- Uyuni, Bolivia (bolivia-uyuni)
+- Sucre, Bolivia (bolivia-sucre)
+- Porto, Portugal (portugal-porto)
+- Faro, Portugal (portugal-faro)
+- London, United Kingdom (united-kingdom-london)
+- Edinburgh, United Kingdom (united-kingdom-edinburgh)
+- Bath, United Kingdom (united-kingdom-bath)
+- Rotterdam, Netherlands (netherlands-rotterdam)
+- The Hague, Netherlands (netherlands-the-hague)
+- Zurich, Switzerland (switzerland-zurich)
+- Lucerne, Switzerland (switzerland-lucerne)
+- Interlaken, Switzerland (switzerland-interlaken)
+- Tunis, Tunisia (tunisia-tunis)
+- Hammamet, Tunisia (tunisia-hammamet)
+- Sousse, Tunisia (tunisia-sousse)
+- Kampala, Uganda (uganda-kampala)
+- Entebbe, Uganda (uganda-entebbe)
+- Jinja, Uganda (uganda-jinja)
+- Windhoek, Namibia (namibia-windhoek)
+- Swakopmund, Namibia (namibia-swakopmund)
+- Sossusvlei, Namibia (namibia-sossusvlei)
+- Busan, South Korea (south-korea-busan)
+- Jeju, South Korea (south-korea-jeju)
+- Kuala Lumpur, Malaysia (malaysia-kuala-lumpur)
+- Penang, Malaysia (malaysia-penang)
+- Langkawi, Malaysia (malaysia-langkawi)
+- Marina Bay, Singapore (singapore-marina-bay)
+- Sentosa, Singapore (singapore-sentosa)
+- Chinatown, Singapore (singapore-chinatown)
+- Manila, Philippines (philippines-manila)
+- Cebu, Philippines (philippines-cebu)
+- El Nido, Philippines (philippines-el-nido)
+- Kathmandu, Nepal (nepal-kathmandu)
+- Pokhara, Nepal (nepal-pokhara)
+- Chitwan, Nepal (nepal-chitwan)
+- Apia, Samoa (samoa-apia)
+- Upolu, Samoa (samoa-upolu)
+- Savaii, Samoa (samoa-savaii)
+- Port Vila, Vanuatu (vanuatu-port-vila)
+- Espiritu Santo, Vanuatu (vanuatu-espiritu-santo)
+- Tanna, Vanuatu (vanuatu-tanna)
+- Port Moresby, Papua New Guinea (papua-new-guinea-port-moresby)
+- Madang, Papua New Guinea (papua-new-guinea-madang)
+- Rabaul, Papua New Guinea (papua-new-guinea-rabaul)
+- Antigua Guatemala, Guatemala (guatemala-antigua-guatemala)
+- Guatemala City, Guatemala (guatemala-guatemala-city)
+- Flores, Guatemala (guatemala-flores)
+- San Pedro, Belize (belize-san-pedro)
+- Caye Caulker, Belize (belize-caye-caulker)
+- San Ignacio, Belize (belize-san-ignacio)
+- Havana, Cuba (cuba-havana)
+- Trinidad, Cuba (cuba-trinidad)
+- Varadero, Cuba (cuba-varadero)
+- Montevideo, Uruguay (uruguay-montevideo)
+- Punta del Este, Uruguay (uruguay-punta-del-este)
+- Colonia del Sacramento, Uruguay (uruguay-colonia-del-sacramento)
+- Asuncion, Paraguay (paraguay-asuncion)
+- Encarnacion, Paraguay (paraguay-encarnacion)
+- Ciudad del Este, Paraguay (paraguay-ciudad-del-este)
+- Vienna, Austria (austria-vienna)
+- Salzburg, Austria (austria-salzburg)
+- Innsbruck, Austria (austria-innsbruck)
+- Split, Croatia (croatia-split)
+- Zagreb, Croatia (croatia-zagreb)
+- Istanbul, Türkiye (turkiye-istanbul)
+- Cappadocia, Türkiye (turkiye-cappadocia)
+- Antalya, Türkiye (turkiye-antalya)
+- Dublin, Ireland (ireland-dublin)
+- Galway, Ireland (ireland-galway)
+- Cork, Ireland (ireland-cork)
+- Maun, Botswana (botswana-maun)
+- Kasane, Botswana (botswana-kasane)
+- Gaborone, Botswana (botswana-gaborone)
+- Kigali, Rwanda (rwanda-kigali)
+- Musanze, Rwanda (rwanda-musanze)
+- Gisenyi, Rwanda (rwanda-gisenyi)
+- Livingstone, Zambia (zambia-livingstone)
+- Lusaka, Zambia (zambia-lusaka)
+- South Luangwa, Zambia (zambia-south-luangwa)
+- Phnom Penh, Cambodia (cambodia-phnom-penh)
+- Kampot, Cambodia (cambodia-kampot)
+- Colombo, Sri Lanka (sri-lanka-colombo)
+- Kandy, Sri Lanka (sri-lanka-kandy)
+- Ella, Sri Lanka (sri-lanka-ella)
+- Abu Dhabi, United Arab Emirates (united-arab-emirates-abu-dhabi)
+- Sharjah, United Arab Emirates (united-arab-emirates-sharjah)
+- Amman, Jordan (jordan-amman)
+- Wadi Rum, Jordan (jordan-wadi-rum)
+- Taipei, Taiwan (taiwan-taipei)
+- Kaohsiung, Taiwan (taiwan-kaohsiung)
+- Taichung, Taiwan (taiwan-taichung)
+- Nuku'alofa, Tonga (tonga-nuku-alofa)
+- Vava'u, Tonga (tonga-vava-u)
+- Ha'apai, Tonga (tonga-ha-apai)
+- Honiara, Solomon Islands (solomon-islands-honiara)
+- Gizo, Solomon Islands (solomon-islands-gizo)
+- Munda, Solomon Islands (solomon-islands-munda)
+- Rarotonga, Cook Islands (cook-islands-rarotonga)
+- Aitutaki, Cook Islands (cook-islands-aitutaki)
+- Muri, Cook Islands (cook-islands-muri)
+
+## Photographs requiring verification
+
+- New York, United States: candidate — https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1200&q=85
+- Los Angeles, United States: candidate — https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?w=1200&q=85
+- San Francisco, United States: candidate — https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1200&q=85
+- Las Vegas, United States: candidate — https://unsplash.com/photos/PYaP4awj9Uc/download?force=true&w=1200
+- Miami, United States: candidate — https://unsplash.com/photos/xB0nGXZ9GEM/download?force=true&w=1200
+- Chicago, United States: candidate — https://unsplash.com/photos/h54JpqTyIz0/download?force=true&w=1200
+- Boston, United States: candidate — https://unsplash.com/photos/a7PgWOultko/download?force=true&w=1200
+- Seattle, United States: candidate — https://unsplash.com/photos/Z5PTz6BxeiQ/download?force=true&w=1200
+- New Orleans, United States: candidate — https://unsplash.com/photos/UZ-UWBad7gw/download?force=true&w=1200
+- Paris, France: candidate — https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=85
+- Nice, France: candidate — https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=85
+- Lyon, France: candidate-needs-visual-verification — https://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20basilique%20de%20fourvi%C3%A8re.jpg?width=1200
+- Marseille, France: candidate-needs-visual-verification — https://commons.wikimedia.org/wiki/Special:FilePath/Marseille%20Old%20Port%20and%20Notre%20Dame%20de%20la%20Garde.jpg?width=1200
+- Nairobi, Kenya: source-location-and-license-confirmed-render-pending — https://unsplash.com/photos/LTh5pGyvKAM/download?force=true&w=1200
+- Sydney, Australia: candidate-needs-visual-verification — https://unsplash.com/photos/qG2qPRyqPaQ/download?force=true&w=1200
+- Melbourne, Australia: candidate-needs-visual-verification — https://unsplash.com/photos/_gfGS2ywGx8/download?force=true&w=1200
+- Brisbane, Australia: candidate-needs-visual-verification — https://unsplash.com/photos/si5PIMWsFhE/download?force=true&w=1200
+- Toronto, Canada: source-location-and-license-confirmed-render-pending — https://unsplash.com/photos/62UWrTdRq78/download?force=true&w=1200
+- Rome, Italy: candidate — https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200&q=85
+- Florence, Italy: candidate — https://images.unsplash.com/photo-1541370976299-4d24ebbc9077?w=1200&q=85
+- Venice, Italy: candidate — https://images.unsplash.com/photo-1514890547357-a9ee288728e0?w=1200&q=85
+- Barcelona, Spain: source-location-and-license-confirmed-render-pending — https://unsplash.com/photos/np-zCJ6p6Go/download?force=true&w=1200
+- Athens, Greece: candidate — https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&q=85
+- Marrakech, Morocco: candidate-needs-visual-verification — https://commons.wikimedia.org/wiki/Special:FilePath/Marrakesh%2C%20Morocco-%20Jemaa%20el-Fnaa%20square.jpg?width=1100
+- Fes, Morocco: candidate-needs-visual-verification — https://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20view%20of%20the%20Medina%20of%20Fes.jpg?width=1100
+- Essaouira, Morocco: candidate-needs-visual-verification — https://commons.wikimedia.org/wiki/Special:FilePath/Essaouira%20port%2C%20Morocco.jpg?width=1100
+- Cairo, Egypt: candidate — https://images.unsplash.com/photo-1572252009286-268acec5ca0a?w=1200&q=85
+- Bangkok, Thailand: candidate — https://images.unsplash.com/photo-1508004680771-708b02aabdc0?w=1200&q=85
+- Phuket, Thailand: candidate — https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=1200&q=85
+- Lisbon, Portugal: candidate — https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=1200&q=85
+- Amsterdam, Netherlands: candidate — https://images.unsplash.com/photo-1534351590666-13e3e9a7b501?w=1200&q=85
+- Seoul, South Korea: candidate — https://images.unsplash.com/photo-1517154421773-0529f29ea451?w=1200&q=85
+- Dubrovnik, Croatia: candidate — https://images.unsplash.com/photo-1555990538-1e6c7b4d5c64?w=1200&q=85
+- Siem Reap, Cambodia: candidate — https://images.unsplash.com/photo-1602643163983-ed0babc39797?w=1200&q=85
+- Dubai, United Arab Emirates: candidate — https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=85
+- Petra, Jordan: candidate — https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85
+
