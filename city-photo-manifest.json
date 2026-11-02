@@ -1503,8 +1503,8 @@
       "city": "Wellington",
       "country": "New Zealand",
       "url": "https://unsplash.com/photos/HHBXQdC9ksQ/download?force=true&w=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Wolf Zimmermann, Wellington CBD and waterfront, Unsplash License; https://unsplash.com/photos/buildings-near-body-of-water-HHBXQdC9ksQ ; direct image rendering pending"
+      "status": "verified",
+      "source": "Wolf Zimmermann, Wellington CBD and waterfront, Unsplash License. Location and licence confirmed on https://unsplash.com/photos/buildings-near-body-of-water-HHBXQdC9ksQ ; download image rendered and visually inspected 2026-11-02."
     }
   ]
 }
