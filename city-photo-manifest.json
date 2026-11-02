@@ -826,8 +826,9 @@
       "key": "united-kingdom-edinburgh",
       "city": "Edinburgh",
       "country": "United Kingdom",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/LDA2HdvLLJ4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Maxime Galliot; Edinburgh skyline with castle and clock tower; https://unsplash.com/photos/edinburgh-skyline-with-castle-and-clock-tower-LDA2HdvLLJ4 ; Unsplash License; image loading and appearance pending."
     },
     {
       "key": "united-kingdom-bath",
@@ -861,8 +862,9 @@
       "key": "switzerland-zurich",
       "city": "Zurich",
       "country": "Switzerland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/omiTbS-nb_M/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Henrique Ferreira; Limmat River, Zurich old town and Alps; https://unsplash.com/photos/a-river-running-through-a-city-surrounded-by-tall-buildings-omiTbS-nb_M ; Unsplash License; image loading and appearance pending."
     },
     {
       "key": "switzerland-lucerne",
@@ -966,8 +968,9 @@
       "key": "malaysia-kuala-lumpur",
       "city": "Kuala Lumpur",
       "country": "Malaysia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/4gLtZI213Dk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Izuddin Helmi Adnan; Kuala Lumpur Tower and Petronas Towers at night; https://unsplash.com/photos/kuala-lumpur-tower-and-petronas-towers-4gLtZI213Dk ; Unsplash License; image loading and appearance pending."
     },
     {
       "key": "malaysia-penang",
