@@ -19,19 +19,27 @@ console.log(JSON.stringify({total:entries.length,missingUrl:entries.filter(x=>!x
 if(process.argv.includes('--check-remote')){
  const verified=entries.filter(x=>x.url);
  const remote=[];
- for(const x of verified){
-  try{
-   const response=await fetch(x.url,{signal:AbortSignal.timeout(15000),headers:{'User-Agent':'TiptoePhotoAudit/1.0'}});
-   const type=response.headers.get('content-type')||'';
-   const valid=response.ok&&type.toLowerCase().startsWith('image/');
-   if(response.body)await response.body.cancel();
-   remote.push({city:x.city,country:x.country,photoStatus:x.status,status:response.status,contentType:type,valid});
-   if(!valid && x.status==='verified')errors.push('Verified image did not return an image: '+x.key+' (HTTP '+response.status+', '+type+')');
-  }catch(e){
-   remote.push({city:x.city,country:x.country,photoStatus:x.status,error:String(e),valid:false});
-   if(x.status==='verified')errors.push('Verified image request failed: '+x.key);
+ // Check images concurrently to keep the scheduled audit practical as the manifest grows.
+ const concurrency=8;
+ let cursor=0;
+ async function worker(){
+  while(cursor<verified.length){
+   const x=verified[cursor++];
+   try{
+    const response=await fetch(x.url,{signal:AbortSignal.timeout(15000),headers:{'User-Agent':'TiptoePhotoAudit/1.0'}});
+    const type=response.headers.get('content-type')||'';
+    const valid=response.ok&&type.toLowerCase().startsWith('image/');
+    if(response.body)await response.body.cancel();
+    remote.push({key:x.key,city:x.city,country:x.country,photoStatus:x.status,status:response.status,contentType:type,valid});
+    if(!valid && x.status==='verified')errors.push('Verified image did not return an image: '+x.key+' (HTTP '+response.status+', '+type+')');
+   }catch(e){
+    remote.push({key:x.key,city:x.city,country:x.country,photoStatus:x.status,error:String(e),valid:false});
+    if(x.status==='verified')errors.push('Verified image request failed: '+x.key);
+   }
   }
  }
+ await Promise.all(Array.from({length:Math.min(concurrency,verified.length)},()=>worker()));
+ remote.sort((a,b)=>a.key.localeCompare(b.key));
  const failures=remote.filter(x=>!x.valid);
  console.log('Remote photo summary:',JSON.stringify({checked:remote.length,loaded:remote.length-failures.length,failed:failures.length,failedDestinations:failures.map(x=>({city:x.city,country:x.country,status:x.status,error:x.error||x.contentType}))},null,2));
  console.log('Remote photo checks (candidates are informational, not visually verified):',JSON.stringify(remote,null,2));
