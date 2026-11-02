@@ -1131,8 +1131,9 @@
       "key": "guatemala-antigua-guatemala",
       "city": "Antigua Guatemala",
       "country": "Guatemala",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/XOSMdXIWk_I/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "By Topo; Santa Catalina Arch and volcano, Antigua Guatemala; https://unsplash.com/photos/XOSMdXIWk_I ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "guatemala-guatemala-city",
@@ -1253,8 +1254,9 @@
       "key": "austria-innsbruck",
       "city": "Innsbruck",
       "country": "Austria",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/C2nTZ3AiHrU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Dia Diamond; Innsbruck river and Alps; https://unsplash.com/photos/C2nTZ3AiHrU ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "croatia-dubrovnik",
@@ -1371,8 +1373,9 @@
       "key": "zambia-livingstone",
       "city": "Livingstone",
       "country": "Zambia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/N1DUHxo7x58/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Eston Oboch; Victoria Falls, Livingstone; https://unsplash.com/photos/N1DUHxo7x58 ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "zambia-lusaka",
@@ -1399,8 +1402,9 @@
       "key": "cambodia-phnom-penh",
       "city": "Phnom Penh",
       "country": "Cambodia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/evxOM30A3Tk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "René DeAnda; Royal Palace, Phnom Penh; https://unsplash.com/photos/evxOM30A3Tk ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "cambodia-kampot",
@@ -1413,22 +1417,25 @@
       "key": "sri-lanka-colombo",
       "city": "Colombo",
       "country": "Sri Lanka",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/JQmBzNRWwYc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ranmali Kirinde; Colombo skyline across water; https://unsplash.com/photos/JQmBzNRWwYc ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "sri-lanka-kandy",
       "city": "Kandy",
       "country": "Sri Lanka",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/isdvqf04MDk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Chathura Anuradha Subasinghe; Temple of the Tooth, Kandy; https://unsplash.com/photos/isdvqf04MDk ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "sri-lanka-ella",
       "city": "Ella",
       "country": "Sri Lanka",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/5o3ODxRQCfI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Mariana Proença; train crossing Nine Arch Bridge, Ella; https://unsplash.com/photos/5o3ODxRQCfI ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "united-arab-emirates-dubai",
@@ -1456,8 +1463,9 @@
       "key": "jordan-amman",
       "city": "Amman",
       "country": "Jordan",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/t4yAeUQzxXY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Hisham Zayadneh; Amman city panorama from Citadel; https://unsplash.com/photos/t4yAeUQzxXY ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "jordan-petra",
@@ -1471,15 +1479,17 @@
       "key": "jordan-wadi-rum",
       "city": "Wadi Rum",
       "country": "Jordan",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/IxEtV62t1eo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Florin Gorgan; Wadi Rum desert landscape; https://unsplash.com/photos/IxEtV62t1eo ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "taiwan-taipei",
       "city": "Taipei",
       "country": "Taiwan",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/qhu2nFWqVEU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Vas; Taipei 101 skyline from Elephant Mountain; https://unsplash.com/photos/qhu2nFWqVEU ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "taiwan-kaohsiung",
@@ -1541,15 +1551,17 @@
       "key": "cook-islands-rarotonga",
       "city": "Rarotonga",
       "country": "Cook Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/x_Gm6v4peGI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Brooke Staz; Rarotonga beach and palms; https://unsplash.com/photos/x_Gm6v4peGI ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "cook-islands-aitutaki",
       "city": "Aitutaki",
       "country": "Cook Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/PkgzxrkurRw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Christoph Burgdorfer; One Foot Island, Aitutaki; https://unsplash.com/photos/PkgzxrkurRw ; Unsplash License; remote rendering unverified."
     },
     {
       "key": "cook-islands-muri",
