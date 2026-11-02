@@ -171,8 +171,9 @@
       "key": "canada-quebec-city",
       "city": "Quebec City",
       "country": "Canada",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/gk5iYyRqzZg/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Deep Doshi, Fairmont Le Château Frontenac overlooking Québec City, Unsplash License. https://unsplash.com/photos/fairmont-le-chateau-frontenac-hotel-overlooking-quebec-city-gk5iYyRqzZg; destination confirmed by photographer listing; direct image rendering pending."
     },
     {
       "key": "mexico-mexico-city",
@@ -186,8 +187,9 @@
       "key": "mexico-cancun",
       "city": "Cancun",
       "country": "Mexico",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Grat0-4N3Is/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Chris Kofoed, beach and palm trees in Cancún, Quintana Roo, Mexico, Unsplash License. https://unsplash.com/photos/a-beach-with-palm-trees-and-a-body-of-water-in-the-background-Grat0-4N3Is; destination confirmed by photographer listing; direct image rendering pending."
     },
     {
       "key": "mexico-oaxaca",
@@ -364,8 +366,9 @@
       "key": "spain-madrid",
       "city": "Madrid",
       "country": "Spain",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/v8XeGZf8tcs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Jorge Fernández Salas, Edificio Metrópolis on Gran Vía, Madrid, Unsplash License. https://unsplash.com/photos/gran-via-madrid-v8XeGZf8tcs; destination confirmed by photographer listing; direct image rendering pending."
     },
     {
       "key": "spain-seville",
