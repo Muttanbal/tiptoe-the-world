@@ -657,8 +657,9 @@
       "key": "indonesia-jakarta",
       "city": "Jakarta",
       "country": "Indonesia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ION9_iEUQyo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Affan Fadhlan; skyline in East Jakarta, Indonesia; https://unsplash.com/photos/a-view-of-a-city-from-a-distance-ION9_iEUQyo ; Unsplash License; render pending."
     },
     {
       "key": "indonesia-yogyakarta",
@@ -959,8 +960,9 @@
       "key": "south-korea-busan",
       "city": "Busan",
       "country": "South Korea",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/c37bcJstD-w/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Joy Downen; Haeundae Beach, Busan, South Korea; https://unsplash.com/photos/a-beach-with-waves-coming-in-and-out-of-the-water-c37bcJstD-w ; Unsplash License; render pending."
     },
     {
       "key": "south-korea-jeju",
@@ -1038,8 +1040,9 @@
       "key": "nepal-kathmandu",
       "city": "Kathmandu",
       "country": "Nepal",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/FTxTyNog7BY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Martijn Vonk; Kathmandu Durbar Square, Nepal; https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-building-FTxTyNog7BY ; Unsplash License; render pending."
     },
     {
       "key": "nepal-pokhara",
