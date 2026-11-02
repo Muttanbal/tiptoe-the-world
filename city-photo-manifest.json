@@ -403,8 +403,9 @@
       "key": "germany-hamburg",
       "city": "Hamburg",
       "country": "Germany",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/qpemSW6_1Z0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Claudio Testa, Speicherstadt, Hamburg, Germany; Unsplash License. https://unsplash.com/photos/canal-between-buildings-during-nighttime-qpemSW6_1Z0. Photographer location confirmed; image download/rendering pending."
     },
     {
       "key": "greece-athens",
@@ -533,8 +534,9 @@
       "key": "tanzania-zanzibar",
       "city": "Zanzibar",
       "country": "Tanzania",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/AQrLBMsMfqw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Mahir Abdelmajid, Zuri Zanzibar, Tanzania; Unsplash License. https://unsplash.com/photos/a-sandy-beach-with-palm-trees-and-a-blue-sky-AQrLBMsMfqw. Photographer location confirmed; image download/rendering pending."
     },
     {
       "key": "tanzania-dar-es-salaam",
@@ -604,8 +606,9 @@
       "key": "vietnam-hanoi",
       "city": "Hanoi",
       "country": "Vietnam",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/-ODJlYKSLF8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Zero, Hanoi Old Quarter, Hoan Kiem, Vietnam; Unsplash License. https://unsplash.com/photos/street-decorated-with-red-lanterns-and-vietnamese-flags--ODJlYKSLF8. Photographer location confirmed; image download/rendering pending."
     },
     {
       "key": "vietnam-ho-chi-minh-city",
