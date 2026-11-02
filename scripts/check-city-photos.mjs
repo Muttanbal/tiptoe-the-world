@@ -41,6 +41,10 @@ if(process.argv.includes('--check-remote')){
  await Promise.all(Array.from({length:Math.min(concurrency,verified.length)},()=>worker()));
  remote.sort((a,b)=>a.key.localeCompare(b.key));
  const failures=remote.filter(x=>!x.valid);
+ const report={checkedAt:new Date().toISOString(),total:entries.length,assigned:verified.length,loaded:remote.length-failures.length,failed:failures.length,failures,results:remote};
+ fs.writeFileSync(new URL('../photo-url-audit.json',import.meta.url),JSON.stringify(report,null,2)+'\n');
+ console.log('Photo URL audit written to photo-url-audit.json');
+ for(const x of failures)console.log('::warning file=city-photo-manifest.json::Photo URL failed for '+x.key+': '+(x.error||'HTTP '+x.status+' '+x.contentType));
  console.log('Remote photo summary:',JSON.stringify({checked:remote.length,loaded:remote.length-failures.length,failed:failures.length,failedDestinations:failures.map(x=>({city:x.city,country:x.country,status:x.status,error:x.error||x.contentType}))},null,2));
  console.log('Remote photo checks (candidates are informational, not visually verified):',JSON.stringify(remote,null,2));
 }
