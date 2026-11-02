@@ -25,7 +25,8 @@ jobs:
       - name: Commit imported photographs and manifest
         shell: bash
         run: |
-          git add city-photo-manifest.json assets/images/cities/
+          git add city-photo-manifest.json
+          if [ -d assets/images/cities ]; then git add assets/images/cities/; fi
           if git diff --cached --quiet; then
             echo "No eligible verified photographs to import."
             exit 0
