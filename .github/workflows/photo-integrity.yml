@@ -6,6 +6,9 @@ on:
       - 'city-photo-manifest.json'
       - 'scripts/check-city-photos.mjs'
       - '.github/workflows/photo-integrity.yml'
+  schedule:
+    - cron: '15 18 * * *'
+  workflow_dispatch:
   pull_request:
     paths:
       - 'city-photo-manifest.json'
@@ -22,6 +25,7 @@ jobs:
         run: node scripts/check-city-photos.mjs
       - name: Probe remote photo URLs (diagnostic, not deployment gate)
         id: remote-images
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         continue-on-error: true
         run: node scripts/check-city-photos.mjs --check-remote
       - name: Report remote photo probe outcome
