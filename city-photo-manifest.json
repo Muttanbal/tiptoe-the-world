@@ -305,8 +305,9 @@
       "key": "chile-valparaiso",
       "city": "Valparaiso",
       "country": "Chile",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/H6KJ2D0LphU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Loïc Mermilliod, destination-specific photograph; https://unsplash.com/photos/landscape-photography-of-blue-and-yellow-houses-H6KJ2D0LphU; Unsplash License. Source page confirms location. Direct image URL and live rendering still need testing."
     },
     {
       "key": "chile-san-pedro-de-atacama",
@@ -588,8 +589,9 @@
       "key": "india-jaipur",
       "city": "Jaipur",
       "country": "India",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/RQCbgdmuSgo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Katakam Devayani, destination-specific photograph; https://unsplash.com/photos/hawa-mahal-palace-facade-in-jaipur-RQCbgdmuSgo; Unsplash License. Source page confirms location. Direct image URL and live rendering still need testing."
     },
     {
       "key": "india-mumbai",
@@ -616,8 +618,9 @@
       "key": "vietnam-hoi-an",
       "city": "Hoi An",
       "country": "Vietnam",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/IeCSFQLc-Fs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Kyle Thacker, destination-specific photograph; https://unsplash.com/photos/lighted-lantern-hanging-over-street-IeCSFQLc-Fs; Unsplash License. Source page confirms location. Direct image URL and live rendering still need testing."
     },
     {
       "key": "indonesia-bali",
