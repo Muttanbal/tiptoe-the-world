@@ -1502,9 +1502,9 @@
       "key": "new-zealand-wellington",
       "city": "Wellington",
       "country": "New Zealand",
-      "url": null,
-      "status": "needs-review",
-      "source": "CC0 Wellington waterfront photograph identified at https://www.goodfreephotos.com/public-domain-images/night-skyline-on-the-waterfront-in-wellington-new-zealand.jpg.php ; direct image asset and live rendering not yet verified"
+      "url": "https://unsplash.com/photos/HHBXQdC9ksQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wolf Zimmermann, Wellington CBD and waterfront, Unsplash License; https://unsplash.com/photos/buildings-near-body-of-water-HHBXQdC9ksQ ; direct image rendering pending"
     }
   ]
 }
