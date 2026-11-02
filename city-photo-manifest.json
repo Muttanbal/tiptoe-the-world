@@ -1481,6 +1481,22 @@
       "country": "Cook Islands",
       "url": null,
       "status": "needs-review"
+    },
+    {
+      "key": "new-zealand-auckland",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "url": "https://images.unsplash.com/photo-1602847189686-6bb361a3066d?w=1200&q=85&auto=format&fit=crop",
+      "status": "verified",
+      "source": "Unsplash: Auckland skyline across harbour; source location and image visually checked"
+    },
+    {
+      "key": "new-zealand-rotorua",
+      "city": "Rotorua",
+      "country": "New Zealand",
+      "url": "https://images.unsplash.com/photo-1759489754309-003b991ea656?w=1200&q=85&auto=format&fit=crop",
+      "status": "verified",
+      "source": "Unsplash: geothermal pool in Rotorua; source location and image visually checked"
     }
   ]
 }
