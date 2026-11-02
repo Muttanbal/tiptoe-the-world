@@ -510,8 +510,9 @@
       "key": "egypt-sharm-el-sheikh",
       "city": "Sharm el-Sheikh",
       "country": "Egypt",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Figb0H3ExRw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Omar Elsharawy; Sharm El-Sheikh Red Sea beachfront; https://unsplash.com/photos/a-beach-with-palm-trees-and-a-body-of-water-Figb0H3ExRw; Unsplash License; direct image loading and live visual check pending."
     },
     {
       "key": "south-africa-cape-town",
@@ -688,8 +689,9 @@
       "key": "fiji-suva",
       "city": "Suva",
       "country": "Fiji",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/E0BwADw3-wU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nik Schmidt; market flowers and building in Suva, Fiji; https://unsplash.com/photos/a-building-with-a-bunch-of-flowers-in-front-of-it-E0BwADw3-wU; Unsplash License; direct image loading and live visual check pending."
     },
     {
       "key": "fiji-denarau-island",
@@ -753,8 +755,9 @@
       "key": "dominican-republic-santo-domingo",
       "city": "Santo Domingo",
       "country": "Dominican Republic",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/i99wkAwTNk4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ruddy Corporan; Ciudad Colonial street scene, Santo Domingo; https://unsplash.com/photos/people-walking-on-street-during-daytime-i99wkAwTNk4; Unsplash License; direct image loading and live visual check pending."
     },
     {
       "key": "dominican-republic-puerto-plata",
