@@ -495,8 +495,9 @@
       "key": "egypt-aswan",
       "city": "Aswan",
       "country": "Egypt",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/a_Y4scCiIis/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "حامد طه, boats on Nile with village, Aswan, Egypt; Unsplash License; https://unsplash.com/photos/a-body-of-water-with-boats-and-a-hill-in-the-background-a_Y4scCiIis ; rendering pending."
     },
     {
       "key": "egypt-sharm-el-sheikh",
@@ -531,8 +532,9 @@
       "key": "south-africa-stellenbosch",
       "city": "Stellenbosch",
       "country": "South Africa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/gTL2Xhpnf3E/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Matthias Wesselmann, Ernie Els Wines vineyard, Stellenbosch, South Africa; Unsplash License; https://unsplash.com/photos/a-lush-green-field-with-mountains-in-the-background-gTL2Xhpnf3E ; rendering pending."
     },
     {
       "key": "tanzania-arusha",
@@ -657,8 +659,9 @@
       "key": "indonesia-yogyakarta",
       "city": "Yogyakarta",
       "country": "Indonesia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/UN1oc3rhVo8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Filipe Freitas, Borobudur Temple near Yogyakarta, Indonesia; Unsplash License; https://unsplash.com/photos/a-stone-walkway-leading-to-a-row-of-buildings-UN1oc3rhVo8 ; rendering pending."
     },
     {
       "key": "fiji-nadi",
