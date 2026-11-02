@@ -715,8 +715,9 @@
       "key": "panama-bocas-del-toro",
       "city": "Bocas del Toro",
       "country": "Panama",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/AmX4Zn-gik8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "ryan doyle; sandy beach and trees, Bocas del Toro Panama; https://unsplash.com/photos/a-beach-with-trees-and-water-AmX4Zn-gik8; Unsplash License; source page verified, image endpoint and composition unverified."
     },
     {
       "key": "panama-boquete",
@@ -816,8 +817,9 @@
       "key": "bolivia-sucre",
       "city": "Sucre",
       "country": "Bolivia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/67fsBVFuYuc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Andrea Huls Pareja; white church and plaza, Sucre Bolivia; https://unsplash.com/photos/white-church-and-plaza-surrounded-by-city-buildings-67fsBVFuYuc; Unsplash License; source page verified, image endpoint and composition unverified."
     },
     {
       "key": "portugal-lisbon",
@@ -1123,8 +1125,9 @@
       "key": "vanuatu-port-vila",
       "city": "Port Vila",
       "country": "Vanuatu",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/qmWiCFtToQk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Gary Olul; plane over Port Vila Vanuatu; https://unsplash.com/photos/qmWiCFtToQk; Unsplash License; source page verified, image endpoint and composition unverified."
     },
     {
       "key": "vanuatu-espiritu-santo",
@@ -1391,8 +1394,9 @@
       "key": "rwanda-kigali",
       "city": "Kigali",
       "country": "Rwanda",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/zoGrMNxosXI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Omoniyi David; aerial view of Kigali Rwanda; https://unsplash.com/photos/a-view-of-a-city-from-an-airplane-window-zoGrMNxosXI; Unsplash License; source page verified, image endpoint and composition unverified."
     },
     {
       "key": "rwanda-musanze",
