@@ -679,8 +679,9 @@
       "key": "fiji-nadi",
       "city": "Nadi",
       "country": "Fiji",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/LoqbKf0StAc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Vijesh Datt; lush green hillside in Nadi, Fiji; https://unsplash.com/photos/a-couple-of-people-standing-on-top-of-a-lush-green-hillside-LoqbKf0StAc ; Unsplash License; direct image loading not yet verified."
     },
     {
       "key": "fiji-suva",
@@ -794,8 +795,9 @@
       "key": "bolivia-uyuni",
       "city": "Uyuni",
       "country": "Bolivia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/d4jDdMjPeNs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Peter Conlan; reflective Salar de Uyuni, Bolivia; https://unsplash.com/photos/man-and-woman-walking-on-clouds-d4jDdMjPeNs ; Unsplash License; direct image loading not yet verified."
     },
     {
       "key": "bolivia-sucre",
@@ -1031,8 +1033,9 @@
       "key": "philippines-manila",
       "city": "Manila",
       "country": "Philippines",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/vL2h7xYiIlk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Alexes Gerard; Manila skyline, Philippines; https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-vL2h7xYiIlk ; Unsplash License; direct image loading not yet verified."
     },
     {
       "key": "philippines-cebu",
@@ -1061,8 +1064,9 @@
       "key": "nepal-pokhara",
       "city": "Pokhara",
       "country": "Nepal",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/uz3u87NwS3s/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; colourful boats on Phewa Lake, Pokhara, Nepal; https://unsplash.com/photos/a-group-of-boats-sitting-on-top-of-a-lake-uz3u87NwS3s ; Unsplash License; direct image loading not yet verified."
     },
     {
       "key": "nepal-chitwan",
