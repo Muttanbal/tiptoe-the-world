@@ -381,8 +381,9 @@
       "key": "germany-berlin",
       "city": "Berlin",
       "country": "Germany",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/TScGhJM716g/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Claudio Schwarz, Brandenburg Gate, Pariser Platz, Berlin, Germany; Unsplash License. https://unsplash.com/photos/woman-standing-near-building-TScGhJM716g; destination source checked; image endpoint/rendering not verified."
     },
     {
       "key": "germany-munich",
@@ -409,8 +410,9 @@
       "key": "greece-santorini",
       "city": "Santorini",
       "country": "Greece",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/jy_zjBddWic/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Luc Vlekken, Oía, Santorini, Greece; Unsplash License. https://unsplash.com/photos/santorini-greece-jy_zjBddWic; destination source checked; image endpoint/rendering not verified."
     },
     {
       "key": "greece-crete",
@@ -488,8 +490,9 @@
       "key": "south-africa-cape-town",
       "city": "Cape Town",
       "country": "South Africa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Muu7sFmLfaY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Jörg Hamel, Table Mountain overlooking Cape Town, South Africa; Unsplash License. https://unsplash.com/photos/table-mountain-overlooking-cape-town-under-a-cloudy-sky-Muu7sFmLfaY; destination source checked; image endpoint/rendering not verified."
     },
     {
       "key": "south-africa-johannesburg",
