@@ -1169,8 +1169,9 @@
       "key": "papua-new-guinea-madang",
       "city": "Madang",
       "country": "Papua New Guinea",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madang%20(5502160618).jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "eGuide Travel; photograph geotagged to Madang Papua New Guinea; https://commons.wikimedia.org/wiki/File:Madang_(5502160618).jpg ; license details need final confirmation; direct image loading and appearance not yet verified."
     },
     {
       "key": "papua-new-guinea-rabaul",
@@ -1288,8 +1289,9 @@
       "key": "paraguay-encarnacion",
       "city": "Encarnacion",
       "country": "Paraguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Encarnaci%C3%B3n%2C%20Paraguay.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Overkill53; Costanera waterfront in Encarnación Paraguay; CC BY-SA 4.0 attribution and share-alike apply; https://commons.wikimedia.org/wiki/File:Encarnaci%C3%B3n,_Paraguay.jpg; direct image loading and appearance not yet verified."
     },
     {
       "key": "paraguay-ciudad-del-este",
@@ -1595,8 +1597,9 @@
       "key": "tonga-vava-u",
       "city": "Vava'u",
       "country": "Tonga",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "NASA Johnson Space Center; satellite view of Vava'u Tonga; public domain U.S. government imagery; https://commons.wikimedia.org/wiki/File:Vavau_from_ISS.jpg; direct image loading and appearance not yet verified."
     },
     {
       "key": "tonga-ha-apai",
@@ -1617,8 +1620,9 @@
       "key": "solomon-islands-gizo",
       "city": "Gizo",
       "country": "Solomon Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20the%20coast%20of%20Gizo%2C%20Solomon%20Islands%20-%20130805-N-SP369-490.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Samantha J. Webb / U.S. Navy; Gizo coastal aerial with landing craft; public domain U.S. federal government work; https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_coast_of_Gizo,_Solomon_Islands_-_130805-N-SP369-490.jpg; direct image loading and appearance not yet verified."
     },
     {
       "key": "solomon-islands-munda",
