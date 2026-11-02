@@ -729,8 +729,9 @@
       "key": "jamaica-montego-bay",
       "city": "Montego Bay",
       "country": "Jamaica",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/OSOMaO57m7k/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Montego Bay beach and turquoise Caribbean sea, Jamaica; https://unsplash.com/photos/white-sand-beach-with-clear-blue-water-OSOMaO57m7k; Unsplash License; direct image loading and visual accuracy unverified."
     },
     {
       "key": "jamaica-negril",
@@ -781,8 +782,9 @@
       "key": "ecuador-guayaquil",
       "city": "Guayaquil",
       "country": "Ecuador",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/nUFUV4yr3rE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Guayaquil waterfront promenade and skyline, Ecuador; https://unsplash.com/photos/city-buildings-near-body-of-water-during-daytime-nUFUV4yr3rE; Unsplash License; direct image loading and visual accuracy unverified."
     },
     {
       "key": "ecuador-cuenca",
@@ -1522,8 +1524,9 @@
       "key": "taiwan-kaohsiung",
       "city": "Kaohsiung",
       "country": "Taiwan",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/hF8F0OXO5xs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Kaohsiung Dragon and Tiger Pagodas, Taiwan; https://unsplash.com/photos/two-tall-pagodas-near-a-body-of-water-hF8F0OXO5xs; Unsplash License; direct image loading and visual accuracy unverified."
     },
     {
       "key": "taiwan-taichung",
