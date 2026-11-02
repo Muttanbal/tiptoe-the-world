@@ -532,8 +532,9 @@
       "key": "south-africa-durban",
       "city": "Durban",
       "country": "South Africa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/rfQwBKfG0xE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Durban skyline from North Beach, Durban, South Africa; https://unsplash.com/photos/a-city-skyline-across-the-water-rfQwBKfG0xE ; Unsplash License; image URL and rendering not yet verified."
     },
     {
       "key": "south-africa-stellenbosch",
@@ -699,8 +700,9 @@
       "key": "panama-panama-city",
       "city": "Panama City",
       "country": "Panama",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/rhHIEtBPD5A/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "JACQUELINE BRANDWAYN; Panama City skyline beside water; https://unsplash.com/photos/city-buildings-near-body-of-water-under-blue-sky-during-daytime-rhHIEtBPD5A ; Unsplash License; image URL and rendering not yet verified."
     },
     {
       "key": "panama-bocas-del-toro",
@@ -784,8 +786,9 @@
       "key": "bolivia-la-paz",
       "city": "La Paz",
       "country": "Bolivia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/j4KLR4F-Tfg/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "RODRIGO GONZALEZ; Mount Illimani and illuminated La Paz cityscape, Bolivia; https://unsplash.com/photos/white-and-brown-mountain-under-blue-sky-during-daytime-j4KLR4F-Tfg ; Unsplash License; image URL and rendering not yet verified."
     },
     {
       "key": "bolivia-uyuni",
@@ -1200,8 +1203,9 @@
       "key": "uruguay-montevideo",
       "city": "Montevideo",
       "country": "Uruguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/uWkOg9jPYo8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nikolai Kolosov; Montevideo skyline on waterfront, Uruguay; https://unsplash.com/photos/city-skyline-with-modern-buildings-along-the-waterfront-uWkOg9jPYo8 ; Unsplash License; image URL and rendering not yet verified."
     },
     {
       "key": "uruguay-punta-del-este",
@@ -1329,8 +1333,9 @@
       "key": "ireland-cork",
       "city": "Cork",
       "country": "Ireland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/4uDG1t8UZrw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nathan Hurst; aerial River Lee and Cork city, Ireland; https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-river-running-through-it-4uDG1t8UZrw ; Unsplash License; image URL and rendering not yet verified."
     },
     {
       "key": "botswana-maun",
