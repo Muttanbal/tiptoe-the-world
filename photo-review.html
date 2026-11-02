@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tiptoe the World — Photo review</title>
+<style>
+:root{font-family:system-ui,sans-serif;color:#15302b;background:#f6f6f1}
+body{margin:0 auto;padding:24px;max-width:1300px}h1{margin-bottom:4px}p{line-height:1.5}
+.controls{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0}select,input{padding:11px;border:1px solid #b4c0b7;border-radius:8px;background:white}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+article{background:white;border:1px solid #d7e1db;border-radius:12px;overflow:hidden}
+.preview{height:165px;background:#e7ebe8;display:grid;place-items:center;overflow:hidden}
+.preview img{width:100%;height:100%;object-fit:cover}.details{padding:14px}
+small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
+.status{font-size:12px;background:#edf0e9;border-radius:6px;padding:4px 7px;display:inline-block;margin:8px 0}
+</style></head><body><h1>Destination photograph review</h1>
+<p>This is an internal visual-review aid. <strong>Previewing a photograph does not verify its location, license or live-site rendering.</strong> Only manifest entries marked <code>verified</code> appear on public destination cards.</p>
+<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option></select></div>
+<p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
+<script>
+let records=[];
+const grid=document.getElementById('grid'),count=document.getElementById('count');
+function render(){
+ const term=document.getElementById('search').value.trim().toLowerCase(),filter=document.getElementById('filter').value;
+ const selected=records.filter(x=>(x.city+' '+x.country).toLowerCase().includes(term)&&
+ (filter==='all'||filter==='assigned'&&!!x.url||filter==='missing'&&!x.url||filter==='verified'&&x.status==='verified'||filter==='pending'&&!!x.url&&x.status!=='verified'));
+ grid.replaceChildren();count.textContent=selected.length+' of '+records.length+' destinations shown';
+ for(const x of selected){
+  const card=document.createElement('article'),preview=document.createElement('div'),details=document.createElement('div');
+  preview.className='preview';details.className='details';
+  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{preview.textContent='Image could not load';};img.src=x.url;preview.append(img)}
+  else preview.textContent='No photograph assigned';
+  const title=document.createElement('strong');title.textContent=x.city+', '+x.country;
+  const br=document.createElement('br'),status=document.createElement('span');status.className='status';status.textContent=x.status||'unknown';
+  details.append(title,br,status);
+  if(x.url){const line=document.createElement('p'),link=document.createElement('a');link.href=x.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Open image URL';line.append(link);details.append(line)}
+  if(x.source){const source=document.createElement('small');source.textContent=x.source;details.append(source)}
+  card.append(preview,details);grid.append(card);
+ }
+}
+for(const id of ['search','filter'])document.getElementById(id).addEventListener(id==='search'?'input':'change',render);
+fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(m=>{records=m.cities||[];render()}).catch(e=>{count.textContent='Could not load photo manifest: '+e.message});
+</script></body></html>
