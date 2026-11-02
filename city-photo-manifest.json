@@ -834,8 +834,9 @@
       "key": "united-kingdom-bath",
       "city": "Bath",
       "country": "United Kingdom",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/pfkSmvryyzk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Mario Klassen; Roman Baths, Bath, England; https://unsplash.com/photos/body-of-water-surrounded-by-brown-building-pfkSmvryyzk ; Unsplash License; rendering pending."
     },
     {
       "key": "netherlands-amsterdam",
@@ -848,8 +849,9 @@
       "key": "netherlands-rotterdam",
       "city": "Rotterdam",
       "country": "Netherlands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/olqr9pjCivA/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Illiya Vjestica; Rotterdam skyline and waterfront, Netherlands; https://unsplash.com/photos/city-skyline-near-body-of-water-during-daytime-olqr9pjCivA/ ; Unsplash License; rendering pending."
     },
     {
       "key": "netherlands-the-hague",
@@ -870,8 +872,9 @@
       "key": "switzerland-lucerne",
       "city": "Lucerne",
       "country": "Switzerland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/DHJe5GNs6pE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Sergei Gussev; Chapel Bridge and Water Tower over Reuss River, Lucerne, Switzerland; https://unsplash.com/photos/the-chapel-bridge-of-lucerne-switzerland-DHJe5GNs6pE ; Unsplash License; rendering pending."
     },
     {
       "key": "switzerland-interlaken",
