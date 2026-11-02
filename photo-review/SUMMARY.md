@@ -3,11 +3,11 @@
 | Metric | Count |
 |---|---:|
 | total | 212 |
-| downloaded | 19 |
-| failed | 54 |
-| missingUrl | 139 |
+| downloaded | 26 |
+| failed | 50 |
+| missingUrl | 136 |
 | awaitingVerification | 210 |
 | locallyHosted | 0 |
-| generatedAt | 2026-11-02T02:24:01.038Z |
+| generatedAt | 2026-11-02T02:24:38.840Z |
 
 Downloads are candidates only; destination accuracy and rights require verification before publishing.
