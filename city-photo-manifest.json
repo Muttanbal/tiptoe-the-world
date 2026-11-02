@@ -155,15 +155,17 @@
       "key": "canada-vancouver",
       "city": "Vancouver",
       "country": "Canada",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/di1NBBfca9o/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Vancouver skyline with mountains and water, Unsplash photograph di1NBBfca9o; location and render need independent verification."
     },
     {
       "key": "canada-montreal",
       "city": "Montreal",
       "country": "Canada",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/5t3xX2rM6PY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Montreal cityscape candidate from Unsplash photograph 5t3xX2rM6PY; location and render need independent verification."
     },
     {
       "key": "canada-quebec-city",
