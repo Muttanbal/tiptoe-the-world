@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "description": "Explicit photo assignments for Tiptoe the World city pages. candidate images require destination and URL verification before marking verified. Unassigned cities use labelled placeholders, not unrelated images.",
   "cities": [
     {
@@ -99,8 +99,9 @@
       "key": "kenya-nairobi",
       "city": "Nairobi",
       "country": "Kenya",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/LTh5pGyvKAM/download?force=true&w=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "https://unsplash.com/photos/LTh5pGyvKAM — location stated on photo page; free under Unsplash License; rendering not yet verified"
     },
     {
       "key": "kenya-mombasa",
@@ -144,8 +145,9 @@
       "key": "canada-toronto",
       "city": "Toronto",
       "country": "Canada",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/62UWrTdRq78/download?force=true&w=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "https://unsplash.com/photos/62UWrTdRq78 — location stated on photo page; free under Unsplash License; rendering not yet verified"
     },
     {
       "key": "canada-vancouver",
@@ -347,8 +349,9 @@
       "key": "spain-barcelona",
       "city": "Barcelona",
       "country": "Spain",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/np-zCJ6p6Go/download?force=true&w=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "https://unsplash.com/photos/np-zCJ6p6Go — location stated on photo page; free under Unsplash License; rendering not yet verified"
     },
     {
       "key": "spain-madrid",
