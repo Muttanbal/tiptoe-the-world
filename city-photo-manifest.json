@@ -117,8 +117,9 @@
       "key": "kenya-diani-beach",
       "city": "Diani Beach",
       "country": "Kenya",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/PZ1HKuLdKAc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Andrew Molo, Diani Beach Kenya coastline. https://unsplash.com/photos/a-beach-with-trees-and-a-hill-in-the-background-PZ1HKuLdKAc ; Unsplash License; source location checked, direct image rendering pending."
     },
     {
       "key": "australia-sydney",
@@ -271,8 +272,9 @@
       "key": "argentina-mendoza",
       "city": "Mendoza",
       "country": "Argentina",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/no3YzOg1_9k/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wadé, vineyard and mountains at sunset, Mendoza Argentina. https://unsplash.com/photos/vineyard-with-buildings-and-mountains-at-sunset-no3YzOg1_9k ; Unsplash License; source location checked, direct image rendering pending."
     },
     {
       "key": "argentina-bariloche",
@@ -315,8 +317,9 @@
       "key": "chile-san-pedro-de-atacama",
       "city": "San Pedro de Atacama",
       "country": "Chile",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/tlCzxI2RQAc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Vinícius Henrique Photography, Laguna Lejía, San Pedro de Atacama Chile. https://unsplash.com/photos/landscape-photo-of-mountain-tlCzxI2RQAc ; Unsplash License; source location checked, direct image rendering pending."
     },
     {
       "key": "colombia-bogota",
