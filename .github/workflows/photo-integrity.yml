@@ -1,0 +1,22 @@
+name: Destination photo integrity
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'city-photo-manifest.json'
+      - 'scripts/check-city-photos.mjs'
+      - '.github/workflows/photo-integrity.yml'
+  pull_request:
+    paths:
+      - 'city-photo-manifest.json'
+      - 'scripts/check-city-photos.mjs'
+jobs:
+  check-photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check city photo manifest integrity
+        run: node scripts/check-city-photos.mjs
