@@ -210,8 +210,9 @@
       "key": "costa-rica-la-fortuna",
       "city": "La Fortuna",
       "country": "Costa Rica",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/_4_HM5Hhc3E/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Brett Mayson; Arenal volcano in La Fortuna, Alajuela Province, Costa Rica; Unsplash License. Source: https://unsplash.com/photos/volcano-shrouded-in-clouds-at-sunrise-_4_HM5Hhc3E. Destination metadata checked; image download/rendering and visual confirmation pending."
     },
     {
       "key": "costa-rica-manuel-antonio",
@@ -563,8 +564,9 @@
       "key": "thailand-chiang-mai",
       "city": "Chiang Mai",
       "country": "Thailand",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/hUnZgYC9UCs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Jochen van Wylick; Chiang Mai temple, Thailand; Unsplash License. Source: https://unsplash.com/photos/a-large-building-with-a-tall-tower-next-to-a-lush-green-field-hUnZgYC9UCs. Destination metadata checked; image download/rendering and visual confirmation pending."
     },
     {
       "key": "thailand-phuket",
@@ -629,8 +631,9 @@
       "key": "indonesia-bali",
       "city": "Bali",
       "country": "Indonesia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/RilOr-xIJgM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Silas Baisch; Tegallalang rice terraces, Bali, Indonesia; Unsplash License. Source: https://unsplash.com/photos/aerial-photography-of-rice-terraces-during-daytime-RilOr-xIJgM. Destination metadata checked; image download/rendering and visual confirmation pending."
     },
     {
       "key": "indonesia-jakarta",
