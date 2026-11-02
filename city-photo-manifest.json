@@ -744,8 +744,9 @@
       "key": "dominican-republic-punta-cana",
       "city": "Punta Cana",
       "country": "Dominican Republic",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/MihUZkpY874/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Tom Woodhouse; palm-lined beach, Punta Cana, Dominican Republic; https://unsplash.com/photos/a-sandy-beach-with-palm-trees-and-blue-water-MihUZkpY874; Unsplash License; direct image load unverified."
     },
     {
       "key": "dominican-republic-santo-domingo",
@@ -1004,8 +1005,9 @@
       "key": "malaysia-langkawi",
       "city": "Langkawi",
       "country": "Malaysia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/zRKCciEFuL8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "engin akyurt; tropical beach on Langkawi Island, Malaysia; https://unsplash.com/photos/a-sandy-beach-with-palm-trees-and-a-cloudy-sky-zRKCciEFuL8; Unsplash License; direct image load unverified."
     },
     {
       "key": "singapore-marina-bay",
@@ -1041,8 +1043,9 @@
       "key": "philippines-cebu",
       "city": "Cebu",
       "country": "Philippines",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Wvb8vif4g9U/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; downtown Cebu street scene, Cebu, Philippines; https://unsplash.com/photos/a-group-of-people-standing-outside-of-a-building-Wvb8vif4g9U; Unsplash License; direct image load unverified."
     },
     {
       "key": "philippines-el-nido",
