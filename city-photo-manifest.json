@@ -1275,8 +1275,9 @@
       "key": "croatia-zagreb",
       "city": "Zagreb",
       "country": "Croatia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/6zf0n3wsXLA/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Lukas; aerial cityscape, Zagreb, Croatia; https://unsplash.com/photos/an-aerial-view-of-a-city-with-many-buildings-6zf0n3wsXLA ; Unsplash License; direct rendering pending."
     },
     {
       "key": "turkiye-istanbul",
@@ -1313,8 +1314,9 @@
       "key": "ireland-galway",
       "city": "Galway",
       "country": "Ireland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/_bfhLJrMiEY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; stone buildings along river, Galway, Ireland; https://unsplash.com/photos/old-stone-buildings-line-a-river-under-a-cloudy-sky-_bfhLJrMiEY ; Unsplash License; direct rendering pending."
     },
     {
       "key": "ireland-cork",
@@ -1439,8 +1441,9 @@
       "key": "united-arab-emirates-abu-dhabi",
       "city": "Abu Dhabi",
       "country": "United Arab Emirates",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/kZ1zThg6G40/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "David Rodrigo; Sheikh Zayed Grand Mosque reflected in pool, Abu Dhabi, UAE; https://unsplash.com/photos/sheikh-zayed-grand-mosque-in-abu-dhabi-kZ1zThg6G40 ; Unsplash License; direct rendering pending."
     },
     {
       "key": "united-arab-emirates-sharjah",
