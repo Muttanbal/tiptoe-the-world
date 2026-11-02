@@ -13,20 +13,21 @@ small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
 .status{font-size:12px;background:#edf0e9;border-radius:6px;padding:4px 7px;display:inline-block;margin:8px 0}
 </style></head><body><h1>Destination photograph review</h1>
 <p>This is an internal visual-review aid. <strong>Previewing a photograph does not verify its location, license or live-site rendering.</strong> Only manifest entries marked <code>verified</code> appear on public destination cards.</p>
-<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option></select></div>
+<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select></div>
 <p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
 <script>
-let records=[];
+let records=[];const failedUrls=new Set();
 const grid=document.getElementById('grid'),count=document.getElementById('count');
+function updateCount(){const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=grid.children.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing · '+failedUrls.size+' failed to load in this session';}
 function render(){
  const term=document.getElementById('search').value.trim().toLowerCase(),filter=document.getElementById('filter').value;
  const selected=records.filter(x=>(x.city+' '+x.country).toLowerCase().includes(term)&&
- (filter==='all'||filter==='assigned'&&!!x.url||filter==='missing'&&!x.url||filter==='verified'&&x.status==='verified'||filter==='pending'&&!!x.url&&x.status!=='verified'));
- grid.replaceChildren();const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=selected.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing';
+ (filter==='all'||filter==='assigned'&&!!x.url||filter==='missing'&&!x.url||filter==='verified'&&x.status==='verified'||filter==='pending'&&!!x.url&&x.status!=='verified'||filter==='broken'&&failedUrls.has(x.key)));
+ grid.replaceChildren();
  for(const x of selected){
   const card=document.createElement('article'),preview=document.createElement('div'),details=document.createElement('div');
   preview.className='preview';details.className='details';
-  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';};img.onload=()=>{card.dataset.imageResult='loaded';};img.src=x.url;preview.append(img)}
+  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{failedUrls.add(x.key);img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';updateCount();};img.onload=()=>{card.dataset.imageResult='loaded';};img.src=x.url;preview.append(img)}
   else preview.textContent='No photograph assigned';
   const title=document.createElement('strong');title.textContent=x.city+', '+x.country;
   const br=document.createElement('br'),status=document.createElement('span');status.className='status';status.textContent=x.status||'unknown';
@@ -35,6 +36,7 @@ function render(){
   if(x.source){const source=document.createElement('small');source.textContent=x.source;details.append(source)}
   card.append(preview,details);grid.append(card);
  }
+ updateCount();
 }
 for(const id of ['search','filter'])document.getElementById(id).addEventListener(id==='search'?'input':'change',render);
 fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(m=>{records=m.cities||[];render()}).catch(e=>{count.textContent='Could not load photo manifest: '+e.message});
