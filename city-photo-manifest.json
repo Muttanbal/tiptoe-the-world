@@ -205,8 +205,9 @@
       "key": "costa-rica-san-jose",
       "city": "San Jose",
       "country": "Costa Rica",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/gBYjeZlOW6E/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Alexander Aguero; San José city under cloudy sky; https://unsplash.com/photos/a-view-of-a-city-under-a-cloudy-sky-gBYjeZlOW6E; Unsplash License; image rendering unverified."
     },
     {
       "key": "costa-rica-la-fortuna",
@@ -826,8 +827,9 @@
       "key": "portugal-faro",
       "city": "Faro",
       "country": "Portugal",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/eflVB0dkrUk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Filipe Nobre; Faro old town from cathedral; https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-fountain-eflVB0dkrUk; Unsplash License; image rendering unverified."
     },
     {
       "key": "united-kingdom-london",
@@ -872,8 +874,9 @@
       "key": "netherlands-the-hague",
       "city": "The Hague",
       "country": "Netherlands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/EaZuQOtemis/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Alireza Parpaei; Hofvijver at sunset, The Hague; https://unsplash.com/photos/a-large-building-with-a-lot-of-windows-next-to-a-body-of-water-EaZuQOtemis; Unsplash License; image rendering unverified."
     },
     {
       "key": "switzerland-zurich",
