@@ -550,8 +550,9 @@
       "key": "tanzania-arusha",
       "city": "Arusha",
       "country": "Tanzania",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/lo0wIu1hPWc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Hugo Ramos; Arusha street with motorcycle traffic; https://unsplash.com/photos/people-in-motorcycles-on-road-lo0wIu1hPWc; Unsplash License; photo page location corroborated; image endpoint and crop not tested."
     },
     {
       "key": "tanzania-zanzibar",
@@ -565,15 +566,17 @@
       "key": "tanzania-dar-es-salaam",
       "city": "Dar es Salaam",
       "country": "Tanzania",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/eY3z-w546TE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Omar; Dar es Salaam skyline at golden hour; https://unsplash.com/photos/city-skyline-above-residential-rooftops-eY3z-w546TE; Unsplash License; photo page location corroborated; image endpoint and crop not tested."
     },
     {
       "key": "tanzania-moshi",
       "city": "Moshi",
       "country": "Tanzania",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/WMDSjqVV71c/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nichika Sakurai; Mount Kilimanjaro over maize near Moshi; https://unsplash.com/photos/a-view-of-a-snow-capped-mountain-through-the-leaves-of-a-corn-field-WMDSjqVV71c; Unsplash License; photo page location corroborated; image endpoint and crop not tested."
     },
     {
       "key": "thailand-bangkok",
@@ -930,8 +933,9 @@
       "key": "uganda-kampala",
       "city": "Kampala",
       "country": "Uganda",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Q3ymlvOJGFs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Robin Kutesa; Kampala skyline viewed from Nsambya; https://unsplash.com/photos/city-skyline-bathed-in-warm-sunset-light-Q3ymlvOJGFs; Unsplash License; photo page location corroborated; image endpoint and crop not tested."
     },
     {
       "key": "uganda-entebbe",
