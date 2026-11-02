@@ -737,8 +737,9 @@
       "key": "jamaica-negril",
       "city": "Negril",
       "country": "Jamaica",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Z1YbmTWkcYY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Negril Seven Mile Beach and boat, Jamaica; https://unsplash.com/photos/a-small-boat-floating-on-top-of-a-blue-ocean-Z1YbmTWkcYY; Unsplash License; photo location confirmed on source page, rendered image unverified."
     },
     {
       "key": "jamaica-ocho-rios",
@@ -1236,8 +1237,9 @@
       "key": "uruguay-punta-del-este",
       "city": "Punta del Este",
       "country": "Uruguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/nrPv_8ALoDo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Punta del Este skyline and bay, Uruguay; https://unsplash.com/photos/a-view-of-a-city-and-a-body-of-water-nrPv_8ALoDo; Unsplash License; photo location confirmed on source page, rendered image unverified."
     },
     {
       "key": "uruguay-colonia-del-sacramento",
@@ -1538,8 +1540,9 @@
       "key": "taiwan-taichung",
       "city": "Taichung",
       "country": "Taiwan",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/O5lFsiqr534/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Hailey Tong; busy street view of Taichung, Taiwan; https://unsplash.com/photos/a-street-scene-in-an-asian-city-O5lFsiqr534; Unsplash License; photo location confirmed on source page, rendered image unverified."
     },
     {
       "key": "tonga-nuku-alofa",
