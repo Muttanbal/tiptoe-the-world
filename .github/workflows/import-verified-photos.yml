@@ -1,0 +1,36 @@
+name: Import verified destination photographs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: destination-photo-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Download licensed, verified photos
+        run: node scripts/import-verified-photos.mjs
+      - name: Commit imported photographs and manifest
+        shell: bash
+        run: |
+          git add city-photo-manifest.json assets/images/cities/
+          if git diff --cached --quiet; then
+            echo "No eligible verified photographs to import."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Import verified destination photographs"
+          git push
