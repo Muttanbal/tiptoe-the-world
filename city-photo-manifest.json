@@ -76,8 +76,9 @@
       "key": "france-nice",
       "city": "Nice",
       "country": "France",
-      "url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&q=85",
-      "status": "candidate"
+      "url": null,
+      "status": "needs-review",
+      "source": "This Unsplash image is commonly associated with Santorini, Greece, rather than Nice, France; reject pending location verification."
     },
     {
       "key": "france-lyon",
@@ -1388,8 +1389,9 @@
       "key": "jordan-petra",
       "city": "Petra",
       "country": "Jordan",
-      "url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85",
-      "status": "candidate"
+      "url": null,
+      "status": "needs-review",
+      "source": "Generic desert image; does not establish Petra as the depicted destination. Replace with a location-specific photograph."
     },
     {
       "key": "jordan-wadi-rum",
