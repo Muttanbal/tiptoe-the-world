@@ -700,8 +700,9 @@
       "key": "fiji-denarau-island",
       "city": "Denarau Island",
       "country": "Fiji",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Qu0Yv9lsrEY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Denarau Island Fiji green water beside roadside; https://unsplash.com/photos/a-road-with-trees-on-the-side-Qu0Yv9lsrEY; Unsplash License; location confirmed by photo page; direct download and display unverified."
     },
     {
       "key": "panama-panama-city",
@@ -936,8 +937,9 @@
       "key": "tunisia-sousse",
       "city": "Sousse",
       "country": "Tunisia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/V87fJdumBY0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Amal Bourkhis; old city of Sousse viewed from Ribat; https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-V87fJdumBY0; Unsplash License; location confirmed by photo page; direct download and display unverified."
     },
     {
       "key": "uganda-kampala",
@@ -1197,8 +1199,9 @@
       "key": "belize-san-pedro",
       "city": "San Pedro",
       "country": "Belize",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/_YxDGcDm4Hs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meritt Thomas; tropical island waterfront near Secret Beach San Pedro Belize; https://unsplash.com/photos/white-concrete-building-near-green-trees-and-body-of-water-during-daytime-_YxDGcDm4Hs; Unsplash License; location confirmed by photo page; direct download and display unverified."
     },
     {
       "key": "belize-caye-caulker",
@@ -1227,8 +1230,9 @@
       "key": "cuba-trinidad",
       "city": "Trinidad",
       "country": "Cuba",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/bnb28Tm5C1I/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Flo P; purple classic car and colourful buildings in Trinidad Cuba; https://unsplash.com/photos/purple-car-near-blue-and-yellow-building-bnb28Tm5C1I; Unsplash License; location confirmed by photo page; direct download and display unverified."
     },
     {
       "key": "cuba-varadero",
