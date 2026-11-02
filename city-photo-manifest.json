@@ -1267,8 +1267,9 @@
       "key": "croatia-split",
       "city": "Split",
       "country": "Croatia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/imH81pofAIQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Benji da Vinci; Split old town waterfront, Croatia; https://unsplash.com/photos/a-view-of-a-city-next-to-a-body-of-water-imH81pofAIQ ; Unsplash License; direct image rendering pending."
     },
     {
       "key": "croatia-zagreb",
@@ -1289,8 +1290,9 @@
       "key": "turkiye-cappadocia",
       "city": "Cappadocia",
       "country": "Türkiye",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/mE-OJ7xAqzU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Umi Itu Laut; hot-air balloons in Cappadocia, Türkiye; https://unsplash.com/photos/a-group-of-hot-air-balloons-in-the-sky-with-cappadocia-in-the-background-mE-OJ7xAqzU ; Unsplash License; direct image rendering pending."
     },
     {
       "key": "turkiye-antalya",
@@ -1303,8 +1305,9 @@
       "key": "ireland-dublin",
       "city": "Dublin",
       "country": "Ireland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/blDB0HbjB1k/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Sophie Popplewell; Dublin river bridge, Ireland; https://unsplash.com/photos/a-bridge-over-a-river-blDB0HbjB1k ; Unsplash License; direct image rendering pending."
     },
     {
       "key": "ireland-galway",
