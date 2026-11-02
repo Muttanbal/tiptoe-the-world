@@ -128,7 +128,7 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 // Wikimedia's encyclopaedia thumbnails are requested by exact city and country.
 // Missing/ambiguous photos leave an attractive labelled placeholder, not a wrong photo.
 /* Destination photo audit: each city has its own resolved image and no country-image inheritance. */
-/* Permanent city photo registry: static, reviewable and no runtime encyclopaedia lookups. */
+/* City photo registry: assigned candidate photos may display as provisional imagery, but only manifest status 'verified' represents approved location/source. Broken images fall back to unavailable. */
 const cityPhotoCache=new Map();
 const cityPhotoManifestPromise=fetch('./city-photo-manifest.json').then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>{const byKey=new Map(),byLocation=new Map();for(const x of m.cities||[]){byKey.set(x.key,x);byLocation.set(x.country+'|'+x.city,x)}return {byKey,byLocation}}).catch(()=>({byKey:new Map(),byLocation:new Map()}));
 async function cityPhotoFor(name,country){
@@ -136,7 +136,7 @@ async function cityPhotoFor(name,country){
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  const photo=await cityPhotoManifestPromise;
  const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
- const url=(match?.status === 'verified' && match?.url) || null;
+ const url=(match?.url && (match.status === 'verified' || match.status === 'candidate' || match.status === 'candidate-needs-visual-verification' || match.status === 'source-location-and-license-confirmed-render-pending')) ? match.url : null;
  cityPhotoCache.set(key,url);
  return url;
 }
