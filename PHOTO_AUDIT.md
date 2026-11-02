@@ -221,3 +221,18 @@ This report records outstanding work, not completed visual verification. Do not 
 - Dubai, United Arab Emirates: candidate — https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=85
 - Petra, Jordan: candidate — https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85
 
+
+## Country image reuse requiring destination-specific review
+
+Country entries: 64; reused-image groups: 8; countries affected: 19.
+
+- Kenya / Botswana / Rwanda — https://images.unsplash.com/photo-1516026672322-bc52d61a55d5
+- Chile / Croatia / Zambia — https://images.unsplash.com/photo-1500534623283-312aade485b7
+- Fiji / Tonga / Cook Islands — https://images.unsplash.com/photo-1500375592092-40eb2168fd21
+- Jamaica / Solomon Islands — https://images.unsplash.com/photo-1507525428034-b723cf961d3e
+- United Kingdom / Ireland — https://images.unsplash.com/photo-1513635269975-59663e0ac1ad
+- Namibia / Jordan — https://images.unsplash.com/photo-1509316785289-025f5b846b35
+- South Korea / Taiwan — https://images.unsplash.com/photo-1517154421773-0529f29ea451
+- Nepal / Sri Lanka — https://images.unsplash.com/photo-1544735716-392fe2489ffa
+
+Shared URLs are audit flags, not proof that a specific photograph is wrong. Replace only after verifying the correct destination and image rights.
