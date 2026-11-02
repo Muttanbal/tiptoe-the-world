@@ -13,12 +13,28 @@ small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
 .status{font-size:12px;background:#edf0e9;border-radius:6px;padding:4px 7px;display:inline-block;margin:8px 0}
 </style></head><body><h1>Destination photograph review</h1>
 <p>This is an internal visual-review aid. <strong>Previewing a photograph does not verify its location, license or live-site rendering.</strong> Public destination cards may show provisional photographs that load successfully. A successful load does not establish location accuracy or licensing.</p>
-<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="copyfail" type="button">Copy failed photo report</button></div>
+<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="testall" type="button">Test all 212 image URLs</button><button id="copyfail" type="button">Copy failed photo report</button></div>
 <p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
 <script>
-let records=[];const failedUrls=new Set();const loadedUrls=new Set();
+let records=[];const failedUrls=new Set();const loadedUrls=new Set();let testing=false,testedCount=0;
+function probeImage(item){
+ return new Promise(resolve=>{
+  const img=new Image();let settled=false;
+  const timer=setTimeout(()=>finish(false),18000);
+  function finish(ok){if(settled)return;settled=true;clearTimeout(timer);img.onload=null;img.onerror=null;if(ok){loadedUrls.add(item.key);failedUrls.delete(item.key)}else{failedUrls.add(item.key);loadedUrls.delete(item.key)}resolve();}
+  img.onload=()=>finish(true);img.onerror=()=>finish(false);img.referrerPolicy='no-referrer';img.src=item.url;
+ });
+}
+document.getElementById('testall').addEventListener('click',async()=>{
+ if(testing||!records.length)return;
+ testing=true;testedCount=0;const btn=document.getElementById('testall');btn.disabled=true;
+ const items=records.filter(x=>x.url);let next=0;
+ async function worker(){while(next<items.length){const item=items[next++];await probeImage(item);testedCount++;btn.textContent='Testing '+testedCount+' / '+items.length;updateCount();}}
+ await Promise.all(Array.from({length:Math.min(8,items.length)},()=>worker()));
+ testing=false;btn.disabled=false;btn.textContent='Retest all '+items.length+' image URLs';render();
+});
 const grid=document.getElementById('grid'),count=document.getElementById('count');
-function updateCount(){const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=grid.children.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing · '+failedUrls.size+' failed to load in this session · '+loadedUrls.size+' loaded in this session';}
+function updateCount(){const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=grid.children.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing · '+failedUrls.size+' failed to load in this session · '+loadedUrls.size+' loaded in this session'+(testing?' · bulk tested '+testedCount:'');}
 function render(){
  const term=document.getElementById('search').value.trim().toLowerCase(),filter=document.getElementById('filter').value;
  const selected=records.filter(x=>(x.city+' '+x.country).toLowerCase().includes(term)&&
@@ -27,7 +43,7 @@ function render(){
  for(const x of selected){
   const card=document.createElement('article'),preview=document.createElement('div'),details=document.createElement('div');
   preview.className='preview';details.className='details';
-  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{failedUrls.add(x.key);img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';updateCount();};img.onload=()=>{loadedUrls.add(x.key);card.dataset.imageResult='loaded';updateCount();};img.src=x.url;preview.append(img)}
+  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{failedUrls.add(x.key);loadedUrls.delete(x.key);img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';updateCount();};img.onload=()=>{loadedUrls.add(x.key);failedUrls.delete(x.key);card.dataset.imageResult='loaded';updateCount();};img.src=x.url;preview.append(img)}
   else preview.textContent='No photograph assigned';
   const title=document.createElement('strong');title.textContent=x.city+', '+x.country;
   const br=document.createElement('br'),status=document.createElement('span');status.className='status';status.textContent=x.status||'unknown';
