@@ -195,9 +195,9 @@
       "key": "mexico-oaxaca",
       "city": "Oaxaca",
       "country": "Mexico",
-      "url": null,
-      "status": "needs-review",
-      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
+      "url": "https://unsplash.com/photos/j0Mc0PtH_q4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Anastasiia Malai, Oaxaca Mexico colonial street scene, Unsplash License; https://unsplash.com/photos/a-man-sitting-on-a-bench-in-front-of-a-building-j0Mc0PtH_q4 . Source page confirms Oaxaca; image endpoint not yet tested."
     },
     {
       "key": "costa-rica-san-jose",
@@ -232,9 +232,9 @@
       "key": "brazil-sao-paulo",
       "city": "Sao Paulo",
       "country": "Brazil",
-      "url": null,
-      "status": "needs-review",
-      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
+      "url": "https://unsplash.com/photos/rm9uMJP8o18/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Filipe Freitas, São Paulo skyline from MAC USP at sunset, Unsplash License; https://unsplash.com/photos/a-view-of-a-city-from-a-distance-rm9uMJP8o18 . Source page confirms São Paulo; image endpoint not yet tested."
     },
     {
       "key": "brazil-salvador",
@@ -376,9 +376,9 @@
       "key": "spain-seville",
       "city": "Seville",
       "country": "Spain",
-      "url": null,
-      "status": "needs-review",
-      "source": "Previous Unsplash photo ID had no verified source attribution or destination evidence. Source page lookup unsuccessful; image removed pending documented replacement."
+      "url": "https://unsplash.com/photos/z_ZDCMW2qtk/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Andrea Leopardi, Plaza de España, Seville, Spain, Unsplash License; https://unsplash.com/photos/architectural-photography-of-brown-building-z_ZDCMW2qtk . Source page confirms Seville; image endpoint not yet tested."
     },
     {
       "key": "germany-berlin",
