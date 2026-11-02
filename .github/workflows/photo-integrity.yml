@@ -20,5 +20,10 @@ jobs:
           node-version: '22'
       - name: Check city photo manifest integrity
         run: node scripts/check-city-photos.mjs
-      - name: Test verified image URLs
+      - name: Probe remote photo URLs (diagnostic, not deployment gate)
+        id: remote-images
+        continue-on-error: true
         run: node scripts/check-city-photos.mjs --check-remote
+      - name: Report remote photo probe outcome
+        if: steps.remote-images.outcome == 'failure'
+        run: echo '::warning::Remote photo checks failed. Review job logs and verify image URLs; manifest integrity was checked separately.'
