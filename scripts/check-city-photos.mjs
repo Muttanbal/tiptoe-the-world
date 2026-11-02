@@ -32,6 +32,8 @@ if(process.argv.includes('--check-remote')){
    if(x.status==='verified')errors.push('Verified image request failed: '+x.key);
   }
  }
+ const failures=remote.filter(x=>!x.valid);
+ console.log('Remote photo summary:',JSON.stringify({checked:remote.length,loaded:remote.length-failures.length,failed:failures.length,failedDestinations:failures.map(x=>({city:x.city,country:x.country,status:x.status,error:x.error||x.contentType}))},null,2));
  console.log('Remote photo checks (candidates are informational, not visually verified):',JSON.stringify(remote,null,2));
 }
 if(errors.length)process.exitCode=1;
