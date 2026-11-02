@@ -297,8 +297,9 @@
       "key": "chile-santiago",
       "city": "Santiago",
       "country": "Chile",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/QH3rBhcJS54/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Agustín Ljósmyndun, Santiago skyline at dusk from Sky Costanera, Santiago, Chile. Unsplash License. https://unsplash.com/photos/landscape-photo-of-a-city-skyline-at-dusk-QH3rBhcJS54; image endpoint/rendering not yet verified."
     },
     {
       "key": "chile-valparaiso",
@@ -332,8 +333,9 @@
       "key": "colombia-cartagena",
       "city": "Cartagena",
       "country": "Colombia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/acH94SHbWS4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ricky Beron, colorful street in Cartagena, Colombia. Unsplash License. https://unsplash.com/photos/a-narrow-city-street-lined-with-colorful-buildings-acH94SHbWS4; image endpoint/rendering not yet verified."
     },
     {
       "key": "italy-rome",
@@ -392,8 +394,9 @@
       "key": "germany-munich",
       "city": "Munich",
       "country": "Germany",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/TX7bW0cJG8A/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "kwan fung, high-angle city view from Marienplatz, Munich, Germany. Unsplash License. https://unsplash.com/photos/high-angle-photography-of-city-buildings-TX7bW0cJG8A; image endpoint/rendering not yet verified."
     },
     {
       "key": "germany-hamburg",
