@@ -1435,8 +1435,9 @@
       "key": "rwanda-gisenyi",
       "city": "Gisenyi",
       "country": "Rwanda",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/OQrOSZovusw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ifeoluwa B.; Hill on Lake Kivu, Gisenyi Rwanda; https://unsplash.com/photos/a-hill-with-a-tree-on-top-of-it-OQrOSZovusw; Unsplash License; location documented on source page; direct image load and crop pending."
     },
     {
       "key": "zambia-livingstone",
@@ -1642,8 +1643,9 @@
       "key": "cook-islands-muri",
       "city": "Muri",
       "country": "Cook Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/pLw4iaU7GYQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Taakoka Island from Muri Beach, Cook Islands, 2026; https://unsplash.com/photos/tropical-island-with-palm-trees-rainbow-and-calm-ocean-pLw4iaU7GYQ; Unsplash License; location documented on source page; direct image load and crop pending."
     },
     {
       "key": "new-zealand-auckland",
