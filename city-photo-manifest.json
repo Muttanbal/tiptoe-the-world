@@ -745,8 +745,9 @@
       "key": "jamaica-ocho-rios",
       "city": "Ocho Rios",
       "country": "Jamaica",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/xOK8uZd1bZQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ocho Rios Dunn's River Falls, Jamaica; https://unsplash.com/photos/waterfalls-in-a-green-forest-xOK8uZd1bZQ; Unsplash License; source photo and image rendering not independently verified."
     },
     {
       "key": "dominican-republic-punta-cana",
@@ -1252,8 +1253,9 @@
       "key": "paraguay-asuncion",
       "city": "Asuncion",
       "country": "Paraguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/cATeXxRzKFU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Asunción city skyline and river, Paraguay; https://unsplash.com/photos/a-city-skyline-next-to-a-body-of-water-cATeXxRzKFU; Unsplash License; source photo and image rendering not independently verified."
     },
     {
       "key": "paraguay-encarnacion",
@@ -1447,8 +1449,9 @@
       "key": "cambodia-kampot",
       "city": "Kampot",
       "country": "Cambodia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/t4Kc9Yw4pNc/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Kampot riverside with mountains, Cambodia; https://unsplash.com/photos/a-river-with-mountains-in-the-background-t4Kc9Yw4pNc; Unsplash License; source photo and image rendering not independently verified."
     },
     {
       "key": "sri-lanka-colombo",
