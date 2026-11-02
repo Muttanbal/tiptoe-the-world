@@ -8,7 +8,7 @@ on:
       - 'city-photo-manifest.json'
       - 'scripts/prepare-photo-review.mjs'
 permissions:
-  contents: read
+  contents: write
 jobs:
   review:
     runs-on: ubuntu-latest
@@ -26,3 +26,12 @@ jobs:
           name: destination-photo-review
           path: photo-review/
           retention-days: 14
+      - name: Save review summary in repository
+        if: always()
+        run: |
+          if [ -f photo-review/summary.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add photo-review/summary.json
+            git diff --cached --quiet || (git commit -m "Update photo review summary" && git push)
+          fi
