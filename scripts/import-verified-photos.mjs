@@ -15,12 +15,13 @@ const manifest = JSON.parse(await readFile(path, 'utf8'));
 const allowed = new Set(['image/jpeg', 'image/png', 'image/webp']);
 let imported = 0, skipped = 0, failed = 0;
 for (const city of manifest.cities) {
-  if (city.status !== 'verified' || !city.sourceUrl || !city.license || !city.credit) {
+  if (city.status !== 'verified' || !(city.sourceUrl || /^https:\/\//.test(city.url || '')) || !city.license || !city.credit) {
     skipped++; continue;
   }
-  if (!/^https:\/\//.test(city.sourceUrl)) { failed++; console.error('Invalid source:', city.key); continue; }
+  const downloadUrl = city.sourceUrl || city.url;
+  if (!/^https:\/\//.test(downloadUrl)) { failed++; console.error('Invalid source:', city.key); continue; }
   try {
-    const response = await fetch(city.sourceUrl, {signal: AbortSignal.timeout(20000)});
+    const response = await fetch(downloadUrl, {signal: AbortSignal.timeout(20000)});
     if (!response.ok) throw Error('HTTP ' + response.status);
     const type = response.headers.get('content-type')?.split(';')[0]?.toLowerCase();
     if (!allowed.has(type)) throw Error('Not a supported image: ' + type);
@@ -31,6 +32,7 @@ for (const city of manifest.cities) {
     const full = resolve(root, file);
     await mkdir(dirname(full), {recursive:true});
     await writeFile(full, data);
+    city.sourceUrl = downloadUrl;
     city.url = './' + file;
     city.sha256 = createHash('sha256').update(data).digest('hex');
     imported++;
