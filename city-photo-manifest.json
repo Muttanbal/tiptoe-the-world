@@ -1219,8 +1219,9 @@
       "key": "belize-san-ignacio",
       "city": "San Ignacio",
       "country": "Belize",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/f6vJN2KPOUg/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meritt Thomas; downtown San Ignacio markets and restaurants at night; https://unsplash.com/photos/people-walking-on-street-during-night-time-f6vJN2KPOUg; Unsplash License; page metadata confirmed; image endpoint and rendering untested."
     },
     {
       "key": "cuba-havana",
@@ -1266,8 +1267,9 @@
       "key": "uruguay-colonia-del-sacramento",
       "city": "Colonia del Sacramento",
       "country": "Uruguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/GtnKbttkL4g/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "William Warby; vintage car beside vine-covered historic building in Colonia del Sacramento; https://unsplash.com/photos/a-car-parked-in-front-of-a-building-covered-in-vines-GtnKbttkL4g; Unsplash License; page metadata confirmed; image endpoint and rendering untested."
     },
     {
       "key": "paraguay-asuncion",
@@ -1421,8 +1423,9 @@
       "key": "rwanda-musanze",
       "city": "Musanze",
       "country": "Rwanda",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/UIrpPvLQ0A8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Dieuvain Musaghi; people walking in Musanze Ruhengeri Rwanda; https://unsplash.com/photos/a-group-of-people-walking-down-a-street-UIrpPvLQ0A8; Unsplash License; page metadata confirmed; image endpoint and rendering untested."
     },
     {
       "key": "rwanda-gisenyi",
