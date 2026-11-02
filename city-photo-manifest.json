@@ -1173,8 +1173,9 @@
       "key": "cuba-havana",
       "city": "Havana",
       "country": "Cuba",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ZjHKZaMCLcQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meg von Haartman; classic cars on Havana street, Cuba; https://unsplash.com/photos/classic-cars-parked-on-a-vibrant-city-street-ZjHKZaMCLcQ; Unsplash License; rendering pending."
     },
     {
       "key": "cuba-trinidad",
@@ -1236,15 +1237,17 @@
       "key": "austria-vienna",
       "city": "Vienna",
       "country": "Austria",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/Wj_2ZEpLOno/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash: Vienna, Austria nighttime skyline; https://unsplash.com/photos/aerial-photography-of-an-urban-city-skyline-during-nighttime-Wj_2ZEpLOno; Unsplash License; rendering pending."
     },
     {
       "key": "austria-salzburg",
       "city": "Salzburg",
       "country": "Austria",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/DBZODfYErzI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nikolai Kolosov; Hohensalzburg Fortress overlooking Salzburg, Austria; https://unsplash.com/photos/hohensalzburg-fortress-overlooks-salzburg-city-with-mountains-DBZODfYErzI; Unsplash License; rendering pending."
     },
     {
       "key": "austria-innsbruck",
@@ -1278,8 +1281,9 @@
       "key": "turkiye-istanbul",
       "city": "Istanbul",
       "country": "Türkiye",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/HlOcBSZ71R0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unsplash; Bosphorus cityscape with mosque and bridge, Istanbul, Türkiye; https://unsplash.com/photos/cityscape-with-mosque-and-bridge-over-water-HlOcBSZ71R0; Unsplash License; rendering pending."
     },
     {
       "key": "turkiye-cappadocia",
