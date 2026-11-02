@@ -1,5 +1,5 @@
 key,city,country,status,source_url,download_result
-"united-states-new-york","New York","United States","candidate","https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1200&q=85","downloaded-for-review-not-approved"
+"united-states-new-york","New York","United States","candidate-needs-visual-verification","https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%2C%20New%20York.%20%28Unsplash%29.jpg?width=1200","download-failed: HTTP 429"
 "united-states-los-angeles","Los Angeles","United States","candidate","https://images.unsplash.com/photo-1534190760961-74e8c1c5c3da?w=1200&q=85","downloaded-for-review-not-approved"
 "united-states-san-francisco","San Francisco","United States","candidate","https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=1200&q=85","downloaded-for-review-not-approved"
 "united-states-las-vegas","Las Vegas","United States","candidate","https://unsplash.com/photos/PYaP4awj9Uc/download?force=true&w=1200","download-failed: HTTP 401"
