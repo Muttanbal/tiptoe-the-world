@@ -148,8 +148,12 @@ function installCityPhoto(element,name,country){
  element.dataset.cityLabel=name;
  cityPhotoFor(name,country).then(url=>{
   element.classList.remove('city-photo-loading');
-  if(url){element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.add('city-photo-loaded')}
-  else{element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph awaiting verification')}
+  const unavailable=()=>{element.style.backgroundImage='none';element.classList.remove('city-photo-loaded');element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph awaiting verification')};
+  if(!url){unavailable();return}
+  const testImage=new Image();
+  testImage.onload=()=>{element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.add('city-photo-loaded');element.setAttribute('aria-label',name+', '+country)};
+  testImage.onerror=unavailable;
+  testImage.src=url;
  });
 }
 /* Static country imagery: no runtime API lookup and no blank cards. */
