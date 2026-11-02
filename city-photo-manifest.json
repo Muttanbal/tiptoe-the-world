@@ -260,8 +260,9 @@
       "key": "brazil-recife",
       "city": "Recife",
       "country": "Brazil",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/xgURUGF7u3U/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Silvia Mc Donald; Boa Viagem beach, Recife, Brazil; https://unsplash.com/photos/xgURUGF7u3U; Unsplash License; render unverified."
     },
     {
       "key": "argentina-buenos-aires",
@@ -439,8 +440,9 @@
       "key": "greece-crete",
       "city": "Crete",
       "country": "Greece",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/oS4WdXHNUo0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Tadeusz Zachwieja; coastal road near Paleochora, Crete, Greece; https://unsplash.com/photos/oS4WdXHNUo0; Unsplash License; render unverified."
     },
     {
       "key": "morocco-marrakech",
@@ -522,8 +524,9 @@
       "key": "south-africa-johannesburg",
       "city": "Johannesburg",
       "country": "South Africa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/_h-L45TSmGM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Simon Hurry; Johannesburg city skyline, South Africa; https://unsplash.com/photos/_h-L45TSmGM; Unsplash License; render unverified."
     },
     {
       "key": "south-africa-durban",
