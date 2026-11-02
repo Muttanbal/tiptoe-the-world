@@ -130,7 +130,7 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 /* Destination photo audit: each city has its own resolved image and no country-image inheritance. */
 /* City photo registry: assigned candidate photos may display as provisional imagery, but only manifest status 'verified' represents approved location/source. Broken images fall back to unavailable. */
 const cityPhotoCache=new Map();
-const cityPhotoManifestPromise=fetch('./city-photo-manifest.json').then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>{const byKey=new Map(),byLocation=new Map();for(const x of m.cities||[]){byKey.set(x.key,x);byLocation.set(x.country+'|'+x.city,x)}return {byKey,byLocation}}).catch(()=>({byKey:new Map(),byLocation:new Map()}));
+const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>{const byKey=new Map(),byLocation=new Map();for(const x of m.cities||[]){byKey.set(x.key,x);byLocation.set(x.country+'|'+x.city,x)}return {byKey,byLocation}}).catch(()=>({byKey:new Map(),byLocation:new Map()}));
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
