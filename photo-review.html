@@ -13,7 +13,7 @@ small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
 .status{font-size:12px;background:#edf0e9;border-radius:6px;padding:4px 7px;display:inline-block;margin:8px 0}
 </style></head><body><h1>Destination photograph review</h1>
 <p>This is an internal visual-review aid. <strong>Previewing a photograph does not verify its location, license or live-site rendering.</strong> Public destination cards may show provisional photographs that load successfully. A successful load does not establish location accuracy or licensing.</p>
-<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="testall" type="button">Test all 212 image URLs</button><button id="copyfail" type="button">Copy failed photo report</button></div>
+<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="testall" type="button">Test all 212 image URLs</button><button id="copyfail" type="button">Copy failed photo report</button><button id="download" type="button">Download all photo test results (CSV)</button></div>
 <p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
 <script>
 let records=[];const failedUrls=new Set();const loadedUrls=new Set();let testing=false,testedCount=0;
@@ -54,6 +54,14 @@ function render(){
  }
  updateCount();
 }
+function csvCell(value){return '"'+String(value??'').replaceAll('"','""')+'"'}
+document.getElementById('download').addEventListener('click',()=>{
+ if(!records.length)return;
+ const lines=[['key','city','country','manifest_status','load_test_result','image_url','source'].map(csvCell).join(',')];
+ for(const x of records){const result=!x.url?'missing':failedUrls.has(x.key)?'failed':loadedUrls.has(x.key)?'loaded':'not_tested';lines.push([x.key,x.city,x.country,x.status,result,x.url,x.source].map(csvCell).join(','))}
+ const blob=new Blob([lines.join('\\r\\n')+'\\r\\n'],{type:'text/csv;charset=utf-8'});
+ const url=URL.createObjectURL(blob),link=document.createElement('a');link.href=url;link.download='tiptoe-photo-audit.csv';document.body.append(link);link.click();link.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);
+});
 document.getElementById('copyfail').addEventListener('click',async()=>{const rows=records.filter(x=>failedUrls.has(x.key)).map(x=>[x.key,x.city,x.country,x.url].join('\t'));const report=['key\tcity\tcountry\turl',...rows].join('\n');try{await navigator.clipboard.writeText(report);document.getElementById('copyfail').textContent='Copied '+rows.length+' failures'}catch(e){document.getElementById('copyfail').textContent='Copy unavailable — '+rows.length+' failures'}});
 for(const id of ['search','filter'])document.getElementById(id).addEventListener(id==='search'?'input':'change',render);
 fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(m=>{records=m.cities||[];render()}).catch(e=>{count.textContent='Could not load photo manifest: '+e.message});
