@@ -28,6 +28,14 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         continue-on-error: true
         run: node scripts/check-city-photos.mjs --check-remote
+      - name: Upload destination URL audit report
+        if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: destination-photo-url-audit
+          path: photo-url-audit.json
+          if-no-files-found: warn
+          retention-days: 30
       - name: Report remote photo probe outcome
         if: steps.remote-images.outcome == 'failure'
         run: echo '::warning::Remote photo checks failed. Review job logs and verify image URLs; manifest integrity was checked separately.'
