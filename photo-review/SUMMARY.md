@@ -4,10 +4,10 @@
 |---|---:|
 | total | 212 |
 | downloaded | 26 |
-| failed | 103 |
-| missingUrl | 83 |
+| failed | 108 |
+| missingUrl | 78 |
 | awaitingVerification | 210 |
 | locallyHosted | 0 |
-| generatedAt | 2026-11-02T02:35:20.223Z |
+| generatedAt | 2026-11-02T02:36:11.288Z |
 
 Downloads are candidates only; destination accuracy and rights require verification before publishing.
