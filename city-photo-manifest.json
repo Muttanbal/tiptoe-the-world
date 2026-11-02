@@ -1297,8 +1297,9 @@
       "key": "paraguay-ciudad-del-este",
       "city": "Ciudad del Este",
       "country": "Paraguay",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Este%20-%20Paraguay%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Vanderlei Bissi; street in Ciudad del Este, Paraguay; CC BY-SA 3.0 (attribution and share-alike required); https://commons.wikimedia.org/wiki/File:Ciudad_del_Este_-_Paraguay_-_panoramio.jpg; source and license checked; direct image load and appearance unverified."
     },
     {
       "key": "austria-vienna",
@@ -1605,8 +1606,9 @@
       "key": "tonga-ha-apai",
       "city": "Ha'apai",
       "country": "Tonga",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "David Broad; Ha'apai islands photographed October 2014, Tonga; CC BY 3.0 (attribution required); https://commons.wikimedia.org/wiki/File:Ha%27apai_Islands_near_Tonga,_South_Pacific_-_panoramio_(2).jpg; source and license checked; direct image load and appearance unverified."
     },
     {
       "key": "solomon-islands-honiara",
@@ -1628,8 +1630,9 @@
       "key": "solomon-islands-munda",
       "city": "Munda",
       "country": "Solomon Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS056-E-177552%20-%20View%20of%20Solomon%20Islands%20-%20New%20Georgia%20-%20Roviana%20Lagoon%20-%20Munda%20-%20Sasevele%20-%20Tombatuni%20-%20Baraulu%20-%20Ndora%20-%20Ndokendoke%20Island%20-%20Langarana%20(cropped).jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "NASA Johnson Space Center Earth Science and Remote Sensing Unit; 2018 aerial photo of Munda and Roviana Lagoon, Solomon Islands; public domain NASA government photograph; https://commons.wikimedia.org/wiki/File:ISS056-E-177552_-_View_of_Solomon_Islands_-_New_Georgia_-_Roviana_Lagoon_-_Munda_-_Sasevele_-_Tombatuni_-_Baraulu_-_Ndora_-_Ndokendoke_Island_-_Langarana_(cropped).jpg; source and license checked; direct image load and appearance unverified."
     },
     {
       "key": "cook-islands-rarotonga",
