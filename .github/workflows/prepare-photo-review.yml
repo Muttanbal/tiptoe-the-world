@@ -5,11 +5,14 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/prepare-photo-review.yml'
+      - 'city-photo-manifest.json'
+      - 'scripts/prepare-photo-review.mjs'
 permissions:
   contents: read
 jobs:
   review:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -18,6 +21,7 @@ jobs:
       - name: Download available candidate photographs for review
         run: node scripts/prepare-photo-review.mjs
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: destination-photo-review
           path: photo-review/
