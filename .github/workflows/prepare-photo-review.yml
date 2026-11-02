@@ -33,6 +33,8 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add photo-review/summary.json photo-review/review.csv photo-review/SUMMARY.md
-            git add photo-review/*.jpg photo-review/*.png photo-review/*.webp 2>/dev/null || true
+            find photo-review -type f -name '*.jpg' -print0 | xargs -0 -r git add
+            find photo-review -type f -name '*.png' -print0 | xargs -0 -r git add
+            find photo-review -type f -name '*.webp' -print0 | xargs -0 -r git add
             git diff --cached --quiet || (git commit -m "Update photo review summary" && git push)
           fi
