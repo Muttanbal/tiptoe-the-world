@@ -76,9 +76,9 @@
       "key": "france-nice",
       "city": "Nice",
       "country": "France",
-      "url": null,
-      "status": "needs-review",
-      "source": "This Unsplash image is commonly associated with Santorini, Greece, rather than Nice, France; reject pending location verification."
+      "url": "https://unsplash.com/photos/VOl5DOlRXW4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Alex Ghiurau, coastal city with blue ocean and beach, Nice, France, Unsplash License; https://unsplash.com/photos/coastal-city-with-blue-ocean-and-beach-VOl5DOlRXW4 . Direct image rendering not yet checked."
     },
     {
       "key": "france-lyon",
