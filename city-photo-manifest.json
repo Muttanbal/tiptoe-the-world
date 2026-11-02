@@ -244,8 +244,9 @@
       "key": "brazil-salvador",
       "city": "Salvador",
       "country": "Brazil",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/IA0-dP_hnbI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Marianna Smiley; Pelourinho historic buildings, Salvador, Brazil; https://unsplash.com/photos/brown-and-white-concrete-buildings-under-white-clouds-during-daytime-IA0-dP_hnbI ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "brazil-florianopolis",
@@ -757,8 +758,9 @@
       "key": "ecuador-quito",
       "city": "Quito",
       "country": "Ecuador",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/mhhkHxv8Nz0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Anton Lukin; Quito skyline and mountains, Ecuador; https://unsplash.com/photos/quito-with-mountains-in-the-background-mhhkHxv8Nz0 ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "ecuador-guayaquil",
@@ -883,8 +885,9 @@
       "key": "switzerland-interlaken",
       "city": "Interlaken",
       "country": "Switzerland",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/GwX4P8PxX6A/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Lake Brienz and mountains, Interlaken, Switzerland; https://unsplash.com/photos/a-mountain-covered-in-trees-next-to-a-body-of-water-GwX4P8PxX6A ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "tunisia-tunis",
@@ -968,8 +971,9 @@
       "key": "south-korea-jeju",
       "city": "Jeju",
       "country": "South Korea",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/6SssvDVOMLo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Spenser Sembrat; rocky Jeju coast and ocean, Jeju, South Korea; https://unsplash.com/photos/rocky-cliff-overlooking-the-blue-ocean-and-distant-town-6SssvDVOMLo ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "malaysia-kuala-lumpur",
@@ -983,8 +987,9 @@
       "key": "malaysia-penang",
       "city": "Penang",
       "country": "Malaysia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/naAV-i32T-w/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nimalan nims; Khoo Kongsi, George Town, Penang, Malaysia; https://unsplash.com/photos/a-chinese-building-with-a-car-parked-in-front-of-it-naAV-i32T-w ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "malaysia-langkawi",
@@ -1033,8 +1038,9 @@
       "key": "philippines-el-nido",
       "city": "El Nido",
       "country": "Philippines",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ClGltvcB2NI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Mario von Rotz; Cadlao Lagoon, El Nido, Palawan, Philippines; https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-and-trees-ClGltvcB2NI ; Unsplash License; direct URL not yet load-tested."
     },
     {
       "key": "nepal-kathmandu",
