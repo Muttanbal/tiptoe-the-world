@@ -1121,8 +1121,9 @@
       "key": "samoa-upolu",
       "city": "Upolu",
       "country": "Samoa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/QGwQYMaPySg/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Nik Schmidt; palm tree on sandy beach, Upolu Samoa; https://unsplash.com/photos/a-palm-tree-sitting-on-top-of-a-sandy-beach-QGwQYMaPySg; Unsplash License; image load and live rendering not yet verified."
     },
     {
       "key": "samoa-savaii",
@@ -1408,8 +1409,9 @@
       "key": "botswana-gaborone",
       "city": "Gaborone",
       "country": "Botswana",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/tyCcpbkgaR4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Gaborone central business district aerial view, Botswana; https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-tyCcpbkgaR4; Unsplash License; image load and live rendering not yet verified."
     },
     {
       "key": "rwanda-kigali",
