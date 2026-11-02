@@ -790,8 +790,9 @@
       "key": "ecuador-cuenca",
       "city": "Cuenca",
       "country": "Ecuador",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/5BnLjFXTnmE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Abbie Bernet; Cuenca Ecuador rooftops and cathedral; https://unsplash.com/photos/aerial-photo-of-brown-and-white-concrete-building-during-daytime-5BnLjFXTnmE; Unsplash License; direct image load and live visual check pending."
     },
     {
       "key": "bolivia-la-paz",
@@ -914,8 +915,9 @@
       "key": "tunisia-tunis",
       "city": "Tunis",
       "country": "Tunisia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/EBiAkuExLDI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Bab al-Bhar gate and plaza, Tunis Tunisia; https://unsplash.com/photos/an-aerial-view-of-a-city-square-with-people-walking-around-EBiAkuExLDI; Unsplash License; direct image load and live visual check pending."
     },
     {
       "key": "tunisia-hammamet",
@@ -957,8 +959,9 @@
       "key": "namibia-windhoek",
       "city": "Windhoek",
       "country": "Namibia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/LWWcRB7WCJQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Windhoek Namibia urban street and buildings; https://unsplash.com/photos/a-street-with-trees-and-buildings-on-the-side-LWWcRB7WCJQ; Unsplash License; direct image load and live visual check pending."
     },
     {
       "key": "namibia-swakopmund",
