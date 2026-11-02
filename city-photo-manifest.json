@@ -1153,8 +1153,9 @@
       "key": "vanuatu-tanna",
       "city": "Tanna",
       "country": "Vanuatu",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanuatu%20Tanna%20Yasur.JPG?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Bruno.menetrier; volcanic ash plain of Mount Yasur, Tanna, Vanuatu; public domain dedication; https://commons.wikimedia.org/wiki/File:Vanuatu_Tanna_Yasur.JPG; source and license confirmed; direct file load and site rendering pending."
     },
     {
       "key": "papua-new-guinea-port-moresby",
@@ -1175,8 +1176,9 @@
       "key": "papua-new-guinea-rabaul",
       "city": "Rabaul",
       "country": "Papua New Guinea",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20from%20Vulcanology%20Observatory.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Stefan Krasowski; Rabaul town viewed from volcanology observatory, Papua New Guinea; CC BY 2.0 attribution required; https://commons.wikimedia.org/wiki/File:Rabaul_from_Vulcanology_Observatory.jpg; source and license confirmed; direct file load and site rendering pending."
     },
     {
       "key": "guatemala-antigua-guatemala",
@@ -1607,8 +1609,9 @@
       "key": "solomon-islands-honiara",
       "city": "Honiara",
       "country": "Solomon Islands",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Honiara%20panorama.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Friars Balsam; Honiara city panorama, Solomon Islands; CC BY 2.0 attribution required; https://commons.wikimedia.org/wiki/File:Honiara_panorama.jpg; source and license confirmed; direct file load and site rendering pending."
     },
     {
       "key": "solomon-islands-gizo",
