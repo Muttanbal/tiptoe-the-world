@@ -967,15 +967,17 @@
       "key": "namibia-swakopmund",
       "city": "Swakopmund",
       "country": "Namibia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ZLO2qXHPVkM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Swakopmund Namibia coastal town and Atlantic Ocean; https://unsplash.com/photos/a-beach-with-buildings-in-the-background-ZLO2qXHPVkM; Unsplash License; direct image loading and location verification pending."
     },
     {
       "key": "namibia-sossusvlei",
       "city": "Sossusvlei",
       "country": "Namibia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/5tM6v8f0m1I/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Namib Desert Sossusvlei red dunes, Namibia; https://unsplash.com/photos/a-sand-dune-in-the-desert-with-a-blue-sky-5tM6v8f0m1I; Unsplash License; direct image loading and location verification pending."
     },
     {
       "key": "south-korea-seoul",
@@ -1036,8 +1038,9 @@
       "key": "singapore-sentosa",
       "city": "Sentosa",
       "country": "Singapore",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/cY6nXJkL4kA/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Sentosa Island beach and palm trees, Singapore; https://unsplash.com/photos/palm-trees-on-a-sandy-beach-cY6nXJkL4kA; Unsplash License; direct image loading and location verification pending."
     },
     {
       "key": "singapore-chinatown",
