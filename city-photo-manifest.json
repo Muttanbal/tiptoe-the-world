@@ -772,8 +772,9 @@
       "key": "dominican-republic-puerto-plata",
       "city": "Puerto Plata",
       "country": "Dominican Republic",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/GlKC5AMPXqY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Yenny Wu; beach and boat in Puerto Plata Dominican Republic; https://unsplash.com/photos/a-view-of-a-beach-with-a-boat-in-the-water-GlKC5AMPXqY; Unsplash License; source location confirmed, image loading and visual crop unverified."
     },
     {
       "key": "ecuador-quito",
@@ -953,8 +954,9 @@
       "key": "uganda-entebbe",
       "city": "Entebbe",
       "country": "Uganda",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ZViXeRX0JK4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wietse Jongsma; open-air market in Entebbe Uganda; https://unsplash.com/photos/a-busy-open-air-market-is-full-of-vendors-ZViXeRX0JK4; Unsplash License; source location confirmed, image loading and visual crop unverified."
     },
     {
       "key": "uganda-jinja",
@@ -1386,8 +1388,9 @@
       "key": "botswana-maun",
       "city": "Maun",
       "country": "Botswana",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/pItbVRnceH4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Guinea fowl in Okavango Delta near Maun Botswana; https://unsplash.com/photos/a-flock-of-birds-standing-on-top-of-a-grass-covered-field-pItbVRnceH4; Unsplash License; source location confirmed, image loading and visual crop unverified."
     },
     {
       "key": "botswana-kasane",
