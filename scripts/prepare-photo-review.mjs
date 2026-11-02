@@ -7,7 +7,7 @@ const out = resolve(root, 'photo-review');
 await mkdir(out, {recursive: true});
 const cities = manifest.cities || [];
 const csv = ['key,city,country,status,source_url,download_result'];
-const summary = {total: cities.length, downloaded: 0, failed: 0, missingUrl: 0, awaitingVerification: 0, locallyHosted: 0};
+const summary = {total: cities.length, downloaded: 0, failed: 0, missingUrl: 0, awaitingVerification: 0, locallyHosted: 0, generatedAt: new Date().toISOString()};
 const quote = x => '"' + String(x ?? '').replaceAll('"', '""') + '"';
 const results = await Promise.all(cities.map(async (c) => {
   if (c.status !== 'verified') summary.awaitingVerification++;
