@@ -22,11 +22,11 @@ function render(){
  const term=document.getElementById('search').value.trim().toLowerCase(),filter=document.getElementById('filter').value;
  const selected=records.filter(x=>(x.city+' '+x.country).toLowerCase().includes(term)&&
  (filter==='all'||filter==='assigned'&&!!x.url||filter==='missing'&&!x.url||filter==='verified'&&x.status==='verified'||filter==='pending'&&!!x.url&&x.status!=='verified'));
- grid.replaceChildren();count.textContent=selected.length+' of '+records.length+' destinations shown';
+ grid.replaceChildren();const assigned=records.filter(x=>!!x.url).length,verified=records.filter(x=>x.status==='verified').length;count.textContent=selected.length+' of '+records.length+' destinations shown · '+assigned+' assigned · '+verified+' marked verified · '+(records.length-assigned)+' missing';
  for(const x of selected){
   const card=document.createElement('article'),preview=document.createElement('div'),details=document.createElement('div');
   preview.className='preview';details.className='details';
-  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{preview.textContent='Image could not load';};img.src=x.url;preview.append(img)}
+  if(x.url){const img=document.createElement('img');img.loading='lazy';img.alt='Candidate photograph for '+x.city+', '+x.country;img.referrerPolicy='no-referrer';img.onerror=()=>{img.remove();preview.textContent='Image could not load';card.dataset.imageResult='failed';};img.onload=()=>{card.dataset.imageResult='loaded';};img.src=x.url;preview.append(img)}
   else preview.textContent='No photograph assigned';
   const title=document.createElement('strong');title.textContent=x.city+', '+x.country;
   const br=document.createElement('br'),status=document.createElement('span');status.className='status';status.textContent=x.status||'unknown';
