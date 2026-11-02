@@ -6,8 +6,9 @@
       "key": "united-states-new-york",
       "city": "New York",
       "country": "United States",
-      "url": "https://images.unsplash.com/photo-1485738422979-f5c462d49f74?w=1200&q=85",
-      "status": "candidate"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20York%2C%20New%20York.%20%28Unsplash%29.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Ferdinand Stöhr, Rockefeller Center view of Manhattan, New York, CC0 1.0; https://commons.wikimedia.org/wiki/File:New_York,_New_York._(Unsplash).jpg ; destination and license confirmed from Wikimedia Commons, direct file rendering pending."
     },
     {
       "key": "united-states-los-angeles",
