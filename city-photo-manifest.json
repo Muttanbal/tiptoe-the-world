@@ -1050,8 +1050,9 @@
       "key": "singapore-chinatown",
       "city": "Chinatown",
       "country": "Singapore",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/s7sTmNlkKLw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Colorful shophouses and market stalls in Chinatown, Singapore; https://unsplash.com/photos/a-city-street-filled-with-lots-of-shops-s7sTmNlkKLw; Unsplash License; source location checked; image load and crop pending."
     },
     {
       "key": "philippines-manila",
@@ -1147,8 +1148,9 @@
       "key": "papua-new-guinea-port-moresby",
       "city": "Port Moresby",
       "country": "Papua New Guinea",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/XDPjn4pvVc0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Jessica Elias Angoman; Ela Beach waterfront in Port Moresby; https://unsplash.com/photos/a-group-of-people-standing-on-a-sidewalk-near-the-ocean-XDPjn4pvVc0; Unsplash License; source location checked; image load and crop pending."
     },
     {
       "key": "papua-new-guinea-madang",
@@ -1176,8 +1178,9 @@
       "key": "guatemala-guatemala-city",
       "city": "Guatemala City",
       "country": "Guatemala",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/dBsYvS1kFDQ/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Juan Carlos Pavón; Guatemala City skyline and volcano backdrop; https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-dBsYvS1kFDQ; Unsplash License; source location checked; image load and crop pending."
     },
     {
       "key": "guatemala-flores",
