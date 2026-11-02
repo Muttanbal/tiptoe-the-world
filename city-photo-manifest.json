@@ -252,8 +252,9 @@
       "key": "brazil-florianopolis",
       "city": "Florianópolis",
       "country": "Brazil",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/BdvwzUb2hrA/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "will dornelles; Praia dos Ingleses, Florianópolis, Brazil; https://unsplash.com/photos/BdvwzUb2hrA; Unsplash License; image load pending."
     },
     {
       "key": "brazil-recife",
@@ -1301,8 +1302,9 @@
       "key": "turkiye-antalya",
       "city": "Antalya",
       "country": "Türkiye",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/yqTO4f90Ufw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Igor Sporynin; Kaleiçi old-town marina, Antalya, Türkiye; https://unsplash.com/photos/yqTO4f90Ufw; Unsplash License; image load pending."
     },
     {
       "key": "ireland-dublin",
