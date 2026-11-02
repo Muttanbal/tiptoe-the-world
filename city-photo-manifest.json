@@ -1389,9 +1389,9 @@
       "key": "jordan-petra",
       "city": "Petra",
       "country": "Jordan",
-      "url": null,
-      "status": "needs-review",
-      "source": "Generic desert image; does not establish Petra as the depicted destination. Replace with a location-specific photograph."
+      "url": "https://unsplash.com/photos/irUJJCORE1c/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Andrea Leopardi, Petra Treasury, Petra, Jordan; Unsplash License; https://unsplash.com/photos/petra-jordan-irUJJCORE1c . Destination and license supported by source page; direct download rendering still untested."
     },
     {
       "key": "jordan-wadi-rum",
