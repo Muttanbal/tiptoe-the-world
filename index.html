@@ -130,12 +130,12 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 /* Destination photo audit: each city has its own resolved image and no country-image inheritance. */
 /* Permanent city photo registry: static, reviewable and no runtime encyclopaedia lookups. */
 const cityPhotoCache=new Map();
-const cityPhotoManifestPromise=fetch('./city-photo-manifest.json').then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>new Map(m.cities.map(x=>[x.key,x]))).catch(()=>new Map());
+const cityPhotoManifestPromise=fetch('./city-photo-manifest.json').then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>{const byKey=new Map(),byLocation=new Map();for(const x of m.cities||[]){byKey.set(x.key,x);byLocation.set(x.country+'|'+x.city,x)}return {byKey,byLocation}}).catch(()=>({byKey:new Map(),byLocation:new Map()}));
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  const photo=await cityPhotoManifestPromise;
- const match=photo.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')) || Array.from(photo.values()).find(x=>x.city===name&&x.country===country);
+ const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
  const url=(match?.status === 'verified' && match?.url) || null;
  cityPhotoCache.set(key,url);
  return url;
