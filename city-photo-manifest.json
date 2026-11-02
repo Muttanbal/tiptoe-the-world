@@ -1098,15 +1098,17 @@
       "key": "nepal-chitwan",
       "city": "Chitwan",
       "country": "Nepal",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/ZnpdlEnh_m0/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Sushanta Rokka; elephants at riverbank in Chitwan National Park; https://unsplash.com/photos/man-watches-elephants-by-a-riverbank-ZnpdlEnh_m0; Unsplash License; source location checked, download and crop not yet verified."
     },
     {
       "key": "samoa-apia",
       "city": "Apia",
       "country": "Samoa",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/DpjsRxqdtgI/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wilson Stratton; tropical palm foliage photographed in Apia Samoa; https://unsplash.com/photos/photo-of-green-plant-DpjsRxqdtgI; Unsplash License; source location checked, download and crop not yet verified."
     },
     {
       "key": "samoa-upolu",
@@ -1229,8 +1231,9 @@
       "key": "cuba-varadero",
       "city": "Varadero",
       "country": "Cuba",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/YGEetFpHUZs/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Isaac Gallinati; aerial Varadero beach and city; https://unsplash.com/photos/a-birds-eye-view-of-a-beach-and-a-city-YGEetFpHUZs; Unsplash License; source location checked, download and crop not yet verified."
     },
     {
       "key": "uruguay-montevideo",
@@ -1503,8 +1506,9 @@
       "key": "united-arab-emirates-sharjah",
       "city": "Sharjah",
       "country": "United Arab Emirates",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/kNHTWoJM9cY/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Sharjah city skyline from waterfront; https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-kNHTWoJM9cY; Unsplash License; source location checked, download and crop not yet verified."
     },
     {
       "key": "jordan-amman",
