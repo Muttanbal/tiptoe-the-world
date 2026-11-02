@@ -723,8 +723,9 @@
       "key": "panama-boquete",
       "city": "Boquete",
       "country": "Panama",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/nxjuPwka5-s/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Richie Gomez; cars along road in Boquete District Panama; https://unsplash.com/photos/a-group-of-cars-parked-on-the-side-of-a-road-nxjuPwka5-s; Unsplash License; location on source page checked; image download and site rendering pending."
     },
     {
       "key": "jamaica-montego-bay",
@@ -927,8 +928,9 @@
       "key": "tunisia-hammamet",
       "city": "Hammamet",
       "country": "Tunisia",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/zcfzb73cf1k/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Halima Bouchouicha; Hammamet rooftop city and coastal view; https://unsplash.com/photos/a-view-of-a-city-from-a-rooftop-zcfzb73cf1k; Unsplash License; location on source page checked; image download and site rendering pending."
     },
     {
       "key": "tunisia-sousse",
@@ -1202,8 +1204,9 @@
       "key": "belize-caye-caulker",
       "city": "Caye Caulker",
       "country": "Belize",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://unsplash.com/photos/tLkSLhBvUgo/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meritt Thomas; Caye Caulker scuba dive shop and boats on dock; https://unsplash.com/photos/brown-wooden-house-on-sea-dock-during-daytime-tLkSLhBvUgo; Unsplash License; location on source page checked; image download and site rendering pending."
     },
     {
       "key": "belize-san-ignacio",
