@@ -178,8 +178,9 @@
       "key": "mexico-mexico-city",
       "city": "Mexico City",
       "country": "Mexico",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?w=1200&q=85",
+      "status": "candidate-needs-visual-verification",
+      "source": "Mexico City urban landscape candidate; source location and visual content require confirmation."
     },
     {
       "key": "mexico-cancun",
@@ -220,8 +221,9 @@
       "key": "brazil-rio-de-janeiro",
       "city": "Rio de Janeiro",
       "country": "Brazil",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?w=1200&q=85",
+      "status": "candidate-needs-visual-verification",
+      "source": "Rio de Janeiro cityscape candidate; source location and visual content require confirmation."
     },
     {
       "key": "brazil-sao-paulo",
@@ -255,8 +257,9 @@
       "key": "argentina-buenos-aires",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "url": null,
-      "status": "needs-review"
+      "url": "https://images.unsplash.com/photo-1589909202802-8f4aadce1849?w=1200&q=85",
+      "status": "candidate-needs-visual-verification",
+      "source": "Buenos Aires urban landmark candidate; source location and visual content require confirmation."
     },
     {
       "key": "argentina-mendoza",
