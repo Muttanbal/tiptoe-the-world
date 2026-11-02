@@ -4,7 +4,7 @@
 <style>
 :root{font-family:system-ui,sans-serif;color:#15302b;background:#f6f6f1}
 body{margin:0 auto;padding:24px;max-width:1300px}h1{margin-bottom:4px}p{line-height:1.5}
-.controls{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0}select,input{padding:11px;border:1px solid #b4c0b7;border-radius:8px;background:white}
+.controls{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0}select,input,button{padding:11px;border:1px solid #b4c0b7;border-radius:8px;background:white}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
 article{background:white;border:1px solid #d7e1db;border-radius:12px;overflow:hidden}
 .preview{height:165px;background:#e7ebe8;display:grid;place-items:center;overflow:hidden}
@@ -13,7 +13,7 @@ small{color:#56645f}a{color:#176a52;overflow-wrap:anywhere}
 .status{font-size:12px;background:#edf0e9;border-radius:6px;padding:4px 7px;display:inline-block;margin:8px 0}
 </style></head><body><h1>Destination photograph review</h1>
 <p>This is an internal visual-review aid. <strong>Previewing a photograph does not verify its location, license or live-site rendering.</strong> Only manifest entries marked <code>verified</code> appear on public destination cards.</p>
-<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select></div>
+<div class="controls"><input id="search" type="search" placeholder="Search city or country" aria-label="Search destination"><select id="filter" aria-label="Photo status"><option value="all">All destinations</option><option value="assigned">Assigned photographs</option><option value="missing">Missing photographs</option><option value="verified">Verified</option><option value="pending">Awaiting verification</option><option value="broken">Failed to load (this session)</option></select><button id="copyfail" type="button">Copy failed photo report</button></div>
 <p id="count" role="status">Loading manifest…</p><main id="grid" class="grid"></main>
 <script>
 let records=[];const failedUrls=new Set();
@@ -38,6 +38,7 @@ function render(){
  }
  updateCount();
 }
+document.getElementById('copyfail').addEventListener('click',async()=>{const rows=records.filter(x=>failedUrls.has(x.key)).map(x=>[x.key,x.city,x.country,x.url].join('\t'));const report=['key\tcity\tcountry\turl',...rows].join('\n');try{await navigator.clipboard.writeText(report);document.getElementById('copyfail').textContent='Copied '+rows.length+' failures'}catch(e){document.getElementById('copyfail').textContent='Copy unavailable — '+rows.length+' failures'}});
 for(const id of ['search','filter'])document.getElementById(id).addEventListener(id==='search'?'input':'change',render);
 fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(m=>{records=m.cities||[];render()}).catch(e=>{count.textContent='Could not load photo manifest: '+e.message});
 </script></body></html>
