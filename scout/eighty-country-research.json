@@ -255,8 +255,12 @@
       "activities": [
         {
           "name": "Colosseum guided tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Colosseum%20guided%20tour"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Colosseum%20guided%20tour",
+          "product_id": "1012030",
+          "product_title": "Rome: Exclusive Colosseum Arena or Underground & Forum Tour",
+          "gyg_product_url": "https://www.getyourguide.com/rome-l33/rome-roman-forum-and-colosseum-underground-exclusive-tour-t1012030/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "verification_notes": "Specific product page located on GetYourGuide; departure city Rome; bookable dates and affiliate attribution not tested."
         },
         {
           "name": "Vatican Museums",
