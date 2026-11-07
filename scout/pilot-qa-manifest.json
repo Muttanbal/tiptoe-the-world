@@ -1,0 +1,69 @@
+{
+  "project": "Tiptoe the World — Scout five-country pilot",
+  "status": "draft, unpublished",
+  "checkedAt": "2026-11-08",
+  "countries": [
+    {
+      "name": "Iceland",
+      "cities": [
+        "Reykjavík",
+        "Akureyri",
+        "Vík",
+        "Selfoss"
+      ]
+    },
+    {
+      "name": "Norway",
+      "cities": [
+        "Oslo",
+        "Bergen",
+        "Tromsø",
+        "Stavanger"
+      ]
+    },
+    {
+      "name": "Sweden",
+      "cities": [
+        "Stockholm",
+        "Gothenburg",
+        "Malmö",
+        "Kiruna"
+      ]
+    },
+    {
+      "name": "Denmark",
+      "cities": [
+        "Copenhagen",
+        "Aarhus",
+        "Odense",
+        "Skagen"
+      ]
+    },
+    {
+      "name": "Finland",
+      "cities": [
+        "Helsinki",
+        "Rovaniemi",
+        "Turku",
+        "Tampere"
+      ]
+    }
+  ],
+  "checks": {
+    "countrySections": 5,
+    "cityCards": 20,
+    "uniqueCities": 20,
+    "responsiveFourColumnMarkup": true,
+    "externalImageDependencies": 0,
+    "verifiedImages": 0,
+    "verifiedAffiliateLinks": 0
+  },
+  "publicationGate": "DO NOT MERGE OR PUBLISH before verified images, GYG affiliate links, browser checks, and user review",
+  "nextSteps": [
+    "Verify one appropriately licensed photo per city and its subject/location",
+    "Find suitable activity-specific GetYourGuide links for each city; verify affiliate attribution",
+    "Replace placeholder panels with approved images and links",
+    "Browser-test navigation, image loading and mobile/desktop layouts",
+    "Submit five-country pilot for review"
+  ]
+}
