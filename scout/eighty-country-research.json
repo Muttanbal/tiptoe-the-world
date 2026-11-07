@@ -628,33 +628,6 @@
     },
     {
       "id": 24,
-      "country": "Slovakia",
-      "featured_city": "Bratislava",
-      "activities": [
-        {
-          "name": "Old town walking tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bratislava%20Old%20town%20walking%20tour"
-        },
-        {
-          "name": "Devin Castle",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bratislava%20Devin%20Castle"
-        },
-        {
-          "name": "Danube cruise",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bratislava%20Danube%20cruise"
-        },
-        {
-          "name": "Small Carpathians wine tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bratislava%20Small%20Carpathians%20wine%20tour"
-        }
-      ]
-    },
-    {
-      "id": 25,
       "country": "Estonia",
       "featured_city": "Tallinn",
       "activities": [
@@ -681,7 +654,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 25,
       "country": "Latvia",
       "featured_city": "Riga",
       "activities": [
@@ -708,7 +681,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 26,
       "country": "Lithuania",
       "featured_city": "Vilnius",
       "activities": [
@@ -735,7 +708,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 27,
       "country": "Romania",
       "featured_city": "Bucharest",
       "activities": [
@@ -762,7 +735,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 28,
       "country": "Bulgaria",
       "featured_city": "Sofia",
       "activities": [
@@ -789,7 +762,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 29,
       "country": "Serbia",
       "featured_city": "Belgrade",
       "activities": [
@@ -816,7 +789,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 30,
       "country": "Montenegro",
       "featured_city": "Kotor",
       "activities": [
@@ -843,7 +816,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 31,
       "country": "Albania",
       "featured_city": "Tirana",
       "activities": [
@@ -870,7 +843,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 32,
       "country": "Bosnia and Herzegovina",
       "featured_city": "Sarajevo",
       "activities": [
@@ -897,34 +870,7 @@
       ]
     },
     {
-      "id": 34,
-      "country": "North Macedonia",
-      "featured_city": "Skopje",
-      "activities": [
-        {
-          "name": "Matka Canyon",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Skopje%20Matka%20Canyon"
-        },
-        {
-          "name": "Old Bazaar tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Skopje%20Old%20Bazaar%20tour"
-        },
-        {
-          "name": "Millennium Cross",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Skopje%20Millennium%20Cross"
-        },
-        {
-          "name": "Ohrid day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Skopje%20Ohrid%20day%20trip"
-        }
-      ]
-    },
-    {
-      "id": 35,
+      "id": 33,
       "country": "Malta",
       "featured_city": "Valletta",
       "activities": [
@@ -951,7 +897,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 34,
       "country": "Cyprus",
       "featured_city": "Paphos",
       "activities": [
@@ -978,34 +924,7 @@
       ]
     },
     {
-      "id": 37,
-      "country": "Luxembourg",
-      "featured_city": "Luxembourg City",
-      "activities": [
-        {
-          "name": "Old town walking tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luxembourg%20City%20Old%20town%20walking%20tour"
-        },
-        {
-          "name": "Vianden Castle",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luxembourg%20City%20Vianden%20Castle"
-        },
-        {
-          "name": "Moselle wine tasting",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luxembourg%20City%20Moselle%20wine%20tasting"
-        },
-        {
-          "name": "Casemates tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luxembourg%20City%20Casemates%20tour"
-        }
-      ]
-    },
-    {
-      "id": 38,
+      "id": 35,
       "country": "Georgia",
       "featured_city": "Tbilisi",
       "activities": [
@@ -1032,7 +951,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": 36,
       "country": "Armenia",
       "featured_city": "Yerevan",
       "activities": [
@@ -1059,7 +978,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": 37,
       "country": "Morocco",
       "featured_city": "Marrakech",
       "activities": [
@@ -1086,7 +1005,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 38,
       "country": "Egypt",
       "featured_city": "Cairo",
       "activities": [
@@ -1113,7 +1032,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": 39,
       "country": "South Africa",
       "featured_city": "Cape Town",
       "activities": [
@@ -1140,7 +1059,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": 40,
       "country": "Kenya",
       "featured_city": "Nairobi",
       "activities": [
@@ -1167,7 +1086,7 @@
       ]
     },
     {
-      "id": 44,
+      "id": 41,
       "country": "Tanzania",
       "featured_city": "Arusha",
       "activities": [
@@ -1194,7 +1113,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": 42,
       "country": "Uganda",
       "featured_city": "Entebbe",
       "activities": [
@@ -1221,7 +1140,7 @@
       ]
     },
     {
-      "id": 46,
+      "id": 43,
       "country": "Rwanda",
       "featured_city": "Kigali",
       "activities": [
@@ -1248,7 +1167,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": 44,
       "country": "Namibia",
       "featured_city": "Windhoek",
       "activities": [
@@ -1275,7 +1194,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": 45,
       "country": "Botswana",
       "featured_city": "Maun",
       "activities": [
@@ -1302,7 +1221,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": 46,
       "country": "Zimbabwe",
       "featured_city": "Victoria Falls",
       "activities": [
@@ -1329,34 +1248,7 @@
       ]
     },
     {
-      "id": 50,
-      "country": "Zambia",
-      "featured_city": "Livingstone",
-      "activities": [
-        {
-          "name": "Victoria Falls tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Livingstone%20Victoria%20Falls%20tour"
-        },
-        {
-          "name": "Zambezi river cruise",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Livingstone%20Zambezi%20river%20cruise"
-        },
-        {
-          "name": "Mosi-oa-Tunya safari",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Livingstone%20Mosi-oa-Tunya%20safari"
-        },
-        {
-          "name": "Rhino walking safari",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Livingstone%20Rhino%20walking%20safari"
-        }
-      ]
-    },
-    {
-      "id": 51,
+      "id": 47,
       "country": "Mauritius",
       "featured_city": "Port Louis",
       "activities": [
@@ -1383,7 +1275,7 @@
       ]
     },
     {
-      "id": 52,
+      "id": 48,
       "country": "Seychelles",
       "featured_city": "Mahé",
       "activities": [
@@ -1410,7 +1302,7 @@
       ]
     },
     {
-      "id": 53,
+      "id": 49,
       "country": "United Arab Emirates",
       "featured_city": "Dubai",
       "activities": [
@@ -1437,7 +1329,7 @@
       ]
     },
     {
-      "id": 54,
+      "id": 50,
       "country": "Oman",
       "featured_city": "Muscat",
       "activities": [
@@ -1464,7 +1356,7 @@
       ]
     },
     {
-      "id": 55,
+      "id": 51,
       "country": "Jordan",
       "featured_city": "Amman",
       "activities": [
@@ -1491,7 +1383,7 @@
       ]
     },
     {
-      "id": 56,
+      "id": 52,
       "country": "Saudi Arabia",
       "featured_city": "Riyadh",
       "activities": [
@@ -1518,7 +1410,7 @@
       ]
     },
     {
-      "id": 57,
+      "id": 53,
       "country": "India",
       "featured_city": "Delhi",
       "activities": [
@@ -1545,7 +1437,7 @@
       ]
     },
     {
-      "id": 58,
+      "id": 54,
       "country": "Nepal",
       "featured_city": "Kathmandu",
       "activities": [
@@ -1572,7 +1464,7 @@
       ]
     },
     {
-      "id": 59,
+      "id": 55,
       "country": "Sri Lanka",
       "featured_city": "Colombo",
       "activities": [
@@ -1599,7 +1491,7 @@
       ]
     },
     {
-      "id": 60,
+      "id": 56,
       "country": "Thailand",
       "featured_city": "Bangkok",
       "activities": [
@@ -1626,7 +1518,7 @@
       ]
     },
     {
-      "id": 61,
+      "id": 57,
       "country": "Vietnam",
       "featured_city": "Hanoi",
       "activities": [
@@ -1653,7 +1545,7 @@
       ]
     },
     {
-      "id": 62,
+      "id": 58,
       "country": "Cambodia",
       "featured_city": "Siem Reap",
       "activities": [
@@ -1680,7 +1572,7 @@
       ]
     },
     {
-      "id": 63,
+      "id": 59,
       "country": "Laos",
       "featured_city": "Luang Prabang",
       "activities": [
@@ -1707,7 +1599,7 @@
       ]
     },
     {
-      "id": 64,
+      "id": 60,
       "country": "Malaysia",
       "featured_city": "Kuala Lumpur",
       "activities": [
@@ -1734,7 +1626,7 @@
       ]
     },
     {
-      "id": 65,
+      "id": 61,
       "country": "Singapore",
       "featured_city": "Singapore",
       "activities": [
@@ -1761,7 +1653,7 @@
       ]
     },
     {
-      "id": 66,
+      "id": 62,
       "country": "Indonesia",
       "featured_city": "Bali",
       "activities": [
@@ -1788,7 +1680,7 @@
       ]
     },
     {
-      "id": 67,
+      "id": 63,
       "country": "Philippines",
       "featured_city": "Cebu",
       "activities": [
@@ -1815,7 +1707,7 @@
       ]
     },
     {
-      "id": 68,
+      "id": 64,
       "country": "Japan",
       "featured_city": "Tokyo",
       "activities": [
@@ -1842,7 +1734,7 @@
       ]
     },
     {
-      "id": 69,
+      "id": 65,
       "country": "South Korea",
       "featured_city": "Seoul",
       "activities": [
@@ -1869,7 +1761,7 @@
       ]
     },
     {
-      "id": 70,
+      "id": 66,
       "country": "China",
       "featured_city": "Beijing",
       "activities": [
@@ -1896,7 +1788,7 @@
       ]
     },
     {
-      "id": 71,
+      "id": 67,
       "country": "Taiwan",
       "featured_city": "Taipei",
       "activities": [
@@ -1923,7 +1815,7 @@
       ]
     },
     {
-      "id": 72,
+      "id": 68,
       "country": "Australia",
       "featured_city": "Sydney",
       "activities": [
@@ -1950,7 +1842,7 @@
       ]
     },
     {
-      "id": 73,
+      "id": 69,
       "country": "New Zealand",
       "featured_city": "Auckland",
       "activities": [
@@ -1977,7 +1869,7 @@
       ]
     },
     {
-      "id": 74,
+      "id": 70,
       "country": "Fiji",
       "featured_city": "Nadi",
       "activities": [
@@ -2004,7 +1896,7 @@
       ]
     },
     {
-      "id": 75,
+      "id": 71,
       "country": "United States",
       "featured_city": "New York City",
       "activities": [
@@ -2031,7 +1923,7 @@
       ]
     },
     {
-      "id": 76,
+      "id": 72,
       "country": "Canada",
       "featured_city": "Vancouver",
       "activities": [
@@ -2058,7 +1950,7 @@
       ]
     },
     {
-      "id": 77,
+      "id": 73,
       "country": "Mexico",
       "featured_city": "Mexico City",
       "activities": [
@@ -2085,7 +1977,7 @@
       ]
     },
     {
-      "id": 78,
+      "id": 74,
       "country": "Costa Rica",
       "featured_city": "La Fortuna",
       "activities": [
@@ -2112,7 +2004,7 @@
       ]
     },
     {
-      "id": 79,
+      "id": 75,
       "country": "Panama",
       "featured_city": "Panama City",
       "activities": [
@@ -2139,7 +2031,7 @@
       ]
     },
     {
-      "id": 80,
+      "id": 76,
       "country": "Colombia",
       "featured_city": "Cartagena",
       "activities": [
@@ -2166,7 +2058,7 @@
       ]
     },
     {
-      "id": 81,
+      "id": 77,
       "country": "Peru",
       "featured_city": "Cusco",
       "activities": [
@@ -2193,7 +2085,7 @@
       ]
     },
     {
-      "id": 82,
+      "id": 78,
       "country": "Brazil",
       "featured_city": "Rio de Janeiro",
       "activities": [
@@ -2220,7 +2112,7 @@
       ]
     },
     {
-      "id": 83,
+      "id": 79,
       "country": "Argentina",
       "featured_city": "Buenos Aires",
       "activities": [
@@ -2247,7 +2139,7 @@
       ]
     },
     {
-      "id": 84,
+      "id": 80,
       "country": "Chile",
       "featured_city": "Santiago",
       "activities": [
@@ -2273,5 +2165,6 @@
         }
       ]
     }
-  ]
+  ],
+  "scope": "80 countries, 320 editorial activity candidates"
 }
