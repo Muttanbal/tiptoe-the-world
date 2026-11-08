@@ -2386,6 +2386,30 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uz%C3%A8s%201.JPG?width=1200",
       "status": "source-location-and-license-confirmed-render-pending",
       "source": "Wikimedia Commons File:Uzès 1.JPG (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-bonifacio",
+      "city": "Bonifacio",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadel%20and%20cliffs%20of%20Bonifacio.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Citadel and cliffs of Bonifacio.jpg; Einaz80; CC BY-SA 4.0; source page verified; live render pending"
+    },
+    {
+      "key": "france-calvi",
+      "city": "Calvi",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Calvi%20Corsica%20France.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Port Calvi Corsica France.jpg; Sdann; see Commons license; source page verified; live render pending"
+    },
+    {
+      "key": "france-corte",
+      "city": "Corte",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle%20de%20Corte%20en%20Corse.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Citadelle de Corte en Corse.jpg; Piponwa; see Commons license; source page verified; live render pending"
     }
   ]
 }
