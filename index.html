@@ -153,7 +153,19 @@ async function findUSCommonsPhoto(name){
  'Lihue':['Lihue, Hawaii','Līhuʻe, Hawaii'],
  'Princeville':['Princeville, Hawaii']
  };
- const candidates=[...(specialTitles[name]||[]),city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city];
+ const focusTitles={
+ 'Harpers Ferry':['Harpers Ferry, West Virginia'],
+ 'Morgantown':['Morgantown, West Virginia'],
+ 'Milwaukee':['Milwaukee, Wisconsin'],
+ 'Madison':['Madison, Wisconsin'],
+ 'Green Bay':['Green Bay, Wisconsin'],
+ 'Wisconsin Dells':['Wisconsin Dells, Wisconsin'],
+ 'Jackson':['Jackson, Wyoming'],
+ 'Cheyenne':['Cheyenne, Wyoming'],
+ 'Cody':['Cody, Wyoming'],
+ 'Casper':['Casper, Wyoming']
+ };
+ const candidates=[...(focusTitles[name]||[]),...(specialTitles[name]||[]),city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city];
   const isUsable=url=>{
   if(!url)return false;
   let decoded=url;
