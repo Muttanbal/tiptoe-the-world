@@ -134,6 +134,10 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Montgomery':'Alabama','Birmingham':'Alabama','Mobile':'Alabama','Huntsville':'Alabama',
+ 'Anchorage':'Alaska','Fairbanks':'Alaska','Juneau':'Alaska','Seward':'Alaska',
+ 'Phoenix':'Arizona','Scottsdale':'Arizona','Sedona':'Arizona','Flagstaff':'Arizona','Tucson':'Arizona',
+ 
  'Portland, Oregon':'Oregon','Portland, Maine':'Maine','Newport, Oregon':'Oregon','Newport, Rhode Island':'Rhode Island',
  'Springfield, Missouri':'Missouri','Jackson, Mississippi':'Mississippi','Charleston, West Virginia':'West Virginia',
  'Charleston':'South Carolina','Columbia, South Carolina':'South Carolina','Wilmington, North Carolina':'North Carolina',
@@ -154,7 +158,7 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const city=name.split(',')[0].trim();
   const state=name.includes(',')?name.split(',').slice(1).join(',').trim():(usCityStates[name]||'');
-  const candidates=[city+(state?', '+state:''),city+', '+(state||'United States'),city+' (United States)'];
+  const candidates=[city+(state?', '+state:''),city+' ('+(state||'United States')+')',city+', '+(state||'United States'),city+' (city)',city];
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
@@ -165,7 +169,7 @@ async function findUSCommonsPhoto(name){
     for(const page of Object.values(data.query?.pages||{})){
      const actual=(page.title||'').toLowerCase();
      if(!page.thumbnail?.source || page.missing!==undefined || !actual.includes(city.toLowerCase()))continue;
-     if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states'))continue;
+     if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states') && actual!==city.toLowerCase())continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
      usCommonsUsedPhotos.add(page.thumbnail.source);
      return page.thumbnail.source;
