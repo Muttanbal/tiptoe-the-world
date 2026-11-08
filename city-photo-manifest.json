@@ -2842,6 +2842,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Byron%20Lighthouse.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Provisional Wikimedia Commons filename candidate: Cape Byron Lighthouse.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-coffs-harbour",
+      "city": "Coffs Harbour",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coffs%20Harbour?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Coffs Harbour category photo; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-port-macquarie",
+      "city": "Port Macquarie",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Macquarie%20Town%20Beach%20pano.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Port Macquarie category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-newcastle",
+      "city": "Newcastle",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Newcastle%20Harbour%20and%20City.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Newcastle harbour category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-blue-mountains",
+      "city": "Blue Mountains",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Sisters%2C%20Blue%20Mountains%20(3).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Three Sisters category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-wollongong",
+      "city": "Wollongong",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2020-06-06%20Wollongong%20Beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wollongong category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-jervis-bay",
+      "city": "Jervis Bay",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyams%20Beach%20%26%20Booderee%20National%20Park.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Jervis Bay Marine Park category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-hunter-valley",
+      "city": "Hunter Valley",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hunter%20Valley%20View%20with%20vineyards.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Hunter Valley wine category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-ballarat",
+      "city": "Ballarat",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ballarat%20Town%20Hall%20and%20Mount%20Warrenheip%20(33234766796).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Ballarat category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-bendigo",
+      "city": "Bendigo",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bendigo%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Bendigo Cathedral category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-geelong",
+      "city": "Geelong",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20perspective%20of%20Geelong%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Geelong category; Commons file listing located; live rendering pending"
     }
   ]
 }
