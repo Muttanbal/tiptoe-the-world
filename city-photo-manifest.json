@@ -2466,6 +2466,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Doubtful%20Sound.JPG?width=1200",
       "status": "source-location-and-license-confirmed-render-pending",
       "source": "Wikimedia Commons File:Doubtful Sound.JPG; creator Kiwi05; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-dunedin",
+      "city": "Dunedin",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dunedin%20Railway%20Station.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Verified Wikimedia Commons file page: Dunedin Railway Station.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-nelson",
+      "city": "Nelson",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20New%20Zealand%20city.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Nelson New Zealand city.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-abel-tasman",
+      "city": "Abel Tasman",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Tasman%20National%20Park%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Abel Tasman National Park New Zealand.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-kaikoura",
+      "city": "Kaikōura",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kaikoura%20Peninsula.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Kaikoura Peninsula.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-picton",
+      "city": "Picton",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picton%20New%20Zealand%20harbour.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Picton New Zealand harbour.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-blenheim",
+      "city": "Blenheim",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Blenheim New Zealand.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-napier",
+      "city": "Napier",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napier%20New%20Zealand%20Marine%20Parade.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Napier New Zealand Marine Parade.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-hastings",
+      "city": "Hastings",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hastings%20New%20Zealand%20clock%20tower.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Hastings New Zealand clock tower.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-tauranga",
+      "city": "Tauranga",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tauranga%20Harbour%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Tauranga Harbour New Zealand.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-mount-maunganui",
+      "city": "Mount Maunganui",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Maunganui%20from%20the%20beach.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified candidate filename: Mount Maunganui from the beach.jpg; live rendering pending"
     }
   ]
 }
