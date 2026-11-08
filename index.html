@@ -134,6 +134,11 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Fort Worth':'Texas','Galveston':'Texas','El Paso':'Texas','Corpus Christi':'Texas','Fredericksburg, Texas':'Texas',
+ 'Houston':'Texas','Dallas':'Texas','Austin':'Texas','San Antonio':'Texas',
+ 'Salt Lake City':'Utah','Park City':'Utah','Moab':'Utah','St George':'Utah','Springdale, Utah':'Utah',
+ 'Burlington':'Vermont','Montpelier':'Vermont','Stowe':'Vermont',
+ 
  'Harpers Ferry':'West Virginia','Morgantown':'West Virginia','Charleston, West Virginia':'West Virginia',
  'Milwaukee':'Wisconsin','Madison':'Wisconsin','Green Bay':'Wisconsin','Wisconsin Dells':'Wisconsin',
  'Jackson':'Wyoming','Cheyenne':'Wyoming','Cody':'Wyoming','Casper':'Wyoming',
@@ -187,7 +192,7 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const city=name.split(',')[0].trim();
   const state=name.includes(',')?name.split(',').slice(1).join(',').trim():(usCityStates[name]||'');
-  const candidates=[city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)',city];
+  const candidates=[city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'];
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
@@ -198,7 +203,7 @@ async function findUSCommonsPhoto(name){
     for(const page of Object.values(data.query?.pages||{})){
      const actual=(page.title||'').toLowerCase();
      if(!page.thumbnail?.source || page.missing!==undefined || !actual.includes(city.toLowerCase()))continue;
-     if(/map|district|county|history|postcard|bank|building|street|school/i.test(actual) && actual!==city.toLowerCase())continue;
+     if(/map|district|county|history|postcard|bank|building|street|school/i.test(actual))continue;
      if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states') && actual!==city.toLowerCase())continue;
      if(/\\.svg(?:\\?|$)|\\bmap\\b|\\blocation\\b|\\blocator\\b/i.test(page.thumbnail.source))continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
@@ -236,7 +241,7 @@ async function findUSCommonsPhoto(name){
      const info=page.imageinfo?.[0],meta=info?.extmetadata||{},title=(page.title||'').toLowerCase();
      if(!info?.thumburl || info.width<900 || info.height<500 || !title.includes(city.toLowerCase()))continue;
      if(state && !title.includes(state.toLowerCase()) && !title.includes('usa'))continue;
-     if(/map|flag|logo|seal|diagram|drawing|illustration|document|newspaper|historic|postcard|189[0-9]|190[0-9]|191[0-9]/i.test(title))continue;
+     if(/map|flag|logo|seal|diagram|drawing|illustration|document|newspaper|historic|postcard|archive|ruins|189[0-9]|190[0-9]|191[0-9]|192[0-9]|193[0-9]/i.test(title))continue;
      if(!/cc|public domain|pd-|gfdl/i.test(meta.LicenseShortName?.value||''))continue;
      if(/\\.svg(?:\\?|$)|\\bmap\\b|\\blocation\\b/i.test(info.thumburl))continue;
      if(usCommonsUsedPhotos.has(info.thumburl))continue;
