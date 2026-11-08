@@ -213,10 +213,17 @@ async function findUSCommonsPhoto(name){
  usCommonsPhotoCache.set(name,task);
  return task;
 }
+const verifiedUSCityPhotos={
+ 'Harpers Ferry':{file:'Harpers Ferry, as viewed from Maryland Heights.jpg',credit:'Wikimedia Commons'},
+ 'Milwaukee':{file:'Milwaukee June 2026 06 (city skyline).jpg',credit:'Michael Barera / Wikimedia Commons, CC BY-SA 4.0'},
+ 'Jackson':{file:'Downtown Jackson Wyoming.jpg',credit:'Wikimedia Commons'}
+};
+function commonsCityFile(file){return 'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file)+'?width=1200'}
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  if(country==='United States'){
+  if(verifiedUSCityPhotos[name]){const url=commonsCityFile(verifiedUSCityPhotos[name].file);cityPhotoCache.set(key,url);return url;}
   const found=await findUSCommonsPhoto(name);
   cityPhotoCache.set(key,found);
   return found;
