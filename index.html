@@ -134,6 +134,11 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Hot Springs':'Arkansas','Bentonville':'Arkansas','Little Rock':'Arkansas',
+ 'Santa Barbara':'California','Napa':'California','Sonoma':'California','Monterey':'California',
+ 'Sacramento':'California','Santa Monica':'California','Malibu':'California','Santa Cruz':'California',
+ 'Anaheim':'California','Palm Springs':'California','Fresno':'California','South Lake Tahoe':'California',
+ 
  'Montgomery':'Alabama','Birmingham':'Alabama','Mobile':'Alabama','Huntsville':'Alabama',
  'Anchorage':'Alaska','Fairbanks':'Alaska','Juneau':'Alaska','Seward':'Alaska',
  'Phoenix':'Arizona','Scottsdale':'Arizona','Sedona':'Arizona','Flagstaff':'Arizona','Tucson':'Arizona',
@@ -158,7 +163,7 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const city=name.split(',')[0].trim();
   const state=name.includes(',')?name.split(',').slice(1).join(',').trim():(usCityStates[name]||'');
-  const candidates=[city+(state?', '+state:''),city+' ('+(state||'United States')+')',city+', '+(state||'United States'),city+' (city)',city];
+  const candidates=[city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)',city];
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
