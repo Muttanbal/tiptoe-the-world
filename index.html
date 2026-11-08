@@ -139,8 +139,27 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const state=usCityStates[name]||'';
   const city=name.split(',')[0].trim();
-  const candidates=[city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city];
-  const isUsable=url=>url && !/\\.svg(?:\\?|$)|(?:map|locator|flag|seal|coat.of.arms|logo)/i.test(decodeURIComponent(url));
+  const specialTitles={
+ 'Fairbanks':['Fairbanks, Alaska'],
+ 'St Petersburg':['St. Petersburg, Florida'],
+ 'St Augustine':['St. Augustine, Florida'],
+ 'Honolulu':['Honolulu, Hawaii'],
+ 'Waikiki':['Waikiki','Waikiki, Honolulu'],
+ 'Hilo':['Hilo, Hawaii'],
+ 'Kailua-Kona':['Kailua-Kona, Hawaii','Kailua-Kona'],
+ 'Lahaina':['Lahaina, Hawaii'],
+ 'Kihei':['Kihei, Hawaii'],
+ 'Kahului':['Kahului, Hawaii'],
+ 'Lihue':['Lihue, Hawaii','Līhuʻe, Hawaii'],
+ 'Princeville':['Princeville, Hawaii']
+ };
+ const candidates=[...(specialTitles[name]||[]),city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city];
+  const isUsable=url=>{
+  if(!url)return false;
+  let decoded=url;
+  try{decoded=decodeURIComponent(url)}catch{}
+  return !/\\.svg(?:\\?|$)|(?:map|locator|flag|seal|coat.of.arms|logo|diagram|wikimedia-logo)/i.test(decoded);
+ };
   // Prefer a photograph from the destination's own encyclopedia entry.
   for(const title of [...new Set(candidates)]){
    try{
@@ -159,7 +178,8 @@ async function findUSCommonsPhoto(name){
    }catch{}
   }
   // Broaden to photographs explicitly tagged with the city and state.
-  for(const query of [city+' '+state+' cityscape',city+' '+state+' downtown',city+' '+state+' landmark',city+' '+state]){
+  const photoQueries=(state==='Hawaii'?[city+' Hawaii beach landscape',city+' Hawaii aerial coastline',city+' Hawaii town',city+' Hawaii']:[city+' '+state+' skyline',city+' '+state+' waterfront',city+' '+state+' landmark',city+' '+state]);
+  for(const query of photoQueries){
    try{
     const p=new URLSearchParams({action:'query',generator:'search',gsrsearch:query,gsrnamespace:'6',gsrlimit:'35',prop:'imageinfo',iiprop:'url|size|extmetadata',iiurlwidth:'1200',format:'json',origin:'*'});
     const response=await fetch('https://commons.wikimedia.org/w/api.php?'+p);
