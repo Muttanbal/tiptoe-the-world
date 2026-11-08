@@ -2706,6 +2706,62 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart%20Island%20New%20Zealand.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons confirmed file page File:Stewart Island New Zealand.jpg; creator Jim & Robin Kunze; live rendering not yet verified"
+    },
+    {
+      "key": "australia-perth",
+      "city": "Perth",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Perth%20skyline%20from%20Kings%20Park.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:Perth skyline from Kings Park.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-adelaide",
+      "city": "Adelaide",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Adelaide%202022%20Skyline.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:Adelaide 2022 Skyline.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-canberra",
+      "city": "Canberra",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AUS%20Canberra%2C%20Central%2C%20Parliament%20House%20001.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:AUS Canberra, Central, Parliament House 001.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-gold-coast",
+      "city": "Gold Coast",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Coast%20skyline.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:Gold Coast skyline.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-sunshine-coast",
+      "city": "Sunshine Coast",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20panorama%20of%20Mooloolaba%20(cropped).jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:Aerial panorama of Mooloolaba (cropped).jpg; live rendering pending"
+    },
+    {
+      "key": "australia-cairns",
+      "city": "Cairns",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AU-cairns-esplanade.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:AU-cairns-esplanade.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-port-douglas",
+      "city": "Port Douglas",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Four%20Mile%20Beach%20from%20Flagstaff%20Hill.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons file indexed and location checked: File:Four Mile Beach from Flagstaff Hill.jpg; live rendering pending"
     }
   ]
 }
