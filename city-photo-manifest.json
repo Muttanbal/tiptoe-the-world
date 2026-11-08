@@ -1911,9 +1911,9 @@
       "key": "france-la-rochelle",
       "city": "La Rochelle",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Rochelle%20Vieux%20Port.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Rochelle%20Vieux-Port.JPG?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Provisional Wikimedia Commons filename candidate: File:La Rochelle Vieux Port.jpg. Exact file existence, attribution and rendering not verified."
+      "source": "Existing Wikimedia Commons file: File:La Rochelle Vieux-Port.JPG; author Remi Jouan; source file confirmed, live image render pending."
     },
     {
       "key": "france-biarritz",
@@ -1927,17 +1927,17 @@
       "key": "france-bayonne",
       "city": "Bayonne",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayonne%20Cath%C3%A9drale%20Sainte-Marie.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayonne-France.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Provisional Wikimedia Commons filename candidate: File:Bayonne Cathédrale Sainte-Marie.jpg. Exact file existence, attribution and rendering not verified."
+      "source": "Existing Wikimedia Commons file: File:Bayonne-France.jpg; author Jacquym; source file confirmed, live image render pending."
     },
     {
       "key": "france-carcassonne",
       "city": "Carcassonne",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carcassonne%20Cit%C3%A9%20m%C3%A9di%C3%A9vale.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cit%C3%A9%20m%C3%A9di%C3%A9vale%20de%20Carcassonne.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Provisional Wikimedia Commons filename candidate: File:Carcassonne Cité médiévale.jpg. Exact file existence, attribution and rendering not verified."
+      "source": "Existing Wikimedia Commons file: File:Cité médiévale de Carcassonne.jpg; author doalex; source file confirmed, live image render pending."
     },
     {
       "key": "france-perpignan",
