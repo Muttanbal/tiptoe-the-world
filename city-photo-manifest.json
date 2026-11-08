@@ -2194,6 +2194,102 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Blois.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Unverified Wikimedia Commons filename candidate: File:Château de Blois.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-orleans",
+      "city": "Orléans",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Orl%C3%A9ans%20Cath%C3%A9drale.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Orléans Cathédrale.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-vannes",
+      "city": "Vannes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-08-02-Port%20de%20Vannes-1642.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:2022-08-02-Port de Vannes-1642.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-quimper",
+      "city": "Quimper",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Quimper%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Quimper Cathedral.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-brest",
+      "city": "Brest",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brest%20harbor.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Brest harbor.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-arcachon",
+      "city": "Arcachon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ArcachonPlage.JPG?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:ArcachonPlage.JPG; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-saint-jean-de-luz",
+      "city": "Saint-Jean-de-Luz",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20de%20Saint-Jean-de-Luz.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Port de Saint-Jean-de-Luz.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-albi",
+      "city": "Albi",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albi%20Episcopal%20City.%20Sainte%20C%C3%A9cile%20Cathedral%2C%20Albi%2C%20France.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Albi Episcopal City. Sainte Cécile Cathedral, Albi, France.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-rocamadour",
+      "city": "Rocamadour",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Village%20rocamadour.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Village rocamadour.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-cahors",
+      "city": "Cahors",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cahors-Pont%20Valentr%C3%A9-France.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Cahors-Pont Valentré-France.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-perigueux",
+      "city": "Périgueux",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Perigueux%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Perigueux Cathedral.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-bergerac",
+      "city": "Bergerac",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bergerac%20-%20View%20in%20late%20afternoon.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Bergerac - View in late afternoon.jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-epernay",
+      "city": "Épernay",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20de%20Champagne%20in%20Epernay%20(1).jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Existing Wikimedia Commons file identified by exact filename: File:Avenue de Champagne in Epernay (1).jpg; live image load and attribution presentation pending."
     }
   ]
 }
