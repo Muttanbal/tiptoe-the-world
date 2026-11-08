@@ -1906,6 +1906,102 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateau%20d'Amboise.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Wikimedia Commons: File:Chateau d'Amboise.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-la-rochelle",
+      "city": "La Rochelle",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Rochelle%20Vieux%20Port.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:La Rochelle Vieux Port.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-biarritz",
+      "city": "Biarritz",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biarritz%20Grande%20Plage.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Biarritz Grande Plage.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-bayonne",
+      "city": "Bayonne",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayonne%20Cath%C3%A9drale%20Sainte-Marie.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Bayonne Cathédrale Sainte-Marie.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-carcassonne",
+      "city": "Carcassonne",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carcassonne%20Cit%C3%A9%20m%C3%A9di%C3%A9vale.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Carcassonne Cité médiévale.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-perpignan",
+      "city": "Perpignan",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Castillet%20Perpignan.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Le Castillet Perpignan.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-ajaccio",
+      "city": "Ajaccio",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ajaccio%20port.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Ajaccio port.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-bastia",
+      "city": "Bastia",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bastia%20vieux%20port.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Bastia vieux port.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-menton",
+      "city": "Menton",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Menton%20France.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Menton France.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-eze",
+      "city": "Èze",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%C3%88ze%20village.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Èze village.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-versailles",
+      "city": "Versailles",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Versailles.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Château de Versailles.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-chartres",
+      "city": "Chartres",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chartres%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Chartres Cathedral.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-clermont-ferrand",
+      "city": "Clermont-Ferrand",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20Notre-Dame-de-l'Assomption%20de%20Clermont-Ferrand.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: File:Cathédrale Notre-Dame-de-l'Assomption de Clermont-Ferrand.jpg. Exact file existence, attribution and rendering not verified."
     }
   ]
 }
