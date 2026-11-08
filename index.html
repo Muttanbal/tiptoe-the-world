@@ -136,7 +136,7 @@ async function cityPhotoFor(name,country){
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  const photo=await cityPhotoManifestPromise;
  const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
- const url=(match?.url && (match.status === 'verified' || match.status === 'candidate' || match.status === 'candidate-needs-visual-verification' || match.status === 'source-location-and-license-confirmed-render-pending')) ? match.url : null;
+ const url=(match?.url && (match.status === 'verified' || match.status === 'candidate' || match.status === 'candidate-needs-visual-verification' || match.status === 'source-location-and-license-confirmed-render-pending' || match.status === 'candidate-needs-live-render-verification')) ? match.url : null;
  cityPhotoCache.set(key,url);
  return url;
 }
