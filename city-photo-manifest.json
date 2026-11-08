@@ -1714,6 +1714,22 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antibes-plage-port-depuis-les-remparts.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Plyd; public domain; Wikimedia Commons; beach and port viewed from Antibes walls"
+    },
+    {
+      "key": "france-toulouse",
+      "city": "Toulouse",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toulouse%20Place%20du%20Capitole%201.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Zairon, 2021, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Toulouse_Place_du_Capitole_1.jpg; location confirmed by source; license and live rendering require final check"
+    },
+    {
+      "key": "france-lille",
+      "city": "Lille",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lille%20grand%20place.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Velvet, 2012, CC BY-SA 3.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Lille_grand_place.jpg; Place du Général-de-Gaulle, Lille; live rendering requires final check"
     }
   ]
 }
