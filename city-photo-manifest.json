@@ -2002,6 +2002,102 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20Notre-Dame-de-l'Assomption%20de%20Clermont-Ferrand.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Provisional Wikimedia Commons filename candidate: File:Cathédrale Notre-Dame-de-l'Assomption de Clermont-Ferrand.jpg. Exact file existence, attribution and rendering not verified."
+    },
+    {
+      "key": "france-limoges",
+      "city": "Limoges",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Limoges%20St-Etienne%20cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename found in source listing: Limoges St-Etienne cathedral.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-poitiers",
+      "city": "Poitiers",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20Saint-Pierre%20de%20Poitiers.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Cathédrale Saint-Pierre de Poitiers.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-nancy",
+      "city": "Nancy",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nancy%20Cathedral%20BW%202015-07-18%2016-22-28.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename found in source listing: Nancy Cathedral BW 2015-07-18 16-22-28.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-metz",
+      "city": "Metz",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Metz%20Cathedral%20001.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename found in source listing: Metz Cathedral 001.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-le-havre",
+      "city": "Le Havre",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Havre%20H%C3%B4tel%20de%20Ville.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Le Havre Hôtel de Ville.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-honfleur",
+      "city": "Honfleur",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Honfleur%20vieux%20bassin.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Honfleur vieux bassin.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-deauville",
+      "city": "Deauville",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deauville%20beach.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Deauville beach.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-amiens",
+      "city": "Amiens",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cath%C3%A9drale%20Notre-Dame%20d'Amiens.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Cathédrale Notre-Dame d'Amiens.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-troyes",
+      "city": "Troyes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Troyes%2C%20France%20(6215401782).jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename found in source listing: Troyes, France (6215401782).jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-besancon",
+      "city": "Besançon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle%20de%20Besan%C3%A7on.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Citadelle de Besançon.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-mulhouse",
+      "city": "Mulhouse",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulhouse%20place%20de%20la%20R%C3%A9union.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Mulhouse place de la Réunion.jpg; live render and licensing review pending"
+    },
+    {
+      "key": "france-saint-emilion",
+      "city": "Saint-Émilion",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-%C3%89milion%20panorama.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: Saint-Émilion panorama.jpg; live render and licensing review pending"
     }
   ]
 }
