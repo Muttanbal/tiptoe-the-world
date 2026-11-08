@@ -2410,6 +2410,62 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle%20de%20Corte%20en%20Corse.jpg?width=1200",
       "status": "source-location-and-license-confirmed-render-pending",
       "source": "Wikimedia Commons File:Citadelle de Corte en Corse.jpg; Piponwa; see Commons license; source page verified; live render pending"
+    },
+    {
+      "key": "new-zealand-queenstown",
+      "city": "Queenstown",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Queenstown%2C%20New%20Zealand.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Queenstown, New Zealand.jpg; creator Charlie Mitchell; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-christchurch",
+      "city": "Christchurch",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christchurch%20City%20in%202023.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Christchurch City in 2023.jpg; creator Wikimedia Commons contributor; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-taupo",
+      "city": "Taupō",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Taupo%2001.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Lake Taupo 01.jpg; creator Krzysztof Golik; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-wanaka",
+      "city": "Wānaka",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wanaka%20city%2C%20New%20Zealand.jpeg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Wanaka city, New Zealand.jpeg; creator Sky_xe; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-te-anau",
+      "city": "Te Anau",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Te%20Anau%20October%202026.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Lake Te Anau October 2026.jpg; creator Hillmenco; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-milford-sound",
+      "city": "Milford Sound",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Milford%20Sound%20Mitre%20Peak.JPG?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Milford Sound Mitre Peak.JPG; creator MurielBendel; file page and location checked; live image rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-doubtful-sound",
+      "city": "Doubtful Sound",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Doubtful%20Sound.JPG?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Doubtful Sound.JPG; creator Kiwi05; file page and location checked; live image rendering not yet verified"
     }
   ]
 }
