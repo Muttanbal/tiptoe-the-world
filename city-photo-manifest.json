@@ -2039,25 +2039,25 @@
       "key": "france-le-havre",
       "city": "Le Havre",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Havre%20H%C3%B4tel%20de%20Ville.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Le%20Havre.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Le Havre Hôtel de Ville.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Port of Le Havre.jpg; author Cassius36; source page confirmed; live image loading pending."
     },
     {
       "key": "france-honfleur",
       "city": "Honfleur",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Honfleur%20vieux%20bassin.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vieux%20bassin%20Honfleur.JPG?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Honfleur vieux bassin.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Vieux bassin Honfleur.JPG; author Rebexho; source page confirmed; live image loading pending."
     },
     {
       "key": "france-deauville",
       "city": "Deauville",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deauville%20beach.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach%20of%20Deauville.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Deauville beach.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Beach of Deauville.jpg; author Derbrauni; source page confirmed; live image loading pending."
     },
     {
       "key": "france-amiens",
@@ -2079,25 +2079,25 @@
       "key": "france-besancon",
       "city": "Besançon",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle%20de%20Besan%C3%A7on.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Besan%C3%A7on%2C%20le%20Doubs%20et%20la%20citadelle.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Citadelle de Besançon.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Besançon, le Doubs et la citadelle.jpg; author Wikimedia Commons; source page confirmed; live image loading pending."
     },
     {
       "key": "france-mulhouse",
       "city": "Mulhouse",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulhouse%20place%20de%20la%20R%C3%A9union.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Place%20de%20la%20R%C3%A9union%2C%20Mulhouse%2C%202026.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Mulhouse place de la Réunion.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Place de la Réunion, Mulhouse, 2026.jpg; author Antimuonium; source page confirmed; live image loading pending."
     },
     {
       "key": "france-saint-emilion",
       "city": "Saint-Émilion",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-%C3%89milion%20panorama.jpg?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-%C3%89milion%20(Panorama).jpg?width=1200",
       "status": "candidate-needs-visual-verification",
-      "source": "Unverified Wikimedia Commons filename candidate: Saint-Émilion panorama.jpg; live render and licensing review pending"
+      "source": "Wikimedia Commons existing file: File:Saint-Émilion (Panorama).jpg; author Varvac; source page confirmed; live image loading pending."
     }
   ]
 }
