@@ -154,25 +154,39 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const city=name.split(',')[0].trim();
   const state=name.includes(',')?name.split(',').slice(1).join(',').trim():(usCityStates[name]||'');
-  const queries=[city+' '+(state||'USA')+' skyline',city+' '+(state||'United States')+' downtown',city+' '+(state||'USA')];
-  const cityTokens=city.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').split(/[^a-z0-9]+/).filter(w=>w.length>2);
-  for(const query of queries){
-   const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:query,gsrnamespace:'6',gsrlimit:'25',prop:'imageinfo',iiprop:'url|size|extmetadata',iiurlwidth:'1100',format:'json',origin:'*'});
+  const candidates=[city+(state?', '+state:''),city+', '+(state||'United States'),city+' (United States)'];
+  // Prefer the lead photograph on the actual destination encyclopedia page.
+  for(const title of [...new Set(candidates)]){
    try{
-    const response=await fetch('https://commons.wikimedia.org/w/api.php?'+params);
-    if(!response.ok)continue;
-    const data=await response.json();
-    const pages=Object.values(data.query?.pages||{}).sort((a,b)=>(a.index??999)-(b.index??999));
-    for(const page of pages){
-     const info=page.imageinfo?.[0],meta=info?.extmetadata||{};
-     if(!info?.thumburl || (info.width||0)<700 || (info.height||0)<400)continue;
-     const title=page.title.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'');
-     if(!cityTokens.every(word=>title.includes(word)))continue;
-     if(/\\b(map|flag|logo|coat of arms|seal|diagram|drawing|illustration|icon|locator|poster|historic map)\\b/i.test(title))continue;
-     const license=(meta.LicenseShortName?.value||'').toLowerCase();
-     if(!/cc|public domain|pd-|gfdl/.test(license))continue;
-     if(usCommonsUsedPhotos.has(page.title))continue;
-     usCommonsUsedPhotos.add(page.title);
+    const p=new URLSearchParams({action:'query',titles:title,redirects:'1',prop:'pageimages|info',pithumbsize:'1200',format:'json',origin:'*'});
+    const res=await fetch('https://en.wikipedia.org/w/api.php?'+p);
+    if(!res.ok)continue;
+    const data=await res.json();
+    for(const page of Object.values(data.query?.pages||{})){
+     const actual=(page.title||'').toLowerCase();
+     if(!page.thumbnail?.source || page.missing!==undefined || !actual.includes(city.toLowerCase()))continue;
+     if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states'))continue;
+     if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
+     usCommonsUsedPhotos.add(page.thumbnail.source);
+     return page.thumbnail.source;
+    }
+   }catch{}
+  }
+  // If the destination article lacks a photo, search Commons with strict location/title filters.
+  for(const query of [city+' '+state+' skyline',city+' '+state+' downtown',city+' '+state+' cityscape']){
+   try{
+    const p=new URLSearchParams({action:'query',generator:'search',gsrsearch:query,gsrnamespace:'6',gsrlimit:'30',prop:'imageinfo',iiprop:'url|size|extmetadata',iiurlwidth:'1200',format:'json',origin:'*'});
+    const res=await fetch('https://commons.wikimedia.org/w/api.php?'+p);
+    if(!res.ok)continue;
+    const data=await res.json();
+    for(const page of Object.values(data.query?.pages||{}).sort((a,b)=>(a.index??999)-(b.index??999))){
+     const info=page.imageinfo?.[0],meta=info?.extmetadata||{},title=(page.title||'').toLowerCase();
+     if(!info?.thumburl || info.width<900 || info.height<500 || !title.includes(city.toLowerCase()))continue;
+     if(state && !title.includes(state.toLowerCase()) && !title.includes('usa'))continue;
+     if(/map|flag|logo|seal|diagram|drawing|illustration|document|newspaper|historic|postcard|189[0-9]|190[0-9]|191[0-9]/i.test(title))continue;
+     if(!/cc|public domain|pd-|gfdl/i.test(meta.LicenseShortName?.value||''))continue;
+     if(usCommonsUsedPhotos.has(info.thumburl))continue;
+     usCommonsUsedPhotos.add(info.thumburl);
      return info.thumburl;
     }
    }catch{}
