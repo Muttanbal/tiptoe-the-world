@@ -3002,6 +3002,70 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Springs%20banner%20Township%20and%20MacDonnell%20Ranges.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Existing Wikimedia Commons file located: File:Alice Springs banner Township and MacDonnell Ranges.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-uluru",
+      "city": "Uluru",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uluru%20NT.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Uluru NT.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-broome",
+      "city": "Broome",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cable%20Beach%2C%20Broome%2C%202024.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Cable Beach, Broome, 2024.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-exmouth",
+      "city": "Exmouth",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Exmouth%2C%20Australia%20(Unsplash).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Exmouth, Australia (Unsplash).jpg; live rendering pending"
+    },
+    {
+      "key": "australia-margaret-river",
+      "city": "Margaret River",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10%2020161018%20CLAIRAULT%20STREICKER%20-%20Clairault%20Vineyard.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:10 20161018 CLAIRAULT STREICKER - Clairault Vineyard.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-albany",
+      "city": "Albany",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Albany%2C%20Western%20Australia%2C%20foreshore%20drone%20footage%2C%20October%202021.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Albany, Western Australia, foreshore drone footage, October 2021.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-rottnest-island",
+      "city": "Rottnest Island",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rottnest%20Island%2C%20Western%20Australia.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Rottnest Island, Western Australia.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-kalgoorlie",
+      "city": "Kalgoorlie",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kalgoorlie%20Town%20Hall%2C%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:Kalgoorlie Town Hall, 2016.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-kununurra",
+      "city": "Kununurra",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%202070%20Kununurra%20-%20Western%20Australia.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file listed on Wikimedia Commons: File:00 2070 Kununurra - Western Australia.jpg; live rendering pending"
     }
   ]
 }
