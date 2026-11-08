@@ -4119,9 +4119,9 @@
       "key": "united-states-birmingham",
       "city": "Birmingham",
       "country": "United States",
-      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Birmingham%2C%20Alabama%20skyline.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Provisional scenic photograph, NOT verified as Birmingham, Alabama; requires city-specific replacement."
+      "source": "Quintin Soloviev; Birmingham skyline; Wikimedia Commons file, license check required; source page identified, live image rendering pending."
     },
     {
       "key": "united-states-montgomery",
@@ -4151,9 +4151,9 @@
       "key": "united-states-anchorage",
       "city": "Anchorage",
       "country": "United States",
-      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anchorage%2C%20Alaska.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Provisional scenic photograph, NOT verified as Anchorage, Alaska; requires city-specific replacement."
+      "source": "Quintin Soloviev; Anchorage skyline; CC BY 4.0 attribution required; source page identified, live image rendering pending."
     },
     {
       "key": "united-states-fairbanks",
@@ -4183,9 +4183,9 @@
       "key": "united-states-phoenix",
       "city": "Phoenix",
       "country": "United States",
-      "url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Phoenix%20Skyline%20(6974043971).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+      "source": "Downtown Phoenix skyline; Commons file, license check required; source page identified, live image rendering pending."
     },
     {
       "key": "united-states-scottsdale",
@@ -4543,9 +4543,9 @@
       "key": "united-states-atlanta",
       "city": "Atlanta",
       "country": "United States",
-      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlanta%20Skyline.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Provisional scenic photograph, NOT verified as Atlanta, Georgia; requires city-specific replacement."
+      "source": "KB1101; Atlanta skyline; CC0 1.0; source page identified, live image rendering pending."
     },
     {
       "key": "united-states-savannah",
