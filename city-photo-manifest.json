@@ -3767,9 +3767,9 @@
       "key": "tonga-hihifo",
       "city": "Hihifo",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hihifo%2C%201969.%20Tafahi%20from%20Niuatoputapu.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed destination-specific image: Hihifo, 1969. Tafahi from Niuatoputapu.jpg; Hihifo historical 1969 or Lifuka post-cyclone 2014, respectively; live render unverified."
     },
     {
       "key": "tonga-mu-a",
@@ -3839,9 +3839,9 @@
       "key": "tonga-lifuka-island",
       "city": "Lifuka Island",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20shot%20of%20Lifuka%20Island%20in%20Tonga%2C%20which%20experienced%20the%20eye%20of%20Cyclone%20Ian%20in%20January%202014.%20Photo%20Royal%20New%20Zealand%20Air%20Force%20(12041302554).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed destination-specific image: An aerial shot of Lifuka Island in Tonga, which experienced the eye of Cyclone Ian in January 2014. Photo Royal New Zealand Air Force (12041302554).jpg; Hihifo historical 1969 or Lifuka post-cyclone 2014, respectively; live render unverified."
     }
   ]
 }
