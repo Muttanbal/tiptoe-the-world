@@ -3122,6 +3122,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malolo%20Island%20Fiji.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Provisional Wikimedia Commons filename candidate: Malolo Island Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-mana-island",
+      "city": "Mana Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mana%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Mana Island.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-castaway-island",
+      "city": "Castaway Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qalito%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Qalito Island.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-yasawa-islands",
+      "city": "Yasawa Islands",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Yasawa%20Islands%2C%20Fiji%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Yasawa Islands, Fiji - August 2016.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-nacula-island",
+      "city": "Nacula Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nacula%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Nacula Island.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-naviti-island",
+      "city": "Naviti Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach%20on%20Naviti%20island%2C%20Yasawa%20Islands%2C%20Fiji%20(1)%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Beach on Naviti island, Yasawa Islands, Fiji (1) - August 2016.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-waya-island",
+      "city": "Waya Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Waya%201.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Waya 1.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-taveuni",
+      "city": "Taveuni",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taveuni%20Island%2C%20Fiji%20(Unsplash).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:Taveuni Island, Fiji (Unsplash).jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-savusavu",
+      "city": "Savusavu",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20Urata%20Lookout%20Point%2C%20Savusavu%2C%20Vanua%20Levu%2C%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:View from Urata Lookout Point, Savusavu, Vanua Levu, Fiji.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-labasa",
+      "city": "Labasa",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/USP%20Labasa.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:USP Labasa.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-vanua-levu",
+      "city": "Vanua Levu",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10%20Minutes%20west%20of%20Labasa%2C%20Vanua%20Levu%2C%20Fiji%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons file listing confirmed: File:10 Minutes west of Labasa, Vanua Levu, Fiji - panoramio.jpg; image render on live site not yet tested"
     }
   ]
 }
