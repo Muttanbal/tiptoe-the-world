@@ -3431,9 +3431,9 @@
       "key": "vanuatu-efate",
       "city": "Efate",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Efate%20Beach%201.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Efate Beach 1.jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-champagne-beach",
@@ -3447,33 +3447,33 @@
       "key": "vanuatu-aore-island",
       "city": "Aore Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aore%20Island%20Resort.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Aore Island Resort.jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-mele",
       "city": "Mele",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mele%20Cascades.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Mele Cascades.jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-hideaway-island",
       "city": "Hideaway Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hideaway%20Island%20(16743494485).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Hideaway Island (16743494485).jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-pele-island",
       "city": "Pele Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Approaching%20Pele%20Island%20(404447460).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Approaching Pele Island (404447460).jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-nguna-island",
@@ -3503,9 +3503,9 @@
       "key": "vanuatu-malekula",
       "city": "Malekula",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Flying%20into%20Malekula%20Island%2C%20Vanuatu%2C%20April%202012.%20Photo-%20Emma%20Blanch%20-%20DFAT%20(12779502884).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Flying into Malekula Island, Vanuatu, April 2012. Photo- Emma Blanch - DFAT (12779502884).jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-epi-island",
@@ -3519,17 +3519,17 @@
       "key": "vanuatu-erromango",
       "city": "Erromango",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Erromango%2C%20Vanuatu%2C%2011%20June%202009.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Erromango, Vanuatu, 11 June 2009.jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-mystery-island",
       "city": "Mystery Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mystery%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Mystery Island.jpg; destination identified in Commons listing; direct rendering and licensing attribution review pending."
     },
     {
       "key": "vanuatu-gaua",
