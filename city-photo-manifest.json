@@ -3799,9 +3799,9 @@
       "key": "tonga-anahulu-cave",
       "city": "Anahulu Cave",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Scenic fallback photograph, not verified as depicting Anahulu Cave; explicitly approved by site owner 2026-11-08."
     },
     {
       "key": "tonga-ha-amonga-a-maui",
@@ -3823,9 +3823,9 @@
       "key": "tonga-fangatave-beach",
       "city": "Fangatave Beach",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Scenic fallback photograph, not verified as depicting Fangatave Beach; explicitly approved by site owner 2026-11-08."
     },
     {
       "key": "tonga-uoleva-island",
