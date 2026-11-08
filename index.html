@@ -154,13 +154,12 @@ function installCityPhoto(element,name,country){
   return;
  }
  element.classList.add('city-photo-loading');
- element.style.backgroundImage='none';
  element.setAttribute('role','img');
  element.setAttribute('aria-label','Image for '+name+', '+country);
  element.dataset.cityLabel=name;
  cityPhotoFor(name,country).then(url=>{
   element.classList.remove('city-photo-loading');
-  const unavailable=()=>{element.style.backgroundImage='none';element.classList.remove('city-photo-loaded');element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph awaiting verification')};
+  const unavailable=()=>{element.classList.remove('city-photo-loading');element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph awaiting verification')};
   if(!url){unavailable();return}
   const testImage=new Image();
   testImage.onload=()=>{element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.remove('city-photo-unavailable');element.classList.add('city-photo-loaded');element.setAttribute('aria-label',name+', '+country)};
