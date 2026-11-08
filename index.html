@@ -131,12 +131,41 @@ const cityEditorial={"france-paris":{"intro":"From riverside boulevards and gran
 /* City photo registry: assigned candidate photos may display as provisional imagery, but only manifest status 'verified' represents approved location/source. Broken images fall back to unavailable. */
 const cityPhotoCache=new Map();
 const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Photo registry unavailable');return r.json()}).then(m=>{const byKey=new Map(),byLocation=new Map();for(const x of m.cities||[]){byKey.set(x.key,x);byLocation.set(x.country+'|'+x.city,x)}return {byKey,byLocation}}).catch(()=>({byKey:new Map(),byLocation:new Map()}));
+const usCommonsPhotoCache=new Map();
+async function findUSCommonsPhoto(name){
+ if(usCommonsPhotoCache.has(name))return usCommonsPhotoCache.get(name);
+ const task=(async()=>{
+  const query=name.replace(/,.*$/,'')+' United States';
+  const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:query+' filetype:bitmap',gsrnamespace:'6',gsrlimit:'8',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'1200',format:'json',origin:'*'});
+  try{
+   const response=await fetch('https://commons.wikimedia.org/w/api.php?'+params.toString());
+   if(!response.ok)return null;
+   const data=await response.json();
+   const pages=Object.values(data.query?.pages||{});
+   const words=name.replace(/,.*$/,'').toLowerCase().split(/\s+/).filter(w=>w.length>2);
+   const good=pages.filter(p=>{
+    const info=p.imageinfo?.[0],meta=info?.extmetadata||{};
+    const license=(meta.LicenseShortName?.value||'').toLowerCase();
+    const title=p.title.toLowerCase();
+    return info?.thumburl && words.every(w=>title.includes(w)) && /cc|public domain|pd-|gfdl/.test(license);
+   }).sort((x,y)=>(x.index??99)-(y.index??99));
+   return good[0]?.imageinfo?.[0]?.thumburl||null;
+  }catch{return null}
+ })();
+ usCommonsPhotoCache.set(name,task);
+ return task;
+}
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
  const photo=await cityPhotoManifestPromise;
  const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
  const url=(match?.url && (match.status === 'verified' || match.status === 'candidate' || match.status === 'candidate-needs-visual-verification' || match.status === 'source-location-and-license-confirmed-render-pending' || match.status === 'candidate-needs-live-render-verification')) ? match.url : null;
+ if(country==='United States' && match?.status==='wikimedia-city-search-pending'){
+  const found=await findUSCommonsPhoto(name);
+  cityPhotoCache.set(key,found);
+  return found;
+ }
  cityPhotoCache.set(key,url);
  return url;
 }
