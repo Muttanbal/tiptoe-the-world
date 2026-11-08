@@ -2519,25 +2519,25 @@
       "key": "new-zealand-napier",
       "city": "Napier",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Napier%20New%20Zealand%20Marine%20Parade.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Napier New Zealand Marine Parade.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marine%20Parade%2C%20Napier.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Marine Parade, Napier.jpg; live image loading not yet verified"
     },
     {
       "key": "new-zealand-hastings",
       "city": "Hastings",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hastings%20New%20Zealand%20clock%20tower.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Hastings New Zealand clock tower.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hastings%20Clock%20Tower%20and%20lamp%20post%2C%20September%202026.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Hastings Clock Tower and lamp post, September 2026.jpg; live image loading not yet verified"
     },
     {
       "key": "new-zealand-tauranga",
       "city": "Tauranga",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tauranga%20Harbour%20New%20Zealand.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Tauranga Harbour New Zealand.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tauranga%20Harbour%20and%20City.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Tauranga Harbour and City.jpg; live image loading not yet verified"
     },
     {
       "key": "new-zealand-mount-maunganui",
@@ -2546,6 +2546,38 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount%20Maunganui%20from%20the%20beach.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Unverified candidate filename: Mount Maunganui from the beach.jpg; live rendering pending"
+    },
+    {
+      "key": "new-zealand-hamilton",
+      "city": "Hamilton",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamilton%20Gardens%20-%20Hamilton%2C%20NZ%20-%20DSC06660.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Hamilton Gardens - Hamilton, NZ - DSC06660.jpg; live image loading not yet verified"
+    },
+    {
+      "key": "new-zealand-waitomo",
+      "city": "Waitomo",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Glowworms%20Inside%20the%20Ruakuri%20Cave%2C%20Waitomo%2C%20New%20Zealand%20(50802159987).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Glowworms Inside the Ruakuri Cave, Waitomo, New Zealand (50802159987).jpg; live image loading not yet verified"
+    },
+    {
+      "key": "new-zealand-matamata",
+      "city": "Matamata",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hobbiton%20en%20Matamata.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:Hobbiton en Matamata.jpg; live image loading not yet verified"
+    },
+    {
+      "key": "new-zealand-coromandel",
+      "city": "Coromandel",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%2023%201006%20Coromandel%20Peninsula%2C%20NZ%20-%20Coromandel%2C%20McGregor%20Bay.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact Wikimedia Commons filename located in Commons search or category: File:00 23 1006 Coromandel Peninsula, NZ - Coromandel, McGregor Bay.jpg; live image loading not yet verified"
     }
   ]
 }
