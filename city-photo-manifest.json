@@ -2762,6 +2762,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Four%20Mile%20Beach%20from%20Flagstaff%20Hill.jpg?width=1200",
       "status": "source-location-and-license-confirmed-render-pending",
       "source": "Wikimedia Commons file indexed and location checked: File:Four Mile Beach from Flagstaff Hill.jpg; live rendering pending"
+    },
+    {
+      "key": "australia-townsville",
+      "city": "Townsville",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Townsville%20from%20Castle%20Hill.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Townsville from Castle Hill.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-airlie-beach",
+      "city": "Airlie Beach",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Airlie%20Beach%20Queensland.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Airlie Beach Queensland.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-whitsunday-islands",
+      "city": "Whitsunday Islands",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitehaven%20Beach%2C%20Whitsunday%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Whitehaven Beach, Whitsunday Island.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-hamilton-island",
+      "city": "Hamilton Island",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hamilton%20Island%20Queensland.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Hamilton Island Queensland.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-mackay",
+      "city": "Mackay",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mackay%20Queensland%20city.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Mackay Queensland city.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-rockhampton",
+      "city": "Rockhampton",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rockhampton%20Queensland.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Rockhampton Queensland.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-bundaberg",
+      "city": "Bundaberg",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundaberg%20Queensland.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Bundaberg Queensland.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-hervey-bay",
+      "city": "Hervey Bay",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hervey%20Bay%20Queensland.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Hervey Bay Queensland.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-noosa",
+      "city": "Noosa",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Noosa%20Heads%20beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Noosa Heads beach.jpg; existence, licensing and live rendering not yet verified"
+    },
+    {
+      "key": "australia-byron-bay",
+      "city": "Byron Bay",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Byron%20Lighthouse.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Cape Byron Lighthouse.jpg; existence, licensing and live rendering not yet verified"
     }
   ]
 }
