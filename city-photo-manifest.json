@@ -3423,9 +3423,9 @@
       "key": "vanuatu-luganville",
       "city": "Luganville",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Luganville%20main%20street.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact-location photo: Luganville main street.jpg; license/source page checked, site render pending."
     },
     {
       "key": "vanuatu-efate",
@@ -3439,9 +3439,9 @@
       "key": "vanuatu-champagne-beach",
       "city": "Champagne Beach",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Champagne%20Beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact-location photo: Champagne Beach.jpg; license/source page checked, site render pending."
     },
     {
       "key": "vanuatu-aore-island",
@@ -3487,17 +3487,17 @@
       "key": "vanuatu-pentecost-island",
       "city": "Pentecost Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pentecost%20Island%20Beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact-location photo: Pentecost Island Beach.jpg; license/source page checked, site render pending."
     },
     {
       "key": "vanuatu-ambrym",
       "city": "Ambrym",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ambrym%20Vanuatu%20(179718055).jpeg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact-location photo: Ambrym Vanuatu (179718055).jpeg; license/source page checked, site render pending."
     },
     {
       "key": "vanuatu-malekula",
