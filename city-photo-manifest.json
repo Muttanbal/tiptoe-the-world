@@ -2578,6 +2578,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%2023%201006%20Coromandel%20Peninsula%2C%20NZ%20-%20Coromandel%2C%20McGregor%20Bay.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Exact Wikimedia Commons filename located in Commons search or category: File:00 23 1006 Coromandel Peninsula, NZ - Coromandel, McGregor Bay.jpg; live image loading not yet verified"
+    },
+    {
+      "key": "new-zealand-whitianga",
+      "city": "Whitianga",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whitianga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Whitianga.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-paihia",
+      "city": "Paihia",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Paihia%2C%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Paihia, New Zealand.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-russell",
+      "city": "Russell",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Russell%20NZ.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Russell NZ.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-kerikeri",
+      "city": "Kerikeri",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stone%20Store%204%20(5646935028).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Stone Store 4 (5646935028).jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-whangarei",
+      "city": "Whangārei",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whangarei%20city%20centre.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Whangarei city centre.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-new-plymouth",
+      "city": "New Plymouth",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Across%20New%20Plymouth%20to%20Mt.%20Taranaki.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Across New Plymouth to Mt. Taranaki.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-whanganui",
+      "city": "Whanganui",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Wanganui%20looking%20down%20the%20Wanganui%20River%20towards%20the%20Victoria%20Avenue%20Bridge%20(21399908050).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:View of Wanganui looking down the Wanganui River towards the Victoria Avenue Bridge (21399908050).jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-palmerston-north",
+      "city": "Palmerston North",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palmerston%20North%20-%20PalmerstonNorth9530.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Palmerston North - PalmerstonNorth9530.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-gisborne",
+      "city": "Gisborne",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/River%20gisborne%20city%2001.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:River gisborne city 01.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-greymouth",
+      "city": "Greymouth",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greymouth%20-%20Greymouth9438.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons exact filename from indexed file/category page: File:Greymouth - Greymouth9438.jpg; live image rendering unverified"
     }
   ]
 }
