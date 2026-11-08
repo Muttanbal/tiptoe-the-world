@@ -2290,6 +2290,102 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avenue%20de%20Champagne%20in%20Epernay%20(1).jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Existing Wikimedia Commons file identified by exact filename: File:Avenue de Champagne in Epernay (1).jpg; live image load and attribution presentation pending."
+    },
+    {
+      "key": "france-auxerre",
+      "city": "Auxerre",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auxerre%20-%20Cathedrale%20Saint-Etienne%20-%2001.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Auxerre - Cathedrale Saint-Etienne - 01.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-evian-les-bains",
+      "city": "Évian-les-Bains",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Evian-les-Bains%20(Haute-Savoie)%20(10004805496).jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Evian-les-Bains (Haute-Savoie) (10004805496).jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-megeve",
+      "city": "Megève",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Village%20%40%20Meg%C3%A8ve%20(51295072586).jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Village @ Megève (51295072586).jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-courchevel",
+      "city": "Courchevel",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Courchevel%20Village%20front%20de%20neige.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Courchevel Village front de neige.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-val-d-isere",
+      "city": "Val d'Isère",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Val-d-Isere.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Val-d-Isere.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-briancon",
+      "city": "Briançon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20city%2C%20Brian%C3%A7on%2C%20France%20(Unsplash).jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Old city, Briançon, France (Unsplash).jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-grasse",
+      "city": "Grasse",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grasse%2C%20France.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Grasse, France.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-toulon",
+      "city": "Toulon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Toulon%20Harbour.JPG?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Toulon Harbour.JPG (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-saint-remy-de-provence",
+      "city": "Saint-Rémy-de-Provence",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St-remy-de-provence%20vue.JPG?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:St-remy-de-provence vue.JPG (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-gordes",
+      "city": "Gordes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gordes%2C%20Provence.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Gordes, Provence.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-roussillon",
+      "city": "Roussillon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaucluse-roussillon-village.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Vaucluse-roussillon-village.jpg (source page located; check individual license and attribution; live render pending)"
+    },
+    {
+      "key": "france-uzes",
+      "city": "Uzès",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uz%C3%A8s%201.JPG?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Uzès 1.JPG (source page located; check individual license and attribution; live render pending)"
     }
   ]
 }
