@@ -875,8 +875,9 @@
       "key": "netherlands-amsterdam",
       "city": "Amsterdam",
       "country": "Netherlands",
-      "url": "https://images.unsplash.com/photo-1534351590666-13e3e9a7b501?w=1200&q=85",
-      "status": "candidate"
+      "url": "https://images.unsplash.com/photo-1754835143820-bcf20e2e1a35?w=1200&q=85",
+      "status": "candidate-needs-visual-verification",
+      "source": "Amsterdam canal image also used for Netherlands country page; browser rendering to be checked."
     },
     {
       "key": "netherlands-rotterdam",
