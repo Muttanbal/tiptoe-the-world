@@ -3546,6 +3546,166 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maewo%20Kastom%20Dancers%20(2)%20(Imagicity%201317).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Graham Crumb; CC BY-SA 1.0; traditional dance on Maewo; personality rights note; exact-location file confirmed; live rendering pending."
+    },
+    {
+      "key": "papua-new-guinea-lae",
+      "city": "Lae",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-mount-hagen",
+      "city": "Mount Hagen",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-goroka",
+      "city": "Goroka",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-kokopo",
+      "city": "Kokopo",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-alotau",
+      "city": "Alotau",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-wewak",
+      "city": "Wewak",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-vanimo",
+      "city": "Vanimo",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-kavieng",
+      "city": "Kavieng",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-kimbe",
+      "city": "Kimbe",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-tufi",
+      "city": "Tufi",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-popondetta",
+      "city": "Popondetta",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-kundiawa",
+      "city": "Kundiawa",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-daru",
+      "city": "Daru",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-lorengau",
+      "city": "Lorengau",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-milne-bay",
+      "city": "Milne Bay",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-sepik-river",
+      "city": "Sepik River",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-kokoda",
+      "city": "Kokoda",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-tari",
+      "city": "Tari",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-new-ireland",
+      "city": "New Ireland",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
+    },
+    {
+      "key": "papua-new-guinea-bougainville",
+      "city": "Bougainville",
+      "country": "Papua New Guinea",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Exact-location image required; no generic placeholder photo assigned."
     }
   ]
 }
