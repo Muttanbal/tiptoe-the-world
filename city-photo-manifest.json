@@ -1810,6 +1810,102 @@
       "url": "https://unsplash.com/photos/G6aK_JBRtM4/download?force=true&w=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Tim Oldenkamp, Grenoble river; Unsplash License; https://unsplash.com/photos/G6aK_JBRtM4; direct image render not yet verified"
+    },
+    {
+      "key": "france-dijon",
+      "city": "Dijon",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dijon%2C%20Palais%20Ducal.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Dijon, Palais Ducal.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-beaune",
+      "city": "Beaune",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospices%20de%20Beaune.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Hospices de Beaune.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-reims",
+      "city": "Reims",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reims%20Cathedral.JPG?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Reims Cathedral.JPG; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-colmar",
+      "city": "Colmar",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colmar-PV-02.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Colmar-PV-02.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-rouen",
+      "city": "Rouen",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rouen%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Rouen Cathedral.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-caen",
+      "city": "Caen",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Caen%2C%20Abbaye%20aux%20Hommes.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Caen, Abbaye aux Hommes.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-bayeux",
+      "city": "Bayeux",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Cathedral.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Bayeux Cathedral.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-mont-saint-michel",
+      "city": "Mont-Saint-Michel",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont%20saint%20michel.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Mont saint michel.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-saint-malo",
+      "city": "Saint-Malo",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramparts%20of%20Saint-Malo.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Ramparts of Saint-Malo.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-rennes",
+      "city": "Rennes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rennes%20-%20Parlement%20de%20Bretagne.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Rennes - Parlement de Bretagne.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-tours",
+      "city": "Tours",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tours%20Place%20Plumereau%201.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Tours Place Plumereau 1.jpg; destination checked against Commons file description; live image loading and attribution display pending"
+    },
+    {
+      "key": "france-amboise",
+      "city": "Amboise",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chateau%20d'Amboise.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons: File:Chateau d'Amboise.jpg; destination checked against Commons file description; live image loading and attribution display pending"
     }
   ]
 }
