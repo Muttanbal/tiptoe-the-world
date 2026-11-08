@@ -3338,6 +3338,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aleipata.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons existing file: Aleipata.jpg; Exact Aleipata Islands NASA view; live rendering unverified"
+    },
+    {
+      "key": "samoa-saleapaga",
+      "city": "Saleapaga",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20south-eastern%20coast%20of%20Upolu%2C%20Samoa%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: View of the south-eastern coast of Upolu, Samoa - August 2016.jpg; Regional southeast Upolu, not confirmed as Saleapaga; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-lotofaga",
+      "city": "Lotofaga",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/To%20Sua%20Ocean%20Trench%20-%20Lotofaga%20village%20-%20Samoa.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: To Sua Ocean Trench - Lotofaga village - Samoa.jpg; Exact Lotofaga attraction; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-siumu",
+      "city": "Siumu",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samoa%20coastal%20scenery.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Samoa coastal scenery.jpg; Regional Samoa coast, not confirmed as Siumu; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-lefaga",
+      "city": "Lefaga",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lefaga%2C%20Return%20to%20Paradise%20beach%2C%20south%20coast%20Upolu%20Island%2C%20Samoa%2C%202009.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Lefaga, Return to Paradise beach, south coast Upolu Island, Samoa, 2009.jpg; Exact Lefaga beach; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-falealupo",
+      "city": "Falealupo",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Falealupo%20Beach%2C%20Savai'i%2C%20Samoa%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Falealupo Beach, Savai'i, Samoa - August 2016.jpg; Exact Falealupo beach; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-salelologa",
+      "city": "Salelologa",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Salelologa%20market%2C%20Savai'i%2C%20Samoa%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Salelologa market, Savai'i, Samoa - August 2016.jpg; Exact Salelologa market; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-manase",
+      "city": "Manase",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tanu%20Beach%20Front%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Tanu Beach Front - panoramio.jpg; Tanu Beach in Manase; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-asau",
+      "city": "Asau",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Asau%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Asau - panoramio.jpg; Asau photograph; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-safotu",
+      "city": "Safotu",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/(Outrigger%20canoes%20on%20shore%20in%20Safotu%2C%20Samoa)%20-%20DPLA%20-%2023456c6268b0e5ef311aa7f5cdf9f266.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: (Outrigger canoes on shore in Safotu, Samoa) - DPLA - 23456c6268b0e5ef311aa7f5cdf9f266.jpg; Archival Safotu canoes; live image rendering not yet verified."
+    },
+    {
+      "key": "samoa-afu-aau-waterfall",
+      "city": "Afu Aau Waterfall",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Afu%20Aau.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Afu Aau.jpg; Afu Aau waterfall on Savai'i; live image rendering not yet verified."
     }
   ]
 }
