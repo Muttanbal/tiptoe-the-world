@@ -134,6 +134,22 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ "Bangor":"Maine",
+ "Bar Harbor":"Maine",
+ "Baltimore":"Maryland",
+ "Annapolis":"Maryland",
+ "Plymouth":"Massachusetts",
+ "Provincetown":"Massachusetts",
+ "Grand Rapids":"Michigan",
+ "Detroit":"Michigan",
+ "Traverse City":"Michigan",
+ "Mackinac Island":"Michigan",
+ "Minneapolis":"Minnesota",
+ "St Paul":"Minnesota",
+ "Duluth":"Minnesota",
+ "Biloxi":"Mississippi",
+ "Natchez":"Mississippi",
+
  "St Petersburg":"Florida",
  "St Augustine":"Florida",
  "Waikiki":"Hawaii",
@@ -246,7 +262,16 @@ async function findUSCommonsPhoto(name){
  'Louisville':'Louisville, Kentucky','Lexington':'Lexington, Kentucky',
  'Bowling Green':'Bowling Green, Kentucky'
  };
- const candidates=[additionalTitles[name],preferredTitles[name],city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'].filter(Boolean);
+ const northeastMidwestTitles={
+ 'Bangor':'Bangor, Maine','Bar Harbor':'Bar Harbor, Maine',
+ 'Baltimore':'Baltimore, Maryland','Annapolis':'Annapolis, Maryland',
+ 'Plymouth':'Plymouth, Massachusetts','Provincetown':'Provincetown, Massachusetts',
+ 'Grand Rapids':'Grand Rapids, Michigan','Detroit':'Detroit, Michigan',
+ 'Traverse City':'Traverse City, Michigan','Mackinac Island':'Mackinac Island, Michigan',
+ 'Minneapolis':'Minneapolis, Minnesota','St Paul':'Saint Paul, Minnesota',
+ 'Duluth':'Duluth, Minnesota','Biloxi':'Biloxi, Mississippi','Natchez':'Natchez, Mississippi'
+ };
+ const candidates=[northeastMidwestTitles[name],additionalTitles[name],preferredTitles[name],city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'].filter(Boolean);
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
