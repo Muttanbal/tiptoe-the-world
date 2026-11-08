@@ -3847,17 +3847,17 @@
       "key": "solomon-islands-auki",
       "city": "Auki",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Medium%20shot%20of%20idyllic%20villages%20beach%20near%20Auki%2C%20the%20capital%20of%20Malaita.%20(10702263414).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Auki); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Medium shot of idyllic villages beach near Auki, the capital of Malaita. (10702263414).jpg; image render and license requirements require final review."
     },
     {
       "key": "solomon-islands-tulagi",
       "city": "Tulagi",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20over%20Tulagi%20Island.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Tulagi); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Rainbow over Tulagi Island.jpg; image render and license requirements require final review."
     },
     {
       "key": "solomon-islands-noro",
@@ -3871,9 +3871,9 @@
       "key": "solomon-islands-kirakira",
       "city": "Kirakira",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirakira%20River%20and%20Beach.JPG?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Kirakira); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Kirakira River and Beach.JPG; image render and license requirements require final review."
     },
     {
       "key": "solomon-islands-lata",
@@ -3911,9 +3911,9 @@
       "key": "solomon-islands-marovo-lagoon",
       "city": "Marovo Lagoon",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palm%20Tree%20at%20Marovo%20Lagoon%20(16%20August%202008).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Marovo Lagoon); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Palm Tree at Marovo Lagoon (16 August 2008).jpg; image render and license requirements require final review."
     },
     {
       "key": "solomon-islands-rendova-island",
@@ -3927,9 +3927,9 @@
       "key": "solomon-islands-tetepare-island",
       "city": "Tetepare Island",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tetepare%20Island%20NASA.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Tetepare Island); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Tetepare Island NASA.jpg; image render and license requirements require final review."
     },
     {
       "key": "solomon-islands-kolombangara",
@@ -3975,9 +3975,9 @@
       "key": "solomon-islands-western-province",
       "city": "Western Province",
       "country": "Solomon Islands",
-      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biche%20Village%2C%20Western%20Province%2C%20Solomon%20Islands%2C%202012.%20Photo-%20Yvonne%20Green%20-%20DFAT%20(12784108684).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Temporary scenic placeholder (not verified as Western Province); replace with exact destination photograph when sourced."
+      "source": "Location-specific Wikimedia Commons file: Biche Village, Western Province, Solomon Islands, 2012. Photo- Yvonne Green - DFAT (12784108684).jpg; image render and license requirements require final review."
     }
   ]
 }
