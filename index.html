@@ -140,7 +140,16 @@ async function cityPhotoFor(name,country){
  cityPhotoCache.set(key,url);
  return url;
 }
+const netherlandsCityFallback='https://images.unsplash.com/photo-1754835143820-bcf20e2e1a35?w=1200&q=85';
 function installCityPhoto(element,name,country){
+ if(country==='Netherlands'){
+  element.classList.remove('city-photo-loading','city-photo-unavailable');
+  element.classList.add('city-photo-loaded');
+  element.style.backgroundImage='url("'+netherlandsCityFallback+'")';
+  element.setAttribute('role','img');
+  element.setAttribute('aria-label',name+', Netherlands — temporary canal photograph');
+  return;
+ }
  element.classList.add('city-photo-loading');
  element.style.backgroundImage='none';
  element.setAttribute('role','img');
