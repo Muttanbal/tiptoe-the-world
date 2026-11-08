@@ -4114,6 +4114,1710 @@
       "url": "https://unsplash.com/photos/PkgzxrkurRw/download?force=true&w=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Cook Islands scenic fallback from previously sourced Unsplash photographs; not necessarily the named village or island. Owner approved fallback images; rendering pending."
+    },
+    {
+      "key": "united-states-birmingham",
+      "city": "Birmingham",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Birmingham, Alabama; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-montgomery",
+      "city": "Montgomery",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Montgomery, Alabama; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-mobile",
+      "city": "Mobile",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Mobile, Alabama; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-huntsville",
+      "city": "Huntsville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Huntsville, Alabama; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-anchorage",
+      "city": "Anchorage",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Anchorage, Alaska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fairbanks",
+      "city": "Fairbanks",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fairbanks, Alaska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-juneau",
+      "city": "Juneau",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Juneau, Alaska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-seward",
+      "city": "Seward",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Seward, Alaska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-phoenix",
+      "city": "Phoenix",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-scottsdale",
+      "city": "Scottsdale",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Scottsdale, Arizona; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-sedona",
+      "city": "Sedona",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-flagstaff",
+      "city": "Flagstaff",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Flagstaff, Arizona; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-tucson",
+      "city": "Tucson",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Tucson, Arizona; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-little-rock",
+      "city": "Little Rock",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Little Rock, Arkansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-hot-springs",
+      "city": "Hot Springs",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Hot Springs, Arkansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bentonville",
+      "city": "Bentonville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bentonville, Arkansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-san-diego",
+      "city": "San Diego",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1538970272646-f61fabb3a8a2?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-sacramento",
+      "city": "Sacramento",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Sacramento, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-santa-barbara",
+      "city": "Santa Barbara",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Santa Barbara, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-monterey",
+      "city": "Monterey",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Monterey, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-napa",
+      "city": "Napa",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Napa, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-sonoma",
+      "city": "Sonoma",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Sonoma, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-palm-springs",
+      "city": "Palm Springs",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Palm Springs, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-anaheim",
+      "city": "Anaheim",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Anaheim, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-santa-monica",
+      "city": "Santa Monica",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Santa Monica, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-malibu",
+      "city": "Malibu",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Malibu, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-santa-cruz",
+      "city": "Santa Cruz",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Santa Cruz, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fresno",
+      "city": "Fresno",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fresno, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-south-lake-tahoe",
+      "city": "South Lake Tahoe",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as South Lake Tahoe, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-yosemite-valley",
+      "city": "Yosemite Valley",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Yosemite Valley, California; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-denver",
+      "city": "Denver",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1619856699906-09e1f36c98a2?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-boulder",
+      "city": "Boulder",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Boulder, Colorado; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-colorado-springs",
+      "city": "Colorado Springs",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Colorado Springs, Colorado; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-aspen",
+      "city": "Aspen",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Aspen, Colorado; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-vail",
+      "city": "Vail",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Vail, Colorado; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-breckenridge",
+      "city": "Breckenridge",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Breckenridge, Colorado; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-hartford",
+      "city": "Hartford",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Hartford, Connecticut; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-new-haven",
+      "city": "New Haven",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as New Haven, Connecticut; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-mystic",
+      "city": "Mystic",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Mystic, Connecticut; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-wilmington",
+      "city": "Wilmington",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Wilmington, Delaware; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-dover",
+      "city": "Dover",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Dover, Delaware; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-rehoboth-beach",
+      "city": "Rehoboth Beach",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Rehoboth Beach, Delaware; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-orlando",
+      "city": "Orlando",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-tampa",
+      "city": "Tampa",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Tampa, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-st-petersburg",
+      "city": "St Petersburg",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as St Petersburg, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fort-lauderdale",
+      "city": "Fort Lauderdale",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fort Lauderdale, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-key-west",
+      "city": "Key West",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Key West, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-naples",
+      "city": "Naples",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Naples, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-jacksonville",
+      "city": "Jacksonville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Jacksonville, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-st-augustine",
+      "city": "St Augustine",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as St Augustine, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-sarasota",
+      "city": "Sarasota",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Sarasota, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-destin",
+      "city": "Destin",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Destin, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-panama-city-beach",
+      "city": "Panama City Beach",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Panama City Beach, Florida; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-atlanta",
+      "city": "Atlanta",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Atlanta, Georgia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-savannah",
+      "city": "Savannah",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Savannah, Georgia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-augusta",
+      "city": "Augusta",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Augusta, Georgia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-athens",
+      "city": "Athens",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Athens, Georgia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-honolulu",
+      "city": "Honolulu",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507876466758-bc54f384809c?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-waikiki",
+      "city": "Waikiki",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Waikiki, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-hilo",
+      "city": "Hilo",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Hilo, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-kailua-kona",
+      "city": "Kailua-Kona",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Kailua-Kona, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lahaina",
+      "city": "Lahaina",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lahaina, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-kihei",
+      "city": "Kihei",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Kihei, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-kahului",
+      "city": "Kahului",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Kahului, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lihue",
+      "city": "Lihue",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lihue, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-princeville",
+      "city": "Princeville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Princeville, Hawaii; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-boise",
+      "city": "Boise",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Boise, Idaho; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-coeur-d-alene",
+      "city": "Coeur d'Alene",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Coeur d'Alene, Idaho; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-sun-valley",
+      "city": "Sun Valley",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Sun Valley, Idaho; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-springfield",
+      "city": "Springfield",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Springfield, Illinois; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-galena",
+      "city": "Galena",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Galena, Illinois; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-indianapolis",
+      "city": "Indianapolis",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Indianapolis, Indiana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bloomington",
+      "city": "Bloomington",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bloomington, Indiana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-south-bend",
+      "city": "South Bend",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as South Bend, Indiana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-des-moines",
+      "city": "Des Moines",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Des Moines, Iowa; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cedar-rapids",
+      "city": "Cedar Rapids",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cedar Rapids, Iowa; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-dubuque",
+      "city": "Dubuque",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Dubuque, Iowa; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-wichita",
+      "city": "Wichita",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Wichita, Kansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-topeka",
+      "city": "Topeka",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Topeka, Kansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lawrence",
+      "city": "Lawrence",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lawrence, Kansas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-louisville",
+      "city": "Louisville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Louisville, Kentucky; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lexington",
+      "city": "Lexington",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lexington, Kentucky; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bowling-green",
+      "city": "Bowling Green",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bowling Green, Kentucky; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-baton-rouge",
+      "city": "Baton Rouge",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Baton Rouge, Louisiana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lafayette",
+      "city": "Lafayette",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lafayette, Louisiana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-portland-maine",
+      "city": "Portland, Maine",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Portland, Maine, Maine; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bar-harbor",
+      "city": "Bar Harbor",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bar Harbor, Maine; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bangor",
+      "city": "Bangor",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bangor, Maine; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-baltimore",
+      "city": "Baltimore",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Baltimore, Maryland; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-annapolis",
+      "city": "Annapolis",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Annapolis, Maryland; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-ocean-city-maryland",
+      "city": "Ocean City, Maryland",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Ocean City, Maryland, Maryland; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cambridge",
+      "city": "Cambridge",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cambridge, Massachusetts; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-salem",
+      "city": "Salem",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Salem, Massachusetts; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-plymouth",
+      "city": "Plymouth",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Plymouth, Massachusetts; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-provincetown",
+      "city": "Provincetown",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Provincetown, Massachusetts; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-detroit",
+      "city": "Detroit",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Detroit, Michigan; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-grand-rapids",
+      "city": "Grand Rapids",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Grand Rapids, Michigan; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-ann-arbor",
+      "city": "Ann Arbor",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Ann Arbor, Michigan; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-traverse-city",
+      "city": "Traverse City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Traverse City, Michigan; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-mackinac-island",
+      "city": "Mackinac Island",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Mackinac Island, Michigan; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-minneapolis",
+      "city": "Minneapolis",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Minneapolis, Minnesota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-st-paul",
+      "city": "St Paul",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as St Paul, Minnesota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-duluth",
+      "city": "Duluth",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Duluth, Minnesota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-jackson-mississippi",
+      "city": "Jackson, Mississippi",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Jackson, Mississippi, Mississippi; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-biloxi",
+      "city": "Biloxi",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Biloxi, Mississippi; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-natchez",
+      "city": "Natchez",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Natchez, Mississippi; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-st-louis",
+      "city": "St Louis",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as St Louis, Missouri; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-kansas-city",
+      "city": "Kansas City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Kansas City, Missouri; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-branson",
+      "city": "Branson",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Branson, Missouri; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-springfield-missouri",
+      "city": "Springfield, Missouri",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Springfield, Missouri, Missouri; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bozeman",
+      "city": "Bozeman",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bozeman, Montana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-missoula",
+      "city": "Missoula",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Missoula, Montana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-billings",
+      "city": "Billings",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Billings, Montana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-whitefish",
+      "city": "Whitefish",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Whitefish, Montana; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-omaha",
+      "city": "Omaha",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Omaha, Nebraska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lincoln-nebraska",
+      "city": "Lincoln, Nebraska",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lincoln, Nebraska, Nebraska; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-reno",
+      "city": "Reno",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Reno, Nevada; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-carson-city",
+      "city": "Carson City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Carson City, Nevada; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-henderson",
+      "city": "Henderson",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Henderson, Nevada; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-manchester-new-hampshire",
+      "city": "Manchester, New Hampshire",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Manchester, New Hampshire, New Hampshire; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-portsmouth-new-hampshire",
+      "city": "Portsmouth, New Hampshire",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Portsmouth, New Hampshire, New Hampshire; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-concord-new-hampshire",
+      "city": "Concord, New Hampshire",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Concord, New Hampshire, New Hampshire; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-atlantic-city",
+      "city": "Atlantic City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Atlantic City, New Jersey; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-newark",
+      "city": "Newark",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Newark, New Jersey; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-jersey-city",
+      "city": "Jersey City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Jersey City, New Jersey; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cape-may",
+      "city": "Cape May",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cape May, New Jersey; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-santa-fe",
+      "city": "Santa Fe",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Santa Fe, New Mexico; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-albuquerque",
+      "city": "Albuquerque",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Albuquerque, New Mexico; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-taos",
+      "city": "Taos",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Taos, New Mexico; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-roswell",
+      "city": "Roswell",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Roswell, New Mexico; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-buffalo",
+      "city": "Buffalo",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Buffalo, New York; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-albany",
+      "city": "Albany",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Albany, New York; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-rochester",
+      "city": "Rochester",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Rochester, New York; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-saratoga-springs",
+      "city": "Saratoga Springs",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Saratoga Springs, New York; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-niagara-falls-new-york",
+      "city": "Niagara Falls, New York",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Niagara Falls, New York, New York; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-charlotte",
+      "city": "Charlotte",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Charlotte, North Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-raleigh",
+      "city": "Raleigh",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Raleigh, North Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-asheville",
+      "city": "Asheville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Asheville, North Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-wilmington-north-carolina",
+      "city": "Wilmington, North Carolina",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Wilmington, North Carolina, North Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-durham",
+      "city": "Durham",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Durham, North Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fargo",
+      "city": "Fargo",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fargo, North Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-bismarck",
+      "city": "Bismarck",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bismarck, North Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-medora",
+      "city": "Medora",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Medora, North Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-columbus",
+      "city": "Columbus",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Columbus, Ohio; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cleveland",
+      "city": "Cleveland",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cleveland, Ohio; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cincinnati",
+      "city": "Cincinnati",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cincinnati, Ohio; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-dayton",
+      "city": "Dayton",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Dayton, Ohio; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-oklahoma-city",
+      "city": "Oklahoma City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Oklahoma City, Oklahoma; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-tulsa",
+      "city": "Tulsa",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Tulsa, Oklahoma; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-norman",
+      "city": "Norman",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Norman, Oklahoma; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-portland-oregon",
+      "city": "Portland, Oregon",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507246207829-732ed643ea0a?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-bend",
+      "city": "Bend",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Bend, Oregon; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-eugene",
+      "city": "Eugene",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Eugene, Oregon; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-astoria",
+      "city": "Astoria",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Astoria, Oregon; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-newport-oregon",
+      "city": "Newport, Oregon",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Newport, Oregon, Oregon; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-philadelphia",
+      "city": "Philadelphia",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1605833556294-ea5c7a74f57d?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-pittsburgh",
+      "city": "Pittsburgh",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Pittsburgh, Pennsylvania; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-harrisburg",
+      "city": "Harrisburg",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Harrisburg, Pennsylvania; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-gettysburg",
+      "city": "Gettysburg",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Gettysburg, Pennsylvania; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-lancaster",
+      "city": "Lancaster",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Lancaster, Pennsylvania; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-providence",
+      "city": "Providence",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Providence, Rhode Island; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-newport-rhode-island",
+      "city": "Newport, Rhode Island",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Newport, Rhode Island, Rhode Island; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-charleston",
+      "city": "Charleston",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Charleston, South Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-columbia-south-carolina",
+      "city": "Columbia, South Carolina",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Columbia, South Carolina, South Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-myrtle-beach",
+      "city": "Myrtle Beach",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Myrtle Beach, South Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-hilton-head-island",
+      "city": "Hilton Head Island",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Hilton Head Island, South Carolina; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-sioux-falls",
+      "city": "Sioux Falls",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Sioux Falls, South Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-rapid-city",
+      "city": "Rapid City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Rapid City, South Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-deadwood",
+      "city": "Deadwood",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Deadwood, South Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-custer",
+      "city": "Custer",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Custer, South Dakota; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-nashville",
+      "city": "Nashville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1545419913-775e3e9c7a4e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-memphis",
+      "city": "Memphis",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Memphis, Tennessee; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-chattanooga",
+      "city": "Chattanooga",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Chattanooga, Tennessee; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-gatlinburg",
+      "city": "Gatlinburg",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Gatlinburg, Tennessee; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-pigeon-forge",
+      "city": "Pigeon Forge",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Pigeon Forge, Tennessee; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-knoxville",
+      "city": "Knoxville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Knoxville, Tennessee; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-houston",
+      "city": "Houston",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Houston, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-dallas",
+      "city": "Dallas",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Dallas, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-austin",
+      "city": "Austin",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Austin, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-san-antonio",
+      "city": "San Antonio",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as San Antonio, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fort-worth",
+      "city": "Fort Worth",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fort Worth, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-galveston",
+      "city": "Galveston",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Galveston, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-el-paso",
+      "city": "El Paso",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as El Paso, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-corpus-christi",
+      "city": "Corpus Christi",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Corpus Christi, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-fredericksburg-texas",
+      "city": "Fredericksburg, Texas",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Fredericksburg, Texas, Texas; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-salt-lake-city",
+      "city": "Salt Lake City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "City-labelled Unsplash image candidate; exact location and render not independently verified."
+    },
+    {
+      "key": "united-states-park-city",
+      "city": "Park City",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Park City, Utah; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-moab",
+      "city": "Moab",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Moab, Utah; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-st-george",
+      "city": "St George",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as St George, Utah; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-springdale-utah",
+      "city": "Springdale, Utah",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Springdale, Utah, Utah; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-burlington",
+      "city": "Burlington",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Burlington, Vermont; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-montpelier",
+      "city": "Montpelier",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Montpelier, Vermont; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-stowe",
+      "city": "Stowe",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Stowe, Vermont; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-richmond",
+      "city": "Richmond",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Richmond, Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-virginia-beach",
+      "city": "Virginia Beach",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Virginia Beach, Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-alexandria",
+      "city": "Alexandria",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Alexandria, Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-williamsburg",
+      "city": "Williamsburg",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Williamsburg, Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-charlottesville",
+      "city": "Charlottesville",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Charlottesville, Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-spokane",
+      "city": "Spokane",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Spokane, Washington; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-tacoma",
+      "city": "Tacoma",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Tacoma, Washington; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-olympia",
+      "city": "Olympia",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Olympia, Washington; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-leavenworth-washington",
+      "city": "Leavenworth, Washington",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Leavenworth, Washington, Washington; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-charleston-west-virginia",
+      "city": "Charleston, West Virginia",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Charleston, West Virginia, West Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-harpers-ferry",
+      "city": "Harpers Ferry",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Harpers Ferry, West Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-morgantown",
+      "city": "Morgantown",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Morgantown, West Virginia; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-milwaukee",
+      "city": "Milwaukee",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Milwaukee, Wisconsin; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-madison",
+      "city": "Madison",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Madison, Wisconsin; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-green-bay",
+      "city": "Green Bay",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Green Bay, Wisconsin; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-wisconsin-dells",
+      "city": "Wisconsin Dells",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Wisconsin Dells, Wisconsin; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-jackson",
+      "city": "Jackson",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Jackson, Wyoming; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cheyenne",
+      "city": "Cheyenne",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cheyenne, Wyoming; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-cody",
+      "city": "Cody",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Cody, Wyoming; requires city-specific replacement."
+    },
+    {
+      "key": "united-states-casper",
+      "city": "Casper",
+      "country": "United States",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional scenic photograph, NOT verified as Casper, Wyoming; requires city-specific replacement."
     }
   ]
 }
