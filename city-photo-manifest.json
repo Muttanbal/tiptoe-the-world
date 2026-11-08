@@ -1162,9 +1162,9 @@
       "key": "papua-new-guinea-port-moresby",
       "city": "Port Moresby",
       "country": "Papua New Guinea",
-      "url": "https://unsplash.com/photos/XDPjn4pvVc0/download?force=true&w=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Jessica Elias Angoman; Ela Beach waterfront in Port Moresby; https://unsplash.com/photos/a-group-of-people-standing-on-a-sidewalk-near-the-ocean-XDPjn4pvVc0; Unsplash License; source location checked; image load and crop pending."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Port%20Moresby.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Port Moresby.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-madang",
@@ -3551,25 +3551,25 @@
       "key": "papua-new-guinea-lae",
       "city": "Lae",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lae.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Lae.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-mount-hagen",
       "city": "Mount Hagen",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt%20Hagen%20Cultural%20Show%20PNG%202008.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Mt Hagen Cultural Show PNG 2008.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-goroka",
       "city": "Goroka",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Goroka%20(5501545223).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Goroka (5501545223).jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-kokopo",
@@ -3583,33 +3583,33 @@
       "key": "papua-new-guinea-alotau",
       "city": "Alotau",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alotau%20banner.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Alotau banner.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-wewak",
       "city": "Wewak",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wewak%20banner.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Wewak banner.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-vanimo",
       "city": "Vanimo",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vanimo%20banner%20Coastal%20Highway.png?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Vanimo banner Coastal Highway.png; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-kavieng",
       "city": "Kavieng",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Radionuclide%20Station%20RN51%20Kavieng%2C%20Papua%20New%20Guinea%20(13304952713).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Radionuclide Station RN51 Kavieng, Papua New Guinea (13304952713).jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-kimbe",
@@ -3623,9 +3623,9 @@
       "key": "papua-new-guinea-tufi",
       "city": "Tufi",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PT-boat%20jetty%20at%20Tufi%20Papua%20New%20Guinea.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: PT-boat jetty at Tufi Papua New Guinea.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-popondetta",
@@ -3647,9 +3647,9 @@
       "key": "papua-new-guinea-daru",
       "city": "Daru",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Daru%20banner.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Daru banner.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-lorengau",
@@ -3663,49 +3663,49 @@
       "key": "papua-new-guinea-milne-bay",
       "city": "Milne Bay",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Milne%20Bay%20Louisiade%20archipelago%20landscape.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: WV banner Milne Bay Louisiade archipelago landscape.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-sepik-river",
       "city": "Sepik River",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sepik%20banner%20Sepik%20River.png?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Sepik banner Sepik River.png; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-kokoda",
       "city": "Kokoda",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kokoda%20Track%20WV%20banner.JPG?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Kokoda Track WV banner.JPG; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-tari",
       "city": "Tari",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tari%20Gap.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Tari Gap.jpg; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-new-ireland",
       "city": "New Ireland",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/New%20Ireland%20and%20Manus%20banner.png?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: New Ireland and Manus banner.png; location-labelled source; verify visual crop and licensing before final approval."
     },
     {
       "key": "papua-new-guinea-bougainville",
       "city": "Bougainville",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bougainville%20banner%20White%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons file: Bougainville banner White Island.jpg; location-labelled source; verify visual crop and licensing before final approval."
     }
   ]
 }
