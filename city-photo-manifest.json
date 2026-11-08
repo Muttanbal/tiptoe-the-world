@@ -1730,6 +1730,22 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lille%20grand%20place.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Velvet, 2012, CC BY-SA 3.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Lille_grand_place.jpg; Place du Général-de-Gaulle, Lille; live rendering requires final check"
+    },
+    {
+      "key": "france-bordeaux",
+      "city": "Bordeaux",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Place%20de%20la%20Bourse%20Bordeaux.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename candidate; image endpoint and attribution not verified"
+    },
+    {
+      "key": "france-strasbourg",
+      "city": "Strasbourg",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20Cathedral%20Exterior%20-%20Diliff.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Wikimedia Commons filename candidate; image endpoint and attribution not verified"
     }
   ]
 }
