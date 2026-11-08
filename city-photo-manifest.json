@@ -3575,9 +3575,9 @@
       "key": "papua-new-guinea-kokopo",
       "city": "Kokopo",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rabaul%20-%20Kokopo%20(30).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Rabaul - Kokopo (30).jpg; Clément Piment; CC BY-SA 2.0; Kokopo region; live render not yet verified."
     },
     {
       "key": "papua-new-guinea-alotau",
@@ -3615,9 +3615,9 @@
       "key": "papua-new-guinea-kimbe",
       "city": "Kimbe",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kimbe%20Bay%20islands.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Kimbe Bay islands.jpg; Kimbe Bay landscape, West New Britain; location regional; live render not yet verified."
     },
     {
       "key": "papua-new-guinea-tufi",
@@ -3631,17 +3631,17 @@
       "key": "papua-new-guinea-popondetta",
       "city": "Popondetta",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Popondetta%20circa%201968%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Popondetta circa 1968 - panoramio.jpg; Historical Popondetta image; dated 1968; live render not yet verified."
     },
     {
       "key": "papua-new-guinea-kundiawa",
       "city": "Kundiawa",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kundiawa.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Kundiawa.jpg; Mzalewski89; CC0; central Kundiawa street, 2025; live render not yet verified."
     },
     {
       "key": "papua-new-guinea-daru",
@@ -3655,9 +3655,9 @@
       "key": "papua-new-guinea-lorengau",
       "city": "Lorengau",
       "country": "Papua New Guinea",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Exact-location image required; no generic placeholder photo assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lorengau%20beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons: Lorengau beach.jpg; CC BY-SA 3.0; Lorengau beach, low resolution; live render not yet verified."
     },
     {
       "key": "papua-new-guinea-milne-bay",
