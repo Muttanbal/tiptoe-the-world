@@ -2658,6 +2658,54 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greymouth%20-%20Greymouth9438.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons exact filename from indexed file/category page: File:Greymouth - Greymouth9438.jpg; live image rendering unverified"
+    },
+    {
+      "key": "new-zealand-hokitika",
+      "city": "Hokitika",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach%20in%20Hokitika%2C%20West%20Coast%2C%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:Beach in Hokitika, West Coast, New Zealand.jpg; creator Michal Klajban; live rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-franz-josef",
+      "city": "Franz Josef",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Franz%20Josef%20Glacier.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:Franz Josef Glacier.jpg; creator ED01; live rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-fox-glacier",
+      "city": "Fox Glacier",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fox%20Glacier%20New%20Zealand.%20(11987859524).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:Fox Glacier New Zealand. (11987859524).jpg; creator Wikimedia Commons; live rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-arrowtown",
+      "city": "Arrowtown",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arrowtown%2C%20New%20Zealand.%20(22284780322).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:Arrowtown, New Zealand. (22284780322).jpg; creator Wikimedia Commons; live rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-invercargill",
+      "city": "Invercargill",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/City%20Invercargill%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:City Invercargill New Zealand.jpg; creator MSeses; live rendering not yet verified"
+    },
+    {
+      "key": "new-zealand-stewart-island",
+      "city": "Stewart Island",
+      "country": "New Zealand",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Stewart%20Island%20New%20Zealand.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed file page File:Stewart Island New Zealand.jpg; creator Jim & Robin Kunze; live rendering not yet verified"
     }
   ]
 }
