@@ -3706,6 +3706,142 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bougainville%20banner%20White%20Island.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons file: Bougainville banner White Island.jpg; location-labelled source; verify visual crop and licensing before final approval."
+    },
+    {
+      "key": "tonga-tongatapu",
+      "city": "Tongatapu",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Tongatapu."
+    },
+    {
+      "key": "tonga-neiafu",
+      "city": "Neiafu",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Neiafu."
+    },
+    {
+      "key": "tonga-pangai",
+      "city": "Pangai",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Pangai."
+    },
+    {
+      "key": "tonga-eua",
+      "city": "'Eua",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of 'Eua."
+    },
+    {
+      "key": "tonga-fafa-island",
+      "city": "Fafa Island",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Fafa Island."
+    },
+    {
+      "key": "tonga-atata-island",
+      "city": "Atata Island",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Atata Island."
+    },
+    {
+      "key": "tonga-pangaimotu-island",
+      "city": "Pangaimotu Island",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Pangaimotu Island."
+    },
+    {
+      "key": "tonga-hihifo",
+      "city": "Hihifo",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Hihifo."
+    },
+    {
+      "key": "tonga-mu-a",
+      "city": "Mu'a",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Mu'a."
+    },
+    {
+      "key": "tonga-kolovai",
+      "city": "Kolovai",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Kolovai."
+    },
+    {
+      "key": "tonga-mapu-a-a-vaea-blowholes",
+      "city": "Mapu'a 'a Vaea Blowholes",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Mapu'a 'a Vaea Blowholes."
+    },
+    {
+      "key": "tonga-anahulu-cave",
+      "city": "Anahulu Cave",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Anahulu Cave."
+    },
+    {
+      "key": "tonga-ha-amonga-a-maui",
+      "city": "Ha'amonga 'a Maui",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Ha'amonga 'a Maui."
+    },
+    {
+      "key": "tonga-talamahu-market",
+      "city": "Talamahu Market",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Talamahu Market."
+    },
+    {
+      "key": "tonga-fangatave-beach",
+      "city": "Fangatave Beach",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Fangatave Beach."
+    },
+    {
+      "key": "tonga-uoleva-island",
+      "city": "Uoleva Island",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vavau%20from%20ISS.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Vava'u while a destination-specific licensed image is sourced; not a photograph of Uoleva Island."
+    },
+    {
+      "key": "tonga-lifuka-island",
+      "city": "Lifuka Island",
+      "country": "Tonga",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha'apai%20Islands%20near%20Tonga%2C%20South%20Pacific%20-%20panoramio%20(2).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary Tonga regional photograph reused from Ha'apai while a destination-specific licensed image is sourced; not a photograph of Lifuka Island."
     }
   ]
 }
