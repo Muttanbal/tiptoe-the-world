@@ -1735,9 +1735,9 @@
       "key": "france-bordeaux",
       "city": "Bordeaux",
       "country": "France",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Place%20de%20la%20Bourse%20Bordeaux.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Wikimedia Commons filename candidate; image endpoint and attribution not verified"
+      "url": "https://unsplash.com/photos/aZCRwzwYrL4/download?force=true&w=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Clément ROY, Place de la Bourse, Bordeaux, Unsplash License; https://unsplash.com/photos/aZCRwzwYrL4 . Live render pending."
     },
     {
       "key": "france-strasbourg",
