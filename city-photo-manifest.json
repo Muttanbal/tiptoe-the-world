@@ -1682,6 +1682,38 @@
       "url": "https://unsplash.com/photos/HHBXQdC9ksQ/download?force=true&w=1200",
       "status": "verified",
       "source": "Wolf Zimmermann, Wellington CBD and waterfront, Unsplash License. Location and licence confirmed on https://unsplash.com/photos/buildings-near-body-of-water-HHBXQdC9ksQ ; download image rendered and visually inspected 2026-11-02."
+    },
+    {
+      "key": "france-nantes",
+      "city": "Nantes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nantes%2C%20Ch%C3%A2teau%20des%20Ducs%20de%20Bretagne.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Micleg44; Wikimedia Commons; destination confirmed by file description and geolocation; license review pending"
+    },
+    {
+      "key": "france-montpellier",
+      "city": "Montpellier",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Place%20de%20la%20Com%C3%A9die%20%C3%A0%20Montpellier.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Pierre-Félix Vautrin; CC0; Wikimedia Commons; destination and coordinates documented"
+    },
+    {
+      "key": "france-cannes",
+      "city": "Cannes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/CannesCroisettePlage.JPG?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Gilbert Bochenek; public domain; Wikimedia Commons; La Croisette, Cannes"
+    },
+    {
+      "key": "france-antibes",
+      "city": "Antibes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antibes-plage-port-depuis-les-remparts.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Plyd; public domain; Wikimedia Commons; beach and port viewed from Antibes walls"
     }
   ]
 }
