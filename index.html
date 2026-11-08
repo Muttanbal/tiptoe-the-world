@@ -134,6 +134,13 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Atlanta':'Georgia','Savannah':'Georgia','Augusta':'Georgia','Athens':'Georgia',
+ 'Honolulu':'Hawaii','Waikiki':'Hawaii','Hilo':'Hawaii','Kailua-Kona':'Hawaii','Lahaina':'Hawaii','Kihei':'Hawaii','Kahului':'Hawaii','Lihue':'Hawaii','Princeville':'Hawaii',
+ 'Boise':'Idaho',"Coeur d'Alene":'Idaho','Sun Valley':'Idaho',
+ 'Chicago':'Illinois','Springfield':'Illinois','Galena':'Illinois',
+ 'Indianapolis':'Indiana','Bloomington':'Indiana','South Bend':'Indiana',
+ 'Des Moines':'Iowa','Cedar Rapids':'Iowa','Dubuque':'Iowa',
+ 
  'Tampa':'Florida','St Petersburg':'Florida','Fort Lauderdale':'Florida','Key West':'Florida',
  'Naples':'Florida','Jacksonville':'Florida','St Augustine':'Florida','Sarasota':'Florida',
  'Destin':'Florida','Panama City Beach':'Florida','Miami':'Florida','Orlando':'Florida',
@@ -184,6 +191,7 @@ async function findUSCommonsPhoto(name){
     for(const page of Object.values(data.query?.pages||{})){
      const actual=(page.title||'').toLowerCase();
      if(!page.thumbnail?.source || page.missing!==undefined || !actual.includes(city.toLowerCase()))continue;
+     if(/map|district|county|history|postcard|bank|building|street|school/i.test(actual) && actual!==city.toLowerCase())continue;
      if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states') && actual!==city.toLowerCase())continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
      usCommonsUsedPhotos.add(page.thumbnail.source);
@@ -200,6 +208,7 @@ async function findUSCommonsPhoto(name){
     for(const page of Object.values(data.query?.pages||{}).sort((x,y)=>(x.index??999)-(y.index??999))){
      const title=(page.title||'').toLowerCase();
      if(!page.thumbnail?.source || !title.includes(city.toLowerCase()))continue;
+     if(/map|district|county|history|postcard|bank|building|street|school/i.test(title))continue;
      if(state && !title.includes(state.toLowerCase()) && !title.includes('united states'))continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
      usCommonsUsedPhotos.add(page.thumbnail.source);
