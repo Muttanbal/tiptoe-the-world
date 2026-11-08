@@ -3727,9 +3727,9 @@
       "key": "tonga-pangai",
       "city": "Pangai",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Pangai%2C%20Tonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed location-specific file: Downtown Pangai, Tonga.jpg; license/attribution required; live rendering pending."
     },
     {
       "key": "tonga-eua",
@@ -3743,25 +3743,25 @@
       "key": "tonga-fafa-island",
       "city": "Fafa Island",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/'Onevao%2C%20'Onevai%2C%20Velitoa%20Hahake%20and%20Velitoa%20Hihifo%2C%20Fafa%20satellite%20view.png?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed location-specific file: 'Onevao, 'Onevai, Velitoa Hahake and Velitoa Hihifo, Fafa satellite view.png; license/attribution required; live rendering pending."
     },
     {
       "key": "tonga-atata-island",
       "city": "Atata Island",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/'Atata%20Island.JPG?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed location-specific file: 'Atata Island.JPG; license/attribution required; live rendering pending."
     },
     {
       "key": "tonga-pangaimotu-island",
       "city": "Pangaimotu Island",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pangaimotu%20Island%2C%20Tonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed location-specific file: Pangaimotu Island, Tonga.jpg; license/attribution required; live rendering pending."
     },
     {
       "key": "tonga-hihifo",
@@ -3775,9 +3775,9 @@
       "key": "tonga-mu-a",
       "city": "Mu'a",
       "country": "Tonga",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Previous generic regional photograph removed because it did not depict this destination."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Langi-Namoala.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons confirmed location-specific file: Langi-Namoala.jpg; license/attribution required; live rendering pending."
     },
     {
       "key": "tonga-kolovai",
