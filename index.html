@@ -134,6 +134,18 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ "St Petersburg":"Florida",
+ "St Augustine":"Florida",
+ "Waikiki":"Hawaii",
+ "Kihei":"Hawaii",
+ "Lihue":"Hawaii",
+ "Wichita":"Kansas",
+ "Topeka":"Kansas",
+ "Lawrence":"Kansas",
+ "Louisville":"Kentucky",
+ "Lexington":"Kentucky",
+ "Bowling Green":"Kentucky",
+
  "Cody":"Wyoming",
  "Casper":"Wyoming",
  "Green Bay":"Wisconsin",
@@ -227,7 +239,14 @@ async function findUSCommonsPhoto(name){
  'Williamsburg':'Williamsburg, Virginia','Alexandria':'Alexandria, Virginia',
  'Richmond':'Richmond, Virginia','Stowe':'Stowe, Vermont'
  };
- const candidates=[preferredTitles[name],city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'].filter(Boolean);
+ const additionalTitles={
+ 'St Petersburg':'St. Petersburg, Florida','St Augustine':'St. Augustine, Florida',
+ 'Waikiki':'Waikiki, Honolulu','Kihei':'Kihei, Hawaii','Lihue':'Lihue, Hawaii',
+ 'Wichita':'Wichita, Kansas','Topeka':'Topeka, Kansas','Lawrence':'Lawrence, Kansas',
+ 'Louisville':'Louisville, Kentucky','Lexington':'Lexington, Kentucky',
+ 'Bowling Green':'Bowling Green, Kentucky'
+ };
+ const candidates=[additionalTitles[name],preferredTitles[name],city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'].filter(Boolean);
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
