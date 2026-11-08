@@ -3842,6 +3842,142 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%20aerial%20shot%20of%20Lifuka%20Island%20in%20Tonga%2C%20which%20experienced%20the%20eye%20of%20Cyclone%20Ian%20in%20January%202014.%20Photo%20Royal%20New%20Zealand%20Air%20Force%20(12041302554).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons confirmed destination-specific image: An aerial shot of Lifuka Island in Tonga, which experienced the eye of Cyclone Ian in January 2014. Photo Royal New Zealand Air Force (12041302554).jpg; Hihifo historical 1969 or Lifuka post-cyclone 2014, respectively; live render unverified."
+    },
+    {
+      "key": "solomon-islands-auki",
+      "city": "Auki",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Auki); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-tulagi",
+      "city": "Tulagi",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Tulagi); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-noro",
+      "city": "Noro",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Noro); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-kirakira",
+      "city": "Kirakira",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Kirakira); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-lata",
+      "city": "Lata",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Lata); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-taro-island",
+      "city": "Taro Island",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Taro Island); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-buala",
+      "city": "Buala",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Buala); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-seghe",
+      "city": "Seghe",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Seghe); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-marovo-lagoon",
+      "city": "Marovo Lagoon",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Marovo Lagoon); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-rendova-island",
+      "city": "Rendova Island",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Rendova Island); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-tetepare-island",
+      "city": "Tetepare Island",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Tetepare Island); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-kolombangara",
+      "city": "Kolombangara",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Kolombangara); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-new-georgia-island",
+      "city": "New Georgia Island",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as New Georgia Island); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-guadalcanal",
+      "city": "Guadalcanal",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Guadalcanal); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-malaita",
+      "city": "Malaita",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Malaita); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-santa-isabel",
+      "city": "Santa Isabel",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Santa Isabel); replace with exact destination photograph when sourced."
+    },
+    {
+      "key": "solomon-islands-western-province",
+      "city": "Western Province",
+      "country": "Solomon Islands",
+      "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=1200&q=85",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Temporary scenic placeholder (not verified as Western Province); replace with exact destination photograph when sourced."
     }
   ]
 }
