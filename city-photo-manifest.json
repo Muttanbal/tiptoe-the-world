@@ -3066,6 +3066,62 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/00%202070%20Kununurra%20-%20Western%20Australia.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Exact file listed on Wikimedia Commons: File:00 2070 Kununurra - Western Australia.jpg; live rendering pending"
+    },
+    {
+      "key": "fiji-lautoka",
+      "city": "Lautoka",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lautoka%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Lautoka Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-sigatoka",
+      "city": "Sigatoka",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigatoka%20Sand%20Dunes.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Sigatoka Sand Dunes.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-pacific-harbour",
+      "city": "Pacific Harbour",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Harbour%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Pacific Harbour Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-coral-coast",
+      "city": "Coral Coast",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Coast%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Coral Coast Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-natadola-beach",
+      "city": "Natadola Beach",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Natadola%20Beach%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Natadola Beach Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-mamanuca-islands",
+      "city": "Mamanuca Islands",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mamanuca%20Islands%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Mamanuca Islands Fiji.jpg; existence and live rendering not verified"
+    },
+    {
+      "key": "fiji-malolo-island",
+      "city": "Malolo Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Malolo%20Island%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons filename candidate: Malolo Island Fiji.jpg; existence and live rendering not verified"
     }
   ]
 }
