@@ -3479,9 +3479,9 @@
       "key": "vanuatu-nguna-island",
       "city": "Nguna Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nguna-1.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Graham Crumb; CC BY-SA 3.0; Wikimedia Commons; exact-location file confirmed; live rendering pending."
     },
     {
       "key": "vanuatu-pentecost-island",
@@ -3511,9 +3511,9 @@
       "key": "vanuatu-epi-island",
       "city": "Epi Island",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dugong%20Lamen%20Island%20Epi%20Vanuatu.jpeg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Simon Naunton and Nicole Wallace; Wikimedia Commons; license review for reuse; exact-location file confirmed; live rendering pending."
     },
     {
       "key": "vanuatu-erromango",
@@ -3535,17 +3535,17 @@
       "key": "vanuatu-gaua",
       "city": "Gaua",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaua.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "NASA; public domain; volcanic plume at Gaua; exact-location file confirmed; live rendering pending."
     },
     {
       "key": "vanuatu-maewo",
       "city": "Maewo",
       "country": "Vanuatu",
-      "url": "",
-      "status": "needs-location-specific-photo",
-      "source": "Photo required; no unverified regional substitute assigned."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maewo%20Kastom%20Dancers%20(2)%20(Imagicity%201317).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Graham Crumb; CC BY-SA 1.0; traditional dance on Maewo; personality rights note; exact-location file confirmed; live rendering pending."
     }
   ]
 }
