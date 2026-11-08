@@ -134,6 +134,13 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Harpers Ferry':'West Virginia','Morgantown':'West Virginia','Charleston, West Virginia':'West Virginia',
+ 'Milwaukee':'Wisconsin','Madison':'Wisconsin','Green Bay':'Wisconsin','Wisconsin Dells':'Wisconsin',
+ 'Jackson':'Wyoming','Cheyenne':'Wyoming','Cody':'Wyoming','Casper':'Wyoming',
+ 'Seattle':'Washington','Spokane':'Washington','Tacoma':'Washington','Olympia':'Washington','Leavenworth, Washington':'Washington',
+ 'Richmond':'Virginia','Virginia Beach':'Virginia','Alexandria':'Virginia','Williamsburg':'Virginia','Charlottesville':'Virginia',
+ 'Stowe':'Vermont',
+ 
  'Atlanta':'Georgia','Savannah':'Georgia','Augusta':'Georgia','Athens':'Georgia',
  'Honolulu':'Hawaii','Waikiki':'Hawaii','Hilo':'Hawaii','Kailua-Kona':'Hawaii','Lahaina':'Hawaii','Kihei':'Hawaii','Kahului':'Hawaii','Lihue':'Hawaii','Princeville':'Hawaii',
  'Boise':'Idaho',"Coeur d'Alene":'Idaho','Sun Valley':'Idaho',
@@ -193,6 +200,7 @@ async function findUSCommonsPhoto(name){
      if(!page.thumbnail?.source || page.missing!==undefined || !actual.includes(city.toLowerCase()))continue;
      if(/map|district|county|history|postcard|bank|building|street|school/i.test(actual) && actual!==city.toLowerCase())continue;
      if(state && !actual.includes(state.toLowerCase()) && !actual.includes('united states') && actual!==city.toLowerCase())continue;
+     if(/\\.svg(?:\\?|$)|\\bmap\\b|\\blocation\\b|\\blocator\\b/i.test(page.thumbnail.source))continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
      usCommonsUsedPhotos.add(page.thumbnail.source);
      return page.thumbnail.source;
@@ -210,6 +218,7 @@ async function findUSCommonsPhoto(name){
      if(!page.thumbnail?.source || !title.includes(city.toLowerCase()))continue;
      if(/map|district|county|history|postcard|bank|building|street|school/i.test(title))continue;
      if(state && !title.includes(state.toLowerCase()) && !title.includes('united states'))continue;
+     if(/\\.svg(?:\\?|$)|\\bmap\\b|\\blocation\\b|\\blocator\\b/i.test(page.thumbnail.source))continue;
      if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
      usCommonsUsedPhotos.add(page.thumbnail.source);
      return page.thumbnail.source;
@@ -229,6 +238,7 @@ async function findUSCommonsPhoto(name){
      if(state && !title.includes(state.toLowerCase()) && !title.includes('usa'))continue;
      if(/map|flag|logo|seal|diagram|drawing|illustration|document|newspaper|historic|postcard|189[0-9]|190[0-9]|191[0-9]/i.test(title))continue;
      if(!/cc|public domain|pd-|gfdl/i.test(meta.LicenseShortName?.value||''))continue;
+     if(/\\.svg(?:\\?|$)|\\bmap\\b|\\blocation\\b/i.test(info.thumburl))continue;
      if(usCommonsUsedPhotos.has(info.thumburl))continue;
      usCommonsUsedPhotos.add(info.thumburl);
      return info.thumburl;
