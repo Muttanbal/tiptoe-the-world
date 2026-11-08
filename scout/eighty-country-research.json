@@ -1,0 +1,2367 @@
+{
+  "project": "Tiptoe the World",
+  "status": "editorial research candidates; not published",
+  "generated_on": "2026-11-08",
+  "affiliate_partner_id": "MYN4RIJ",
+  "disclaimer": "Country/city/activities are editorial research candidates. Individual products marked product_page_located_affiliate_unverified have a located GetYourGuide product page with referral parameters appended, but partner attribution, date-specific bookability and image rights remain untested. Search-only candidates do not have matched product URLs.",
+  "countries": [
+    {
+      "id": 1,
+      "country": "Iceland",
+      "featured_city": "Reykjavík",
+      "activities": [
+        {
+          "name": "Golden Circle tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Reykjav%C3%ADk%20Golden%20Circle%20tour"
+        },
+        {
+          "name": "Blue Lagoon visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Reykjav%C3%ADk%20Blue%20Lagoon%20visit"
+        },
+        {
+          "name": "South Coast waterfalls",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Reykjav%C3%ADk%20South%20Coast%20waterfalls"
+        },
+        {
+          "name": "Whale watching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Reykjav%C3%ADk%20Whale%20watching"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "country": "Norway",
+      "featured_city": "Oslo",
+      "activities": [
+        {
+          "name": "Oslofjord cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Oslo%20Oslofjord%20cruise"
+        },
+        {
+          "name": "Vigeland sculpture walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Oslo%20Vigeland%20sculpture%20walk"
+        },
+        {
+          "name": "Bygdøy museums",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Oslo%20Bygd%C3%B8y%20museums"
+        },
+        {
+          "name": "City food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Oslo%20City%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "country": "Sweden",
+      "featured_city": "Stockholm",
+      "activities": [
+        {
+          "name": "Vasa Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Stockholm%20Vasa%20Museum"
+        },
+        {
+          "name": "Archipelago cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Stockholm%20Archipelago%20cruise"
+        },
+        {
+          "name": "Gamla Stan walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Stockholm%20Gamla%20Stan%20walk"
+        },
+        {
+          "name": "Food tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Stockholm%20Food%20tasting"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "country": "Denmark",
+      "featured_city": "Copenhagen",
+      "activities": [
+        {
+          "name": "Canal cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Copenhagen%20Canal%20cruise"
+        },
+        {
+          "name": "Tivoli Gardens",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Copenhagen%20Tivoli%20Gardens"
+        },
+        {
+          "name": "Rosenborg Castle",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Copenhagen%20Rosenborg%20Castle"
+        },
+        {
+          "name": "Cycling tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Copenhagen%20Cycling%20tour"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "country": "Finland",
+      "featured_city": "Helsinki",
+      "activities": [
+        {
+          "name": "Suomenlinna fortress",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Helsinki%20Suomenlinna%20fortress"
+        },
+        {
+          "name": "Archipelago cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Helsinki%20Archipelago%20cruise"
+        },
+        {
+          "name": "Design district walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Helsinki%20Design%20district%20walk"
+        },
+        {
+          "name": "Finnish sauna",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Helsinki%20Finnish%20sauna"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "country": "United Kingdom",
+      "featured_city": "London",
+      "activities": [
+        {
+          "name": "Tower of London",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Tower%20of%20London",
+          "product_id": "21253",
+          "product_title": "London: Tower of London and Crown Jewels Exhibition Ticket",
+          "source_product_url": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/",
+          "gyg_product_url": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Entry ticket, with public Yeoman Warder tours; not a private guided tour. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Westminster walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Westminster%20walking%20tour"
+        },
+        {
+          "name": "Thames cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Thames%20cruise"
+        },
+        {
+          "name": "Warner Bros Studio tour",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Warner%20Bros%20Studio%20tour",
+          "product_id": "31392",
+          "product_title": "London: Harry Potter Warner Bros Studio Tour with Transfers",
+          "source_product_url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-the-making-of-harry-potter-t31392/",
+          "gyg_product_url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-the-making-of-harry-potter-t31392/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Studio tour with London transport; check departure point and date. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "country": "Ireland",
+      "featured_city": "Dublin",
+      "activities": [
+        {
+          "name": "Cliffs of Moher day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Cliffs%20of%20Moher%20day%20trip",
+          "product_id": "38154",
+          "product_title": "Dublin: Cliffs of Moher, Atlantic Edge & Galway City",
+          "source_product_url": "https://www.getyourguide.com/de-at/dublin-l31/dublin-cliffs-of-moher-atlantic-edge-galway-city-t38154/",
+          "gyg_product_url": "https://www.getyourguide.com/de-at/dublin-l31/dublin-cliffs-of-moher-atlantic-edge-galway-city-t38154/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Dublin; long full-day trip; source page localized German. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Guinness Storehouse",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Guinness%20Storehouse"
+        },
+        {
+          "name": "Dublin walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Dublin%20walking%20tour"
+        },
+        {
+          "name": "Wicklow Mountains",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Wicklow%20Mountains"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "country": "France",
+      "featured_city": "Paris",
+      "activities": [
+        {
+          "name": "Eiffel Tower visit",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Eiffel%20Tower%20visit",
+          "product_id": "403886",
+          "product_title": "Paris: Eiffel Tower Summit or 2nd Floor Access",
+          "source_product_url": "https://www.getyourguide.com/en-au/paris-l16/paris-eiffel-tower-2nd-floor-or-summit-access-t403886/",
+          "gyg_product_url": "https://www.getyourguide.com/en-au/paris-l16/paris-eiffel-tower-2nd-floor-or-summit-access-t403886/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Summit is an optional upgrade, subject to ticket selection. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Louvre Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Louvre%20Museum"
+        },
+        {
+          "name": "Seine cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Seine%20cruise"
+        },
+        {
+          "name": "Versailles Palace",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Versailles%20Palace"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "country": "Germany",
+      "featured_city": "Berlin",
+      "activities": [
+        {
+          "name": "Berlin Wall history tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Berlin%20Berlin%20Wall%20history%20tour"
+        },
+        {
+          "name": "Museum Island",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Berlin%20Museum%20Island"
+        },
+        {
+          "name": "Reichstag visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Berlin%20Reichstag%20visit"
+        },
+        {
+          "name": "Potsdam day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Berlin%20Potsdam%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "country": "Italy",
+      "featured_city": "Rome",
+      "activities": [
+        {
+          "name": "Colosseum guided tour",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Colosseum%20guided%20tour",
+          "product_id": "1012030",
+          "product_title": "Rome: Exclusive Colosseum Arena or Underground & Forum Tour",
+          "gyg_product_url": "https://www.getyourguide.com/rome-l33/rome-roman-forum-and-colosseum-underground-exclusive-tour-t1012030/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "verification_notes": "Specific product page located on GetYourGuide; departure city Rome; bookable dates and affiliate attribution not tested."
+        },
+        {
+          "name": "Vatican Museums",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Vatican%20Museums",
+          "product_id": "1103",
+          "product_title": "Vatican Museums, Sistine Chapel & St. Peter's Basilica Tour",
+          "source_product_url": "https://www.getyourguide.com/rome-l33/vatican-museums-sistine-chapel-st-peter-s-basilica-tour-t1103/",
+          "gyg_product_url": "https://www.getyourguide.com/rome-l33/vatican-museums-sistine-chapel-st-peter-s-basilica-tour-t1103/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. St. Peter's Basilica included only if option selected; departure Rome/Vatican. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Roman food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Roman%20food%20tour"
+        },
+        {
+          "name": "Tivoli day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Tivoli%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "country": "Spain",
+      "featured_city": "Barcelona",
+      "activities": [
+        {
+          "name": "Sagrada Família",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Sagrada%20Fam%C3%ADlia",
+          "product_id": "29293",
+          "product_title": "Barcelona: Sagrada Família Skip-the-Line Guided Tour",
+          "source_product_url": "https://www.getyourguide.com/sk-sk/barcelona-l45/sagrada-familia-preskocenie-linky-t29293/",
+          "gyg_product_url": "https://www.getyourguide.com/sk-sk/barcelona-l45/sagrada-familia-preskocenie-linky-t29293/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Verified Barcelona product ID; source page localized Slovak; check English-language destination before publishing. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Park Güell",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Park%20G%C3%BCell"
+        },
+        {
+          "name": "Gothic Quarter walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Gothic%20Quarter%20walk"
+        },
+        {
+          "name": "Montserrat excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Montserrat%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "country": "Portugal",
+      "featured_city": "Lisbon",
+      "activities": [
+        {
+          "name": "Belém heritage tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Lisbon%20Bel%C3%A9m%20heritage%20tour"
+        },
+        {
+          "name": "Sintra palaces",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Lisbon%20Sintra%20palaces"
+        },
+        {
+          "name": "Fado evening",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Lisbon%20Fado%20evening"
+        },
+        {
+          "name": "Tagus cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Lisbon%20Tagus%20cruise"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "country": "Netherlands",
+      "featured_city": "Amsterdam",
+      "activities": [
+        {
+          "name": "Canal cruise",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Canal%20cruise",
+          "product_id": "42049",
+          "product_title": "Amsterdam: Evening Canal Cruise – City Lights & Wine Option",
+          "source_product_url": "https://www.getyourguide.com/en-gb/amsterdam-l36/amsterdam-90-minute-eveningcruise-t42049/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/amsterdam-l36/amsterdam-90-minute-eveningcruise-t42049/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Evening canal cruise, rather than daytime; optional drinks/snacks are paid variants. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Van Gogh Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Van%20Gogh%20Museum"
+        },
+        {
+          "name": "Anne Frank history walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Anne%20Frank%20history%20walk"
+        },
+        {
+          "name": "Zaanse Schans",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Zaanse%20Schans"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "country": "Belgium",
+      "featured_city": "Brussels",
+      "activities": [
+        {
+          "name": "Bruges day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Brussels%20Bruges%20day%20trip"
+        },
+        {
+          "name": "Chocolate workshop",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Brussels%20Chocolate%20workshop"
+        },
+        {
+          "name": "Grand Place walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Brussels%20Grand%20Place%20walk"
+        },
+        {
+          "name": "Beer tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Brussels%20Beer%20tasting"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "country": "Switzerland",
+      "featured_city": "Zurich",
+      "activities": [
+        {
+          "name": "Mount Titlis excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Zurich%20Mount%20Titlis%20excursion"
+        },
+        {
+          "name": "Lake Zurich cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Zurich%20Lake%20Zurich%20cruise"
+        },
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Zurich%20Old%20town%20walk"
+        },
+        {
+          "name": "Chocolate factory",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Zurich%20Chocolate%20factory"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "country": "Austria",
+      "featured_city": "Vienna",
+      "activities": [
+        {
+          "name": "Schönbrunn Palace",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vienna%20Sch%C3%B6nbrunn%20Palace"
+        },
+        {
+          "name": "Classical concert",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vienna%20Classical%20concert"
+        },
+        {
+          "name": "Belvedere Palace",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vienna%20Belvedere%20Palace"
+        },
+        {
+          "name": "Wachau Valley",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vienna%20Wachau%20Valley"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "country": "Greece",
+      "featured_city": "Athens",
+      "activities": [
+        {
+          "name": "Acropolis guided tour",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Acropolis%20guided%20tour",
+          "product_id": "368551",
+          "product_title": "Athens: Acropolis & Parthenon E-Bike Tour",
+          "source_product_url": "https://www.getyourguide.com/athens-l91/athens-electric-bike-tour-with-acropolis-parthenon-visit-t368551/",
+          "gyg_product_url": "https://www.getyourguide.com/athens-l91/athens-electric-bike-tour-with-acropolis-parthenon-visit-t368551/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Combines an e-bike city tour and Acropolis guided visit; admission depends on option. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Delphi day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Delphi%20day%20trip"
+        },
+        {
+          "name": "Athens food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Athens%20food%20tour"
+        },
+        {
+          "name": "Cape Sounion sunset",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Cape%20Sounion%20sunset",
+          "product_id": "56804",
+          "product_title": "Athens: Cape Sounion & Temple of Poseidon Sunset Experience",
+          "source_product_url": "https://www.getyourguide.com/en-gb/athens-l91/athens-cape-sounion-temple-of-poseidon-sunset-experience-t56804/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/athens-l91/athens-cape-sounion-temple-of-poseidon-sunset-experience-t56804/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Athens; entrance fee to site may be additional. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "country": "Türkiye",
+      "featured_city": "Istanbul",
+      "activities": [
+        {
+          "name": "Hagia Sophia visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Hagia%20Sophia%20visit"
+        },
+        {
+          "name": "Bosphorus cruise",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Bosphorus%20cruise",
+          "product_id": "461969",
+          "product_title": "Istanbul: Bosphorus Sightseeing Cruise Tour with Audio Guide",
+          "source_product_url": "https://www.getyourguide.com/istanbul-l56/bosphorus-evening-cruise-tour-in-istanbul-t461969/",
+          "gyg_product_url": "https://www.getyourguide.com/istanbul-l56/bosphorus-evening-cruise-tour-in-istanbul-t461969/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Istanbul Eminönü; 2-hour cruise; options vary. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Grand Bazaar tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Grand%20Bazaar%20tour"
+        },
+        {
+          "name": "Turkish food walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Turkish%20food%20walk"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "country": "Croatia",
+      "featured_city": "Dubrovnik",
+      "activities": [
+        {
+          "name": "City walls tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubrovnik%20City%20walls%20tour"
+        },
+        {
+          "name": "Lokrum island cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubrovnik%20Lokrum%20island%20cruise"
+        },
+        {
+          "name": "Game of Thrones walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubrovnik%20Game%20of%20Thrones%20walk"
+        },
+        {
+          "name": "Elaphiti islands",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubrovnik%20Elaphiti%20islands"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "country": "Czechia",
+      "featured_city": "Prague",
+      "activities": [
+        {
+          "name": "Prague Castle",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Prague%20Prague%20Castle"
+        },
+        {
+          "name": "Vltava cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Prague%20Vltava%20cruise"
+        },
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Prague%20Old%20town%20walk"
+        },
+        {
+          "name": "Kutná Hora excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Prague%20Kutn%C3%A1%20Hora%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "country": "Poland",
+      "featured_city": "Kraków",
+      "activities": [
+        {
+          "name": "Wieliczka Salt Mine",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Krak%C3%B3w%20Wieliczka%20Salt%20Mine"
+        },
+        {
+          "name": "Auschwitz memorial visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Krak%C3%B3w%20Auschwitz%20memorial%20visit"
+        },
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Krak%C3%B3w%20Old%20town%20walk"
+        },
+        {
+          "name": "Zakopane excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Krak%C3%B3w%20Zakopane%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "country": "Hungary",
+      "featured_city": "Budapest",
+      "activities": [
+        {
+          "name": "Danube cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Budapest%20Danube%20cruise"
+        },
+        {
+          "name": "Thermal baths",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Budapest%20Thermal%20baths"
+        },
+        {
+          "name": "Parliament tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Budapest%20Parliament%20tour"
+        },
+        {
+          "name": "Buda Castle walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Budapest%20Buda%20Castle%20walk"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "country": "Slovenia",
+      "featured_city": "Ljubljana",
+      "activities": [
+        {
+          "name": "Lake Bled excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Ljubljana%20Lake%20Bled%20excursion"
+        },
+        {
+          "name": "Postojna Cave",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Ljubljana%20Postojna%20Cave"
+        },
+        {
+          "name": "Ljubljana walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Ljubljana%20Ljubljana%20walking%20tour"
+        },
+        {
+          "name": "Predjama Castle",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Ljubljana%20Predjama%20Castle"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "country": "Estonia",
+      "featured_city": "Tallinn",
+      "activities": [
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tallinn%20Old%20town%20walk"
+        },
+        {
+          "name": "Lahemaa National Park",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tallinn%20Lahemaa%20National%20Park"
+        },
+        {
+          "name": "Food tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tallinn%20Food%20tasting"
+        },
+        {
+          "name": "Kadriorg Palace",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tallinn%20Kadriorg%20Palace"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "country": "Latvia",
+      "featured_city": "Riga",
+      "activities": [
+        {
+          "name": "Art Nouveau walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riga%20Art%20Nouveau%20walking%20tour"
+        },
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riga%20Old%20town%20walk"
+        },
+        {
+          "name": "Jūrmala day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riga%20J%C5%ABrmala%20day%20trip"
+        },
+        {
+          "name": "Riga food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riga%20Riga%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "country": "Lithuania",
+      "featured_city": "Vilnius",
+      "activities": [
+        {
+          "name": "Old town walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vilnius%20Old%20town%20walk"
+        },
+        {
+          "name": "Trakai Castle",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vilnius%20Trakai%20Castle"
+        },
+        {
+          "name": "Hot air balloon flight",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vilnius%20Hot%20air%20balloon%20flight"
+        },
+        {
+          "name": "Food tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vilnius%20Food%20tasting"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "country": "Romania",
+      "featured_city": "Bucharest",
+      "activities": [
+        {
+          "name": "Palace of Parliament",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bucharest%20Palace%20of%20Parliament"
+        },
+        {
+          "name": "Bran Castle day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bucharest%20Bran%20Castle%20day%20trip"
+        },
+        {
+          "name": "Old town tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bucharest%20Old%20town%20tour"
+        },
+        {
+          "name": "Therme spa",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bucharest%20Therme%20spa"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "country": "Bulgaria",
+      "featured_city": "Sofia",
+      "activities": [
+        {
+          "name": "Rila Monastery",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sofia%20Rila%20Monastery"
+        },
+        {
+          "name": "Vitosha Mountain",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sofia%20Vitosha%20Mountain"
+        },
+        {
+          "name": "Sofia walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sofia%20Sofia%20walking%20tour"
+        },
+        {
+          "name": "Plovdiv day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sofia%20Plovdiv%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "country": "Serbia",
+      "featured_city": "Belgrade",
+      "activities": [
+        {
+          "name": "Belgrade Fortress",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Belgrade%20Belgrade%20Fortress"
+        },
+        {
+          "name": "Danube cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Belgrade%20Danube%20cruise"
+        },
+        {
+          "name": "Zemun walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Belgrade%20Zemun%20walking%20tour"
+        },
+        {
+          "name": "Novi Sad day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Belgrade%20Novi%20Sad%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "country": "Montenegro",
+      "featured_city": "Kotor",
+      "activities": [
+        {
+          "name": "Bay of Kotor cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kotor%20Bay%20of%20Kotor%20cruise"
+        },
+        {
+          "name": "Kotor old town",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kotor%20Kotor%20old%20town"
+        },
+        {
+          "name": "Perast islands",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kotor%20Perast%20islands"
+        },
+        {
+          "name": "Lovćen National Park",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kotor%20Lov%C4%87en%20National%20Park"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "country": "Albania",
+      "featured_city": "Tirana",
+      "activities": [
+        {
+          "name": "Berat day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tirana%20Berat%20day%20trip"
+        },
+        {
+          "name": "Tirana walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tirana%20Tirana%20walking%20tour"
+        },
+        {
+          "name": "Dajti Mountain cable car",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tirana%20Dajti%20Mountain%20cable%20car"
+        },
+        {
+          "name": "Krujë excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tirana%20Kruj%C3%AB%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "country": "Bosnia and Herzegovina",
+      "featured_city": "Sarajevo",
+      "activities": [
+        {
+          "name": "Sarajevo history tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sarajevo%20Sarajevo%20history%20tour"
+        },
+        {
+          "name": "Tunnel of Hope",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sarajevo%20Tunnel%20of%20Hope"
+        },
+        {
+          "name": "Mostar day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sarajevo%20Mostar%20day%20trip"
+        },
+        {
+          "name": "Food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sarajevo%20Food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "country": "Malta",
+      "featured_city": "Valletta",
+      "activities": [
+        {
+          "name": "Three Cities tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Valletta%20Three%20Cities%20tour"
+        },
+        {
+          "name": "Blue Lagoon cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Valletta%20Blue%20Lagoon%20cruise"
+        },
+        {
+          "name": "Mdina walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Valletta%20Mdina%20walking%20tour"
+        },
+        {
+          "name": "Gozo day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Valletta%20Gozo%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "country": "Cyprus",
+      "featured_city": "Paphos",
+      "activities": [
+        {
+          "name": "Akamas boat trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paphos%20Akamas%20boat%20trip"
+        },
+        {
+          "name": "Tombs of the Kings",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paphos%20Tombs%20of%20the%20Kings"
+        },
+        {
+          "name": "Troodos villages",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paphos%20Troodos%20villages"
+        },
+        {
+          "name": "Blue Lagoon cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paphos%20Blue%20Lagoon%20cruise"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "country": "Georgia",
+      "featured_city": "Tbilisi",
+      "activities": [
+        {
+          "name": "Old town walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tbilisi%20Old%20town%20walking%20tour"
+        },
+        {
+          "name": "Kazbegi day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tbilisi%20Kazbegi%20day%20trip"
+        },
+        {
+          "name": "Kakheti wine tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tbilisi%20Kakheti%20wine%20tour"
+        },
+        {
+          "name": "Sulfur baths",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tbilisi%20Sulfur%20baths"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "country": "Armenia",
+      "featured_city": "Yerevan",
+      "activities": [
+        {
+          "name": "Garni Temple",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Yerevan%20Garni%20Temple"
+        },
+        {
+          "name": "Geghard Monastery",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Yerevan%20Geghard%20Monastery"
+        },
+        {
+          "name": "Lake Sevan excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Yerevan%20Lake%20Sevan%20excursion"
+        },
+        {
+          "name": "Yerevan food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Yerevan%20Yerevan%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "country": "Morocco",
+      "featured_city": "Marrakech",
+      "activities": [
+        {
+          "name": "Medina walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Medina%20walking%20tour"
+        },
+        {
+          "name": "Atlas Mountains day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Atlas%20Mountains%20day%20trip",
+          "product_id": "736747",
+          "product_title": "Ourika Valley, Atlas Mountains, Guided Hike & Lunch",
+          "source_product_url": "https://www.getyourguide.com/marrakesh-l208/atlas-mountains-ourika-valley-waterfallshike-with-guide-t736747/",
+          "gyg_product_url": "https://www.getyourguide.com/marrakesh-l208/atlas-mountains-ourika-valley-waterfallshike-with-guide-t736747/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Marrakech; Ourika Valley, waterfall walk; accessibility restrictions for hike. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Agafay desert dinner",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Agafay%20desert%20dinner"
+        },
+        {
+          "name": "Cooking class",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Cooking%20class"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "country": "Egypt",
+      "featured_city": "Cairo",
+      "activities": [
+        {
+          "name": "Giza pyramids",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Giza%20pyramids",
+          "product_id": "535994",
+          "product_title": "Cairo: Giza Pyramids, Sakkara & Dahshur All-Inclusive Tour",
+          "source_product_url": "https://www.getyourguide.com/en-gb/cairo-l92/cairo-giza-pyramids-sakkara-dahshur-all-inclusive-tour-t535994/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/cairo-l92/cairo-giza-pyramids-sakkara-dahshur-all-inclusive-tour-t535994/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Private day tour with Cairo hotel pickup; includes more than Giza. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Egyptian Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Egyptian%20Museum"
+        },
+        {
+          "name": "Nile dinner cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Nile%20dinner%20cruise"
+        },
+        {
+          "name": "Saqqara day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Saqqara%20day%20trip"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "country": "South Africa",
+      "featured_city": "Cape Town",
+      "activities": [
+        {
+          "name": "Table Mountain",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Table%20Mountain",
+          "product_id": "452405",
+          "product_title": "Cape Town: Table Mountain, Cape Point & Penguins Group Tour",
+          "source_product_url": "https://www.getyourguide.com/en-gb/cape-town-l103/table-mountain-cape-of-good-hope-penguins-from-cape-town-t452405/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/cape-town-l103/table-mountain-cape-of-good-hope-penguins-from-cape-town-t452405/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Full-day Cape Town tour; Table Mountain cableway costs may be excluded. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Cape Peninsula tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Cape%20Peninsula%20tour"
+        },
+        {
+          "name": "Robben Island",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Robben%20Island"
+        },
+        {
+          "name": "Winelands tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Winelands%20tasting"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "country": "Kenya",
+      "featured_city": "Nairobi",
+      "activities": [
+        {
+          "name": "Nairobi National Park",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nairobi%20Nairobi%20National%20Park"
+        },
+        {
+          "name": "Giraffe Centre",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nairobi%20Giraffe%20Centre"
+        },
+        {
+          "name": "Elephant orphanage visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nairobi%20Elephant%20orphanage%20visit"
+        },
+        {
+          "name": "Maasai market tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nairobi%20Maasai%20market%20tour"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "country": "Tanzania",
+      "featured_city": "Arusha",
+      "activities": [
+        {
+          "name": "Serengeti safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Arusha%20Serengeti%20safari"
+        },
+        {
+          "name": "Ngorongoro Crater",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Arusha%20Ngorongoro%20Crater"
+        },
+        {
+          "name": "Arusha National Park",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Arusha%20Arusha%20National%20Park"
+        },
+        {
+          "name": "Coffee farm tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Arusha%20Coffee%20farm%20tour"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "country": "Uganda",
+      "featured_city": "Entebbe",
+      "activities": [
+        {
+          "name": "Shoebill birdwatching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Entebbe%20Shoebill%20birdwatching"
+        },
+        {
+          "name": "Lake Victoria cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Entebbe%20Lake%20Victoria%20cruise"
+        },
+        {
+          "name": "Botanical gardens",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Entebbe%20Botanical%20gardens"
+        },
+        {
+          "name": "Kampala city tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Entebbe%20Kampala%20city%20tour"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "country": "Rwanda",
+      "featured_city": "Kigali",
+      "activities": [
+        {
+          "name": "Kigali city tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kigali%20Kigali%20city%20tour"
+        },
+        {
+          "name": "Genocide Memorial",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kigali%20Genocide%20Memorial"
+        },
+        {
+          "name": "Volcanoes National Park",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kigali%20Volcanoes%20National%20Park"
+        },
+        {
+          "name": "Coffee experience",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kigali%20Coffee%20experience"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "country": "Namibia",
+      "featured_city": "Windhoek",
+      "activities": [
+        {
+          "name": "Sossusvlei excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Windhoek%20Sossusvlei%20excursion"
+        },
+        {
+          "name": "Etosha safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Windhoek%20Etosha%20safari"
+        },
+        {
+          "name": "City tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Windhoek%20City%20tour"
+        },
+        {
+          "name": "Dune adventure",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Windhoek%20Dune%20adventure"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "country": "Botswana",
+      "featured_city": "Maun",
+      "activities": [
+        {
+          "name": "Okavango Delta mokoro",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Maun%20Okavango%20Delta%20mokoro"
+        },
+        {
+          "name": "Moremi safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Maun%20Moremi%20safari"
+        },
+        {
+          "name": "Scenic flight",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Maun%20Scenic%20flight"
+        },
+        {
+          "name": "Cultural village visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Maun%20Cultural%20village%20visit"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "country": "Zimbabwe",
+      "featured_city": "Victoria Falls",
+      "activities": [
+        {
+          "name": "Victoria Falls guided tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20Victoria%20Falls%20guided%20tour"
+        },
+        {
+          "name": "Zambezi sunset cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20Zambezi%20sunset%20cruise"
+        },
+        {
+          "name": "Helicopter flight",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20Helicopter%20flight"
+        },
+        {
+          "name": "Game drive",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20Game%20drive"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "country": "Mauritius",
+      "featured_city": "Port Louis",
+      "activities": [
+        {
+          "name": "Le Morne excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Port%20Louis%20Le%20Morne%20excursion"
+        },
+        {
+          "name": "Catamaran cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Port%20Louis%20Catamaran%20cruise"
+        },
+        {
+          "name": "Chamarel Seven Coloured Earth",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Port%20Louis%20Chamarel%20Seven%20Coloured%20Earth"
+        },
+        {
+          "name": "Street food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Port%20Louis%20Street%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "country": "Seychelles",
+      "featured_city": "Mahé",
+      "activities": [
+        {
+          "name": "Marine park snorkelling",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mah%C3%A9%20Marine%20park%20snorkelling"
+        },
+        {
+          "name": "Island hopping",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mah%C3%A9%20Island%20hopping"
+        },
+        {
+          "name": "Nature trail",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mah%C3%A9%20Nature%20trail"
+        },
+        {
+          "name": "Beach cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mah%C3%A9%20Beach%20cruise"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "country": "United Arab Emirates",
+      "featured_city": "Dubai",
+      "activities": [
+        {
+          "name": "Burj Khalifa",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Burj%20Khalifa",
+          "product_id": "49019",
+          "product_title": "Dubai: Burj Khalifa Levels 124 & 125 Entry Ticket + Options",
+          "source_product_url": "https://www.getyourguide.com/en-gb/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Entry to levels 124/125; date and option determine extras. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Desert safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Desert%20safari"
+        },
+        {
+          "name": "Dubai Marina cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Dubai%20Marina%20cruise"
+        },
+        {
+          "name": "Old Dubai walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Old%20Dubai%20walking%20tour"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "country": "Oman",
+      "featured_city": "Muscat",
+      "activities": [
+        {
+          "name": "Wadi Shab excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Muscat%20Wadi%20Shab%20excursion"
+        },
+        {
+          "name": "Dolphin watching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Muscat%20Dolphin%20watching"
+        },
+        {
+          "name": "Nizwa Fort",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Muscat%20Nizwa%20Fort"
+        },
+        {
+          "name": "Desert camping",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Muscat%20Desert%20camping"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "country": "Jordan",
+      "featured_city": "Amman",
+      "activities": [
+        {
+          "name": "Petra day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amman%20Petra%20day%20trip"
+        },
+        {
+          "name": "Wadi Rum desert safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amman%20Wadi%20Rum%20desert%20safari"
+        },
+        {
+          "name": "Dead Sea visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amman%20Dead%20Sea%20visit"
+        },
+        {
+          "name": "Jerash ruins",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amman%20Jerash%20ruins"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "country": "Saudi Arabia",
+      "featured_city": "Riyadh",
+      "activities": [
+        {
+          "name": "Diriyah heritage tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riyadh%20Diriyah%20heritage%20tour"
+        },
+        {
+          "name": "Edge of the World",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riyadh%20Edge%20of%20the%20World"
+        },
+        {
+          "name": "Riyadh city tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riyadh%20Riyadh%20city%20tour"
+        },
+        {
+          "name": "Desert safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Riyadh%20Desert%20safari"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "country": "India",
+      "featured_city": "Delhi",
+      "activities": [
+        {
+          "name": "Old Delhi food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Delhi%20Old%20Delhi%20food%20tour"
+        },
+        {
+          "name": "Taj Mahal day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Delhi%20Taj%20Mahal%20day%20trip"
+        },
+        {
+          "name": "Red Fort visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Delhi%20Red%20Fort%20visit"
+        },
+        {
+          "name": "Delhi heritage walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Delhi%20Delhi%20heritage%20walk"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "country": "Nepal",
+      "featured_city": "Kathmandu",
+      "activities": [
+        {
+          "name": "Kathmandu valley heritage tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kathmandu%20Kathmandu%20valley%20heritage%20tour"
+        },
+        {
+          "name": "Everest scenic flight",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kathmandu%20Everest%20scenic%20flight"
+        },
+        {
+          "name": "Bhaktapur excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kathmandu%20Bhaktapur%20excursion"
+        },
+        {
+          "name": "Nagarkot sunrise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kathmandu%20Nagarkot%20sunrise"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "country": "Sri Lanka",
+      "featured_city": "Colombo",
+      "activities": [
+        {
+          "name": "Sigiriya day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Colombo%20Sigiriya%20day%20trip"
+        },
+        {
+          "name": "Colombo food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Colombo%20Colombo%20food%20tour"
+        },
+        {
+          "name": "Galle Fort excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Colombo%20Galle%20Fort%20excursion"
+        },
+        {
+          "name": "Wildlife safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Colombo%20Wildlife%20safari"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "country": "Thailand",
+      "featured_city": "Bangkok",
+      "activities": [
+        {
+          "name": "Grand Palace",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Grand%20Palace",
+          "product_id": "840436",
+          "product_title": "Bangkok: Grand Palace, Wat Pho, and Wat Arun Guided Tour",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-grand-palace-wat-pho-and-wat-arun-guided-tour-t840436/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-grand-palace-wat-pho-and-wat-arun-guided-tour-t840436/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Bangkok guided temple and palace tour; verify admission inclusion in selected option. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Floating market",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Floating%20market"
+        },
+        {
+          "name": "Ayutthaya day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Ayutthaya%20day%20trip",
+          "product_id": "383879",
+          "product_title": "From Bangkok: Ayutthaya Temples Guided Tour with Lunch",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/from-bangkok-ayutthaya-temples-guided-tour-with-lunch-t383879/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/from-bangkok-ayutthaya-temples-guided-tour-with-lunch-t383879/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Bangkok for Ayutthaya. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Thai cooking class",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Thai%20cooking%20class",
+          "product_id": "29238",
+          "product_title": "Bangkok: Maliwan Thai Cooking Class with Market Tour",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-maliwan-thai-cooking-class-with-market-tour-t29238/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-maliwan-thai-cooking-class-with-market-tour-t29238/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Bangkok cooking class plus tuk-tuk market visit. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "country": "Vietnam",
+      "featured_city": "Hanoi",
+      "activities": [
+        {
+          "name": "Ha Long Bay cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Hanoi%20Ha%20Long%20Bay%20cruise"
+        },
+        {
+          "name": "Old Quarter food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Hanoi%20Old%20Quarter%20food%20tour"
+        },
+        {
+          "name": "Ninh Binh excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Hanoi%20Ninh%20Binh%20excursion"
+        },
+        {
+          "name": "Water puppet show",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Hanoi%20Water%20puppet%20show"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "country": "Cambodia",
+      "featured_city": "Siem Reap",
+      "activities": [
+        {
+          "name": "Angkor Wat sunrise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Siem%20Reap%20Angkor%20Wat%20sunrise"
+        },
+        {
+          "name": "Temple cycling tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Siem%20Reap%20Temple%20cycling%20tour"
+        },
+        {
+          "name": "Tonlé Sap boat tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Siem%20Reap%20Tonl%C3%A9%20Sap%20boat%20tour"
+        },
+        {
+          "name": "Khmer cooking class",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Siem%20Reap%20Khmer%20cooking%20class"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "country": "Laos",
+      "featured_city": "Luang Prabang",
+      "activities": [
+        {
+          "name": "Kuang Si Falls",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luang%20Prabang%20Kuang%20Si%20Falls"
+        },
+        {
+          "name": "Mekong cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luang%20Prabang%20Mekong%20cruise"
+        },
+        {
+          "name": "Alms giving cultural tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luang%20Prabang%20Alms%20giving%20cultural%20tour"
+        },
+        {
+          "name": "Cooking class",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Luang%20Prabang%20Cooking%20class"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "country": "Malaysia",
+      "featured_city": "Kuala Lumpur",
+      "activities": [
+        {
+          "name": "Petronas Towers",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20Petronas%20Towers"
+        },
+        {
+          "name": "Batu Caves",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20Batu%20Caves"
+        },
+        {
+          "name": "Street food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20Street%20food%20tour"
+        },
+        {
+          "name": "Genting Highlands",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20Genting%20Highlands"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "country": "Singapore",
+      "featured_city": "Singapore",
+      "activities": [
+        {
+          "name": "Gardens by the Bay",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Singapore%20Gardens%20by%20the%20Bay"
+        },
+        {
+          "name": "Marina Bay Sands",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Singapore%20Marina%20Bay%20Sands"
+        },
+        {
+          "name": "Night Safari",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Singapore%20Night%20Safari"
+        },
+        {
+          "name": "Hawker food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Singapore%20Hawker%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "country": "Indonesia",
+      "featured_city": "Bali",
+      "activities": [
+        {
+          "name": "Ubud rice terraces",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bali%20Ubud%20rice%20terraces"
+        },
+        {
+          "name": "Mount Batur sunrise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bali%20Mount%20Batur%20sunrise"
+        },
+        {
+          "name": "Uluwatu temple",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bali%20Uluwatu%20temple"
+        },
+        {
+          "name": "Snorkelling trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bali%20Snorkelling%20trip"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "country": "Philippines",
+      "featured_city": "Cebu",
+      "activities": [
+        {
+          "name": "Whale shark watching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cebu%20Whale%20shark%20watching"
+        },
+        {
+          "name": "Kawasan Falls",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cebu%20Kawasan%20Falls"
+        },
+        {
+          "name": "Island hopping",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cebu%20Island%20hopping"
+        },
+        {
+          "name": "Cebu heritage tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cebu%20Cebu%20heritage%20tour"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "country": "Japan",
+      "featured_city": "Tokyo",
+      "activities": [
+        {
+          "name": "Shibuya walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20Shibuya%20walking%20tour"
+        },
+        {
+          "name": "Mount Fuji day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20Mount%20Fuji%20day%20trip",
+          "product_id": "1030333",
+          "product_title": "Mt. Fuji Hakone Day Tour With Lake Ashi Cruise, FREE Ropeway",
+          "source_product_url": "https://www.getyourguide.com/tokyo-l193/mtfuji-hakone-day-tour-with-lake-ashi-cruise-free-ropeway-t1030333/",
+          "gyg_product_url": "https://www.getyourguide.com/tokyo-l193/mtfuji-hakone-day-tour-with-lake-ashi-cruise-free-ropeway-t1030333/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Tokyo; cruise sometimes optional and extra cost despite product title. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Tsukiji food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20Tsukiji%20food%20tour"
+        },
+        {
+          "name": "TeamLab exhibition",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20TeamLab%20exhibition"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "country": "South Korea",
+      "featured_city": "Seoul",
+      "activities": [
+        {
+          "name": "Gyeongbokgung Palace",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20Gyeongbokgung%20Palace"
+        },
+        {
+          "name": "DMZ tour",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20DMZ%20tour",
+          "product_id": "515571",
+          "product_title": "Seoul: Half-Day DMZ Tour Led by a Retired Military Officer",
+          "source_product_url": "https://www.getyourguide.com/en-gb/seoul-l197/seoul-dmz-observatory-tour-with-suspension-bridge-or-boat-t515571/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/seoul-l197/seoul-dmz-observatory-tour-with-suspension-bridge-or-boat-t515571/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Seoul; DMZ access may be affected by military restrictions. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Street food walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20Street%20food%20walk"
+        },
+        {
+          "name": "N Seoul Tower",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20N%20Seoul%20Tower"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "country": "China",
+      "featured_city": "Beijing",
+      "activities": [
+        {
+          "name": "Great Wall day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Beijing%20Great%20Wall%20day%20trip"
+        },
+        {
+          "name": "Forbidden City",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Beijing%20Forbidden%20City"
+        },
+        {
+          "name": "Temple of Heaven",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Beijing%20Temple%20of%20Heaven"
+        },
+        {
+          "name": "Hutong food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Beijing%20Hutong%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "country": "Taiwan",
+      "featured_city": "Taipei",
+      "activities": [
+        {
+          "name": "Taipei 101",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Taipei%20Taipei%20101"
+        },
+        {
+          "name": "Jiufen day trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Taipei%20Jiufen%20day%20trip"
+        },
+        {
+          "name": "Night market food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Taipei%20Night%20market%20food%20tour"
+        },
+        {
+          "name": "National Palace Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Taipei%20National%20Palace%20Museum"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "country": "Australia",
+      "featured_city": "Sydney",
+      "activities": [
+        {
+          "name": "Sydney Opera House tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Sydney%20Opera%20House%20tour"
+        },
+        {
+          "name": "Harbour cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Harbour%20cruise"
+        },
+        {
+          "name": "Blue Mountains day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Blue%20Mountains%20day%20trip",
+          "product_id": "13261",
+          "product_title": "Blue Mountain Tour: Scenic World, Wildlife, Lunch*, Cruise",
+          "source_product_url": "https://www.getyourguide.com/en-gb/sydney-l200/blue-mountain-small-group-scenic-world-wildlife-waterfall-t13261/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/sydney-l200/blue-mountain-small-group-scenic-world-wildlife-waterfall-t13261/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Sydney; selected options may change lunch and wildlife venue. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Bondi coastal walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Bondi%20coastal%20walk"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "country": "New Zealand",
+      "featured_city": "Auckland",
+      "activities": [
+        {
+          "name": "Hobbiton day trip",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Hobbiton%20day%20trip",
+          "product_id": "868942",
+          "product_title": "Auckland: Hobbiton & Rotorua Māori Village with Lunch",
+          "source_product_url": "https://www.getyourguide.com/auckland-l822/ex-auckland-hobbiton-rotorua-maori-village-w-hangi-lunch-t868942/",
+          "gyg_product_url": "https://www.getyourguide.com/auckland-l822/ex-auckland-hobbiton-rotorua-maori-village-w-hangi-lunch-t868942/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Auckland; includes Rotorua village, longer than Hobbiton-only experience. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Waitomo glowworm caves",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Waitomo%20glowworm%20caves"
+        },
+        {
+          "name": "Harbour sailing",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Harbour%20sailing"
+        },
+        {
+          "name": "Waiheke wine tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Waiheke%20wine%20tour"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "country": "Fiji",
+      "featured_city": "Nadi",
+      "activities": [
+        {
+          "name": "Mamanuca island cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nadi%20Mamanuca%20island%20cruise"
+        },
+        {
+          "name": "Mud pools",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nadi%20Mud%20pools"
+        },
+        {
+          "name": "Village cultural tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nadi%20Village%20cultural%20tour"
+        },
+        {
+          "name": "Snorkelling excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Nadi%20Snorkelling%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "country": "United States",
+      "featured_city": "New York City",
+      "activities": [
+        {
+          "name": "Statue of Liberty",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Statue%20of%20Liberty",
+          "product_id": "679",
+          "product_title": "NYC Ultimate Sightseeing Cruise with Statue of Liberty",
+          "source_product_url": "https://www.getyourguide.com/new-york-city-l59/nyc-circle-line-25-hour-best-of-nyc-boat-cruise-t679/",
+          "gyg_product_url": "https://www.getyourguide.com/new-york-city-l59/nyc-circle-line-25-hour-best-of-nyc-boat-cruise-t679/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. SIGHTSEEING FROM BOAT ONLY; NOT a ferry landing on Liberty Island. Consider replacing with official island access tour. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Empire State Building",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Empire%20State%20Building"
+        },
+        {
+          "name": "Broadway show",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Broadway%20show"
+        },
+        {
+          "name": "Central Park tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Central%20Park%20tour"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "country": "Canada",
+      "featured_city": "Vancouver",
+      "activities": [
+        {
+          "name": "Stanley Park cycling",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vancouver%20Stanley%20Park%20cycling"
+        },
+        {
+          "name": "Whale watching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vancouver%20Whale%20watching"
+        },
+        {
+          "name": "Capilano Suspension Bridge",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vancouver%20Capilano%20Suspension%20Bridge"
+        },
+        {
+          "name": "Grouse Mountain",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Vancouver%20Grouse%20Mountain"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "country": "Mexico",
+      "featured_city": "Mexico City",
+      "activities": [
+        {
+          "name": "Teotihuacán pyramids",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Teotihuac%C3%A1n%20pyramids",
+          "product_id": "871666",
+          "product_title": "Teotihuacan VIP: Tour of the pyramids and the Basilica of Guadalupe",
+          "source_product_url": "https://www.getyourguide.com/en-gb/mexico-city-l194/teotihuacan-vip-pyramids-shrine-of-guadalupe-and-tourist-areas-t871666/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/mexico-city-l194/teotihuacan-vip-pyramids-shrine-of-guadalupe-and-tourist-areas-t871666/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Mexico City pickup; additional Basilica stop. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Frida Kahlo Museum",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Frida%20Kahlo%20Museum"
+        },
+        {
+          "name": "Xochimilco boat ride",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Xochimilco%20boat%20ride"
+        },
+        {
+          "name": "Food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "country": "Costa Rica",
+      "featured_city": "La Fortuna",
+      "activities": [
+        {
+          "name": "Arenal Volcano hike",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=La%20Fortuna%20Arenal%20Volcano%20hike"
+        },
+        {
+          "name": "Hot springs",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=La%20Fortuna%20Hot%20springs"
+        },
+        {
+          "name": "Hanging bridges",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=La%20Fortuna%20Hanging%20bridges"
+        },
+        {
+          "name": "Sloth watching",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=La%20Fortuna%20Sloth%20watching"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "country": "Panama",
+      "featured_city": "Panama City",
+      "activities": [
+        {
+          "name": "Panama Canal visit",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Panama%20City%20Panama%20Canal%20visit"
+        },
+        {
+          "name": "Casco Viejo walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Panama%20City%20Casco%20Viejo%20walking%20tour"
+        },
+        {
+          "name": "San Blas islands",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Panama%20City%20San%20Blas%20islands"
+        },
+        {
+          "name": "Rainforest excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Panama%20City%20Rainforest%20excursion"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "country": "Colombia",
+      "featured_city": "Cartagena",
+      "activities": [
+        {
+          "name": "Walled city walk",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cartagena%20Walled%20city%20walk"
+        },
+        {
+          "name": "Rosario Islands cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cartagena%20Rosario%20Islands%20cruise"
+        },
+        {
+          "name": "Street food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cartagena%20Street%20food%20tour"
+        },
+        {
+          "name": "Sunset boat trip",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cartagena%20Sunset%20boat%20trip"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "country": "Peru",
+      "featured_city": "Cusco",
+      "activities": [
+        {
+          "name": "Machu Picchu excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cusco%20Machu%20Picchu%20excursion"
+        },
+        {
+          "name": "Sacred Valley",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cusco%20Sacred%20Valley"
+        },
+        {
+          "name": "Rainbow Mountain",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cusco%20Rainbow%20Mountain"
+        },
+        {
+          "name": "Cusco food tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cusco%20Cusco%20food%20tour"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "country": "Brazil",
+      "featured_city": "Rio de Janeiro",
+      "activities": [
+        {
+          "name": "Christ the Redeemer",
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Christ%20the%20Redeemer",
+          "product_id": "73913",
+          "product_title": "Best Half Day in Rio: Christ the Redeemer and Sugarloaf",
+          "source_product_url": "https://www.getyourguide.com/rio-de-janeiro-l9/best-half-day-in-rio-christ-the-redeemer-and-sugarloaf-t73913/",
+          "gyg_product_url": "https://www.getyourguide.com/rio-de-janeiro-l9/best-half-day-in-rio-christ-the-redeemer-and-sugarloaf-t73913/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Rio hotel pickup; also visits Sugarloaf. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
+        },
+        {
+          "name": "Sugarloaf Mountain",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Sugarloaf%20Mountain"
+        },
+        {
+          "name": "Favela cultural tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Favela%20cultural%20tour"
+        },
+        {
+          "name": "Tijuca Forest",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Tijuca%20Forest"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "country": "Argentina",
+      "featured_city": "Buenos Aires",
+      "activities": [
+        {
+          "name": "Tango show",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20Tango%20show"
+        },
+        {
+          "name": "Recoleta walking tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20Recoleta%20walking%20tour"
+        },
+        {
+          "name": "Tigre Delta cruise",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20Tigre%20Delta%20cruise"
+        },
+        {
+          "name": "Food and wine tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20Food%20and%20wine%20tour"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "country": "Chile",
+      "featured_city": "Santiago",
+      "activities": [
+        {
+          "name": "Valparaíso excursion",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Santiago%20Valpara%C3%ADso%20excursion"
+        },
+        {
+          "name": "Cajón del Maipo",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Santiago%20Caj%C3%B3n%20del%20Maipo"
+        },
+        {
+          "name": "Wine tasting",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Santiago%20Wine%20tasting"
+        },
+        {
+          "name": "Santiago city tour",
+          "status": "needs_product_matching",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Santiago%20Santiago%20city%20tour"
+        }
+      ]
+    }
+  ],
+  "scope": "80 countries, 320 editorial activity candidates",
+  "last_research_update": "2026-11-08"
+}
