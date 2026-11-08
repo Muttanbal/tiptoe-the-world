@@ -3,7 +3,7 @@
   "status": "editorial research candidates; not published",
   "generated_on": "2026-11-08",
   "affiliate_partner_id": "MYN4RIJ",
-  "disclaimer": "Activity titles are editorial themes, NOT verified GetYourGuide products. Search links are discovery links, not affiliate links. Verify product, availability, departure city, image rights and attribution before publishing.",
+  "disclaimer": "Country/city/activities are editorial research candidates. Individual products marked product_page_located_affiliate_unverified have a located GetYourGuide product page with referral parameters appended, but partner attribution, date-specific bookability and image rights remain untested. Search-only candidates do not have matched product URLs.",
   "countries": [
     {
       "id": 1,
@@ -147,8 +147,16 @@
       "activities": [
         {
           "name": "Tower of London",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Tower%20of%20London"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Tower%20of%20London",
+          "product_id": "21253",
+          "product_title": "London: Tower of London and Crown Jewels Exhibition Ticket",
+          "source_product_url": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/",
+          "gyg_product_url": "https://www.getyourguide.com/london-l57/london-tower-of-london-and-crown-jewels-exhibition-ticket-t21253/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Entry ticket, with public Yeoman Warder tours; not a private guided tour. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Westminster walking tour",
@@ -162,8 +170,16 @@
         },
         {
           "name": "Warner Bros Studio tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Warner%20Bros%20Studio%20tour"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=London%20Warner%20Bros%20Studio%20tour",
+          "product_id": "31392",
+          "product_title": "London: Harry Potter Warner Bros Studio Tour with Transfers",
+          "source_product_url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-the-making-of-harry-potter-t31392/",
+          "gyg_product_url": "https://www.getyourguide.com/london-l57/warner-bros-studio-tour-london-the-making-of-harry-potter-t31392/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Studio tour with London transport; check departure point and date. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         }
       ]
     },
@@ -174,8 +190,16 @@
       "activities": [
         {
           "name": "Cliffs of Moher day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Cliffs%20of%20Moher%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dublin%20Cliffs%20of%20Moher%20day%20trip",
+          "product_id": "38154",
+          "product_title": "Dublin: Cliffs of Moher, Atlantic Edge & Galway City",
+          "source_product_url": "https://www.getyourguide.com/de-at/dublin-l31/dublin-cliffs-of-moher-atlantic-edge-galway-city-t38154/",
+          "gyg_product_url": "https://www.getyourguide.com/de-at/dublin-l31/dublin-cliffs-of-moher-atlantic-edge-galway-city-t38154/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Dublin; long full-day trip; source page localized German. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Guinness Storehouse",
@@ -201,8 +225,16 @@
       "activities": [
         {
           "name": "Eiffel Tower visit",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Eiffel%20Tower%20visit"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Paris%20Eiffel%20Tower%20visit",
+          "product_id": "403886",
+          "product_title": "Paris: Eiffel Tower Summit or 2nd Floor Access",
+          "source_product_url": "https://www.getyourguide.com/en-au/paris-l16/paris-eiffel-tower-2nd-floor-or-summit-access-t403886/",
+          "gyg_product_url": "https://www.getyourguide.com/en-au/paris-l16/paris-eiffel-tower-2nd-floor-or-summit-access-t403886/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Summit is an optional upgrade, subject to ticket selection. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Louvre Museum",
@@ -264,8 +296,16 @@
         },
         {
           "name": "Vatican Museums",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Vatican%20Museums"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rome%20Vatican%20Museums",
+          "product_id": "1103",
+          "product_title": "Vatican Museums, Sistine Chapel & St. Peter's Basilica Tour",
+          "source_product_url": "https://www.getyourguide.com/rome-l33/vatican-museums-sistine-chapel-st-peter-s-basilica-tour-t1103/",
+          "gyg_product_url": "https://www.getyourguide.com/rome-l33/vatican-museums-sistine-chapel-st-peter-s-basilica-tour-t1103/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. St. Peter's Basilica included only if option selected; departure Rome/Vatican. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Roman food tour",
@@ -286,8 +326,16 @@
       "activities": [
         {
           "name": "Sagrada Família",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Sagrada%20Fam%C3%ADlia"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Barcelona%20Sagrada%20Fam%C3%ADlia",
+          "product_id": "29293",
+          "product_title": "Barcelona: Sagrada Família Skip-the-Line Guided Tour",
+          "source_product_url": "https://www.getyourguide.com/sk-sk/barcelona-l45/sagrada-familia-preskocenie-linky-t29293/",
+          "gyg_product_url": "https://www.getyourguide.com/sk-sk/barcelona-l45/sagrada-familia-preskocenie-linky-t29293/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Verified Barcelona product ID; source page localized Slovak; check English-language destination before publishing. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Park Güell",
@@ -340,8 +388,16 @@
       "activities": [
         {
           "name": "Canal cruise",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Canal%20cruise"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Amsterdam%20Canal%20cruise",
+          "product_id": "42049",
+          "product_title": "Amsterdam: Evening Canal Cruise – City Lights & Wine Option",
+          "source_product_url": "https://www.getyourguide.com/en-gb/amsterdam-l36/amsterdam-90-minute-eveningcruise-t42049/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/amsterdam-l36/amsterdam-90-minute-eveningcruise-t42049/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Evening canal cruise, rather than daytime; optional drinks/snacks are paid variants. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Van Gogh Museum",
@@ -448,8 +504,16 @@
       "activities": [
         {
           "name": "Acropolis guided tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Acropolis%20guided%20tour"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Acropolis%20guided%20tour",
+          "product_id": "368551",
+          "product_title": "Athens: Acropolis & Parthenon E-Bike Tour",
+          "source_product_url": "https://www.getyourguide.com/athens-l91/athens-electric-bike-tour-with-acropolis-parthenon-visit-t368551/",
+          "gyg_product_url": "https://www.getyourguide.com/athens-l91/athens-electric-bike-tour-with-acropolis-parthenon-visit-t368551/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Combines an e-bike city tour and Acropolis guided visit; admission depends on option. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Delphi day trip",
@@ -463,8 +527,16 @@
         },
         {
           "name": "Cape Sounion sunset",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Cape%20Sounion%20sunset"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Athens%20Cape%20Sounion%20sunset",
+          "product_id": "56804",
+          "product_title": "Athens: Cape Sounion & Temple of Poseidon Sunset Experience",
+          "source_product_url": "https://www.getyourguide.com/en-gb/athens-l91/athens-cape-sounion-temple-of-poseidon-sunset-experience-t56804/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/athens-l91/athens-cape-sounion-temple-of-poseidon-sunset-experience-t56804/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Athens; entrance fee to site may be additional. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         }
       ]
     },
@@ -480,8 +552,16 @@
         },
         {
           "name": "Bosphorus cruise",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Bosphorus%20cruise"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Istanbul%20Bosphorus%20cruise",
+          "product_id": "461969",
+          "product_title": "Istanbul: Bosphorus Sightseeing Cruise Tour with Audio Guide",
+          "source_product_url": "https://www.getyourguide.com/istanbul-l56/bosphorus-evening-cruise-tour-in-istanbul-t461969/",
+          "gyg_product_url": "https://www.getyourguide.com/istanbul-l56/bosphorus-evening-cruise-tour-in-istanbul-t461969/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Istanbul Eminönü; 2-hour cruise; options vary. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Grand Bazaar tour",
@@ -993,8 +1073,16 @@
         },
         {
           "name": "Atlas Mountains day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Atlas%20Mountains%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Marrakech%20Atlas%20Mountains%20day%20trip",
+          "product_id": "736747",
+          "product_title": "Ourika Valley, Atlas Mountains, Guided Hike & Lunch",
+          "source_product_url": "https://www.getyourguide.com/marrakesh-l208/atlas-mountains-ourika-valley-waterfallshike-with-guide-t736747/",
+          "gyg_product_url": "https://www.getyourguide.com/marrakesh-l208/atlas-mountains-ourika-valley-waterfallshike-with-guide-t736747/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Marrakech; Ourika Valley, waterfall walk; accessibility restrictions for hike. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Agafay desert dinner",
@@ -1015,8 +1103,16 @@
       "activities": [
         {
           "name": "Giza pyramids",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Giza%20pyramids"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cairo%20Giza%20pyramids",
+          "product_id": "535994",
+          "product_title": "Cairo: Giza Pyramids, Sakkara & Dahshur All-Inclusive Tour",
+          "source_product_url": "https://www.getyourguide.com/en-gb/cairo-l92/cairo-giza-pyramids-sakkara-dahshur-all-inclusive-tour-t535994/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/cairo-l92/cairo-giza-pyramids-sakkara-dahshur-all-inclusive-tour-t535994/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Private day tour with Cairo hotel pickup; includes more than Giza. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Egyptian Museum",
@@ -1042,8 +1138,16 @@
       "activities": [
         {
           "name": "Table Mountain",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Table%20Mountain"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Cape%20Town%20Table%20Mountain",
+          "product_id": "452405",
+          "product_title": "Cape Town: Table Mountain, Cape Point & Penguins Group Tour",
+          "source_product_url": "https://www.getyourguide.com/en-gb/cape-town-l103/table-mountain-cape-of-good-hope-penguins-from-cape-town-t452405/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/cape-town-l103/table-mountain-cape-of-good-hope-penguins-from-cape-town-t452405/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Full-day Cape Town tour; Table Mountain cableway costs may be excluded. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Cape Peninsula tour",
@@ -1312,8 +1416,16 @@
       "activities": [
         {
           "name": "Burj Khalifa",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Burj%20Khalifa"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Dubai%20Burj%20Khalifa",
+          "product_id": "49019",
+          "product_title": "Dubai: Burj Khalifa Levels 124 & 125 Entry Ticket + Options",
+          "source_product_url": "https://www.getyourguide.com/en-gb/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/dubai-l173/dubai-burj-khalifa-levels-124-125-entry-ticket-options-t49019/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Entry to levels 124/125; date and option determine extras. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Desert safari",
@@ -1501,8 +1613,16 @@
       "activities": [
         {
           "name": "Grand Palace",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Grand%20Palace"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Grand%20Palace",
+          "product_id": "840436",
+          "product_title": "Bangkok: Grand Palace, Wat Pho, and Wat Arun Guided Tour",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-grand-palace-wat-pho-and-wat-arun-guided-tour-t840436/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-grand-palace-wat-pho-and-wat-arun-guided-tour-t840436/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Bangkok guided temple and palace tour; verify admission inclusion in selected option. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Floating market",
@@ -1511,13 +1631,29 @@
         },
         {
           "name": "Ayutthaya day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Ayutthaya%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Ayutthaya%20day%20trip",
+          "product_id": "383879",
+          "product_title": "From Bangkok: Ayutthaya Temples Guided Tour with Lunch",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/from-bangkok-ayutthaya-temples-guided-tour-with-lunch-t383879/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/from-bangkok-ayutthaya-temples-guided-tour-with-lunch-t383879/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Bangkok for Ayutthaya. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Thai cooking class",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Thai%20cooking%20class"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Bangkok%20Thai%20cooking%20class",
+          "product_id": "29238",
+          "product_title": "Bangkok: Maliwan Thai Cooking Class with Market Tour",
+          "source_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-maliwan-thai-cooking-class-with-market-tour-t29238/",
+          "gyg_product_url": "https://www.getyourguide.com/bangkok-l169/bangkok-maliwan-thai-cooking-class-with-market-tour-t29238/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Bangkok cooking class plus tuk-tuk market visit. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         }
       ]
     },
@@ -1722,8 +1858,16 @@
         },
         {
           "name": "Mount Fuji day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20Mount%20Fuji%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Tokyo%20Mount%20Fuji%20day%20trip",
+          "product_id": "1030333",
+          "product_title": "Mt. Fuji Hakone Day Tour With Lake Ashi Cruise, FREE Ropeway",
+          "source_product_url": "https://www.getyourguide.com/tokyo-l193/mtfuji-hakone-day-tour-with-lake-ashi-cruise-free-ropeway-t1030333/",
+          "gyg_product_url": "https://www.getyourguide.com/tokyo-l193/mtfuji-hakone-day-tour-with-lake-ashi-cruise-free-ropeway-t1030333/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Tokyo; cruise sometimes optional and extra cost despite product title. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Tsukiji food tour",
@@ -1749,8 +1893,16 @@
         },
         {
           "name": "DMZ tour",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20DMZ%20tour"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Seoul%20DMZ%20tour",
+          "product_id": "515571",
+          "product_title": "Seoul: Half-Day DMZ Tour Led by a Retired Military Officer",
+          "source_product_url": "https://www.getyourguide.com/en-gb/seoul-l197/seoul-dmz-observatory-tour-with-suspension-bridge-or-boat-t515571/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/seoul-l197/seoul-dmz-observatory-tour-with-suspension-bridge-or-boat-t515571/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Seoul; DMZ access may be affected by military restrictions. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Street food walk",
@@ -1835,8 +1987,16 @@
         },
         {
           "name": "Blue Mountains day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Blue%20Mountains%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Sydney%20Blue%20Mountains%20day%20trip",
+          "product_id": "13261",
+          "product_title": "Blue Mountain Tour: Scenic World, Wildlife, Lunch*, Cruise",
+          "source_product_url": "https://www.getyourguide.com/en-gb/sydney-l200/blue-mountain-small-group-scenic-world-wildlife-waterfall-t13261/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/sydney-l200/blue-mountain-small-group-scenic-world-wildlife-waterfall-t13261/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Sydney; selected options may change lunch and wildlife venue. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Bondi coastal walk",
@@ -1852,8 +2012,16 @@
       "activities": [
         {
           "name": "Hobbiton day trip",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Hobbiton%20day%20trip"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Auckland%20Hobbiton%20day%20trip",
+          "product_id": "868942",
+          "product_title": "Auckland: Hobbiton & Rotorua Māori Village with Lunch",
+          "source_product_url": "https://www.getyourguide.com/auckland-l822/ex-auckland-hobbiton-rotorua-maori-village-w-hangi-lunch-t868942/",
+          "gyg_product_url": "https://www.getyourguide.com/auckland-l822/ex-auckland-hobbiton-rotorua-maori-village-w-hangi-lunch-t868942/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Departs Auckland; includes Rotorua village, longer than Hobbiton-only experience. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Waitomo glowworm caves",
@@ -1906,8 +2074,16 @@
       "activities": [
         {
           "name": "Statue of Liberty",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Statue%20of%20Liberty"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=New%20York%20City%20Statue%20of%20Liberty",
+          "product_id": "679",
+          "product_title": "NYC Ultimate Sightseeing Cruise with Statue of Liberty",
+          "source_product_url": "https://www.getyourguide.com/new-york-city-l59/nyc-circle-line-25-hour-best-of-nyc-boat-cruise-t679/",
+          "gyg_product_url": "https://www.getyourguide.com/new-york-city-l59/nyc-circle-line-25-hour-best-of-nyc-boat-cruise-t679/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. SIGHTSEEING FROM BOAT ONLY; NOT a ferry landing on Liberty Island. Consider replacing with official island access tour. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Empire State Building",
@@ -1960,8 +2136,16 @@
       "activities": [
         {
           "name": "Teotihuacán pyramids",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Teotihuac%C3%A1n%20pyramids"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Mexico%20City%20Teotihuac%C3%A1n%20pyramids",
+          "product_id": "871666",
+          "product_title": "Teotihuacan VIP: Tour of the pyramids and the Basilica of Guadalupe",
+          "source_product_url": "https://www.getyourguide.com/en-gb/mexico-city-l194/teotihuacan-vip-pyramids-shrine-of-guadalupe-and-tourist-areas-t871666/",
+          "gyg_product_url": "https://www.getyourguide.com/en-gb/mexico-city-l194/teotihuacan-vip-pyramids-shrine-of-guadalupe-and-tourist-areas-t871666/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Mexico City pickup; additional Basilica stop. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Frida Kahlo Museum",
@@ -2095,8 +2279,16 @@
       "activities": [
         {
           "name": "Christ the Redeemer",
-          "status": "needs_product_matching",
-          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Christ%20the%20Redeemer"
+          "status": "product_page_located_affiliate_unverified",
+          "gyg_search_url": "https://www.getyourguide.com/s/?q=Rio%20de%20Janeiro%20Christ%20the%20Redeemer",
+          "product_id": "73913",
+          "product_title": "Best Half Day in Rio: Christ the Redeemer and Sugarloaf",
+          "source_product_url": "https://www.getyourguide.com/rio-de-janeiro-l9/best-half-day-in-rio-christ-the-redeemer-and-sugarloaf-t73913/",
+          "gyg_product_url": "https://www.getyourguide.com/rio-de-janeiro-l9/best-half-day-in-rio-christ-the-redeemer-and-sugarloaf-t73913/?partner_id=MYN4RIJ&utm_medium=travel_agent&travel_agent=1&cmp=tiptoe_scout_pilot",
+          "product_page_located_on": "2026-11-08",
+          "verification_notes": "GetYourGuide product ID/title/location inspected from its product page or search-indexed listing. Rio hotel pickup; also visits Sugarloaf. Affiliate attribution, date-specific bookability and image rights NOT verified.",
+          "affiliate_tracking_tested": false,
+          "bookability_tested": false
         },
         {
           "name": "Sugarloaf Mountain",
@@ -2170,5 +2362,6 @@
       ]
     }
   ],
-  "scope": "80 countries, 320 editorial activity candidates"
+  "scope": "80 countries, 320 editorial activity candidates",
+  "last_research_update": "2026-11-08"
 }
