@@ -1,9 +1,9 @@
 {
-  "total": 357,
-  "downloaded": 43,
-  "failed": 314,
+  "total": 367,
+  "downloaded": 25,
+  "failed": 342,
   "missingUrl": 0,
-  "awaitingVerification": 355,
+  "awaitingVerification": 365,
   "locallyHosted": 0,
-  "generatedAt": "2026-11-08T04:00:51.266Z"
+  "generatedAt": "2026-11-08T04:02:24.834Z"
 }
