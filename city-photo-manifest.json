@@ -1746,6 +1746,70 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Strasbourg%20Cathedral%20Exterior%20-%20Diliff.jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Wikimedia Commons filename candidate; image endpoint and attribution not verified"
+    },
+    {
+      "key": "france-aix-en-provence",
+      "city": "Aix-en-Provence",
+      "country": "France",
+      "url": "https://unsplash.com/photos/fnaVlvnuG34/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Linh Nguyen, Aix-en-Provence street; Unsplash License; https://unsplash.com/photos/fnaVlvnuG34; direct image render not yet verified"
+    },
+    {
+      "key": "france-avignon",
+      "city": "Avignon",
+      "country": "France",
+      "url": "https://unsplash.com/photos/95OkRQM-KsM/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Boudewijn Huysmans, Pont d'Avignon; Unsplash License; https://unsplash.com/photos/95OkRQM-KsM; direct image render not yet verified"
+    },
+    {
+      "key": "france-arles",
+      "city": "Arles",
+      "country": "France",
+      "url": "https://unsplash.com/photos/ja8w8lfXo2c/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Lucas Miguel, Arles amphitheatre; Unsplash License; https://unsplash.com/photos/ja8w8lfXo2c; direct image render not yet verified"
+    },
+    {
+      "key": "france-nimes",
+      "city": "Nîmes",
+      "country": "France",
+      "url": "https://unsplash.com/photos/Gj6xH5v5UPU/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Krzysztof, Nîmes Roman arena; Unsplash License; https://unsplash.com/photos/Gj6xH5v5UPU; direct image render not yet verified"
+    },
+    {
+      "key": "france-saint-tropez",
+      "city": "Saint-Tropez",
+      "country": "France",
+      "url": "https://unsplash.com/photos/XCeF9q1YyAE/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Michael Kroul, Saint-Tropez harbour; Unsplash License; https://unsplash.com/photos/XCeF9q1YyAE; direct image render not yet verified"
+    },
+    {
+      "key": "france-annecy",
+      "city": "Annecy",
+      "country": "France",
+      "url": "https://unsplash.com/photos/CwuNDgzJtaw/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Meizhi Lang, Annecy canals; Unsplash License; https://unsplash.com/photos/CwuNDgzJtaw; direct image render not yet verified"
+    },
+    {
+      "key": "france-chamonix",
+      "city": "Chamonix",
+      "country": "France",
+      "url": "https://unsplash.com/photos/VdnjxDK03b8/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Martin Adams, Chamonix mountains; Unsplash License; https://unsplash.com/photos/VdnjxDK03b8; direct image render not yet verified"
+    },
+    {
+      "key": "france-grenoble",
+      "city": "Grenoble",
+      "country": "France",
+      "url": "https://unsplash.com/photos/G6aK_JBRtM4/download?force=true&w=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Tim Oldenkamp, Grenoble river; Unsplash License; https://unsplash.com/photos/G6aK_JBRtM4; direct image render not yet verified"
     }
   ]
 }
