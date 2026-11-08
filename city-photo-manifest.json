@@ -3418,6 +3418,134 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Afu%20Aau.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Wikimedia Commons: Afu Aau.jpg; Afu Aau waterfall on Savai'i; live image rendering not yet verified."
+    },
+    {
+      "key": "vanuatu-luganville",
+      "city": "Luganville",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-efate",
+      "city": "Efate",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-champagne-beach",
+      "city": "Champagne Beach",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-aore-island",
+      "city": "Aore Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-mele",
+      "city": "Mele",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-hideaway-island",
+      "city": "Hideaway Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-pele-island",
+      "city": "Pele Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-nguna-island",
+      "city": "Nguna Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-pentecost-island",
+      "city": "Pentecost Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-ambrym",
+      "city": "Ambrym",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-malekula",
+      "city": "Malekula",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-epi-island",
+      "city": "Epi Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-erromango",
+      "city": "Erromango",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-mystery-island",
+      "city": "Mystery Island",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-gaua",
+      "city": "Gaua",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
+    },
+    {
+      "key": "vanuatu-maewo",
+      "city": "Maewo",
+      "country": "Vanuatu",
+      "url": "",
+      "status": "needs-location-specific-photo",
+      "source": "Photo required; no unverified regional substitute assigned."
     }
   ]
 }
