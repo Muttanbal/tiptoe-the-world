@@ -3202,6 +3202,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/10%20Minutes%20west%20of%20Labasa%2C%20Vanua%20Levu%2C%20Fiji%20-%20panoramio.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Exact Wikimedia Commons file listing confirmed: File:10 Minutes west of Labasa, Vanua Levu, Fiji - panoramio.jpg; image render on live site not yet tested"
+    },
+    {
+      "key": "fiji-kadavu",
+      "city": "Kadavu",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vunisea%20Kadavu%20Jetty%202014.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Vunisea Kadavu Jetty 2014.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-beqa-island",
+      "city": "Beqa Island",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beqa%20Lagoon%20-%20Fiji.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Beqa Lagoon - Fiji.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-ovalau",
+      "city": "Ovalau",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ovalau.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Ovalau.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-levuka",
+      "city": "Levuka",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/BeachStreetLevuka.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:BeachStreetLevuka.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-rakiraki",
+      "city": "Rakiraki",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Rakiraki.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Rakiraki.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-ba",
+      "city": "Ba",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ba%2C%20Fiji%2C%20with%20sugar%20cane%20train%20on%20railway%20track%20on%20the%20road%2C%20shops%2C%20people%20and%20vehicles.%20Ref%20WA-22181-F.%20Alexander%20Turnbull%20Library%2C%20Wellington%2C%20New%20Zealand.%20Record%20No%2022897014.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Ba, Fiji, with sugar cane train on railway track on the road, shops, people and vehicles. Ref WA-22181-F. Alexander Turnbull Library, Wellington, New Zealand. Record No 22897014.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-tavua",
+      "city": "Tavua",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tavua%2C%20Fiji%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Tavua, Fiji - panoramio.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-korolevu",
+      "city": "Korolevu",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korolevu%2C%20Fiji%20-%20panoramio.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Korolevu, Fiji - panoramio.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-nausori",
+      "city": "Nausori",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nausori%20Town.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Nausori Town.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "fiji-lomaiviti-islands",
+      "city": "Lomaiviti Islands",
+      "country": "Fiji",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lomaiviti%20Islands%20banner%20Fish.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Exact file title listed on Wikimedia Commons: File:Lomaiviti Islands banner Fish.jpg; destination relevance checked; live image rendering unverified"
     }
   ]
 }
