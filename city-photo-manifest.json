@@ -3978,6 +3978,142 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Biche%20Village%2C%20Western%20Province%2C%20Solomon%20Islands%2C%202012.%20Photo-%20Yvonne%20Green%20-%20DFAT%20(12784108684).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Location-specific Wikimedia Commons file: Biche Village, Western Province, Solomon Islands, 2012. Photo- Yvonne Green - DFAT (12784108684).jpg; image render and license requirements require final review."
+    },
+    {
+      "key": "cook-islands-avarua",
+      "city": "Avarua",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Avarua%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Avarua, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-arorangi",
+      "city": "Arorangi",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arorangi%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Arorangi, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-titikaveka",
+      "city": "Titikaveka",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Titikaveka%20beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Titikaveka beach.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-ngatangiia",
+      "city": "Ngatangiia",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ngatangiia%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Ngatangiia, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-matavera",
+      "city": "Matavera",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Matavera%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Matavera, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-nikao",
+      "city": "Nikao",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikao%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Nikao, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-tupapa",
+      "city": "Tupapa",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tupapa%2C%20Rarotonga.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Tupapa, Rarotonga.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-vaimaanga",
+      "city": "Vaimaanga",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vaimaanga%20Beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Vaimaanga Beach.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-one-foot-island",
+      "city": "One Foot Island",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/One%20Foot%20Island%2C%20Aitutaki.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename One Foot Island, Aitutaki.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-akaiami-island",
+      "city": "Akaiami Island",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Akaiami%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Akaiami Island.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-maina-island",
+      "city": "Maina Island",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Maina%20Island%2C%20Aitutaki.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Maina Island, Aitutaki.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-atiu",
+      "city": "Atiu",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atiu%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Atiu Island.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-mangaia",
+      "city": "Mangaia",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mangaia%20island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Mangaia island.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-mauke",
+      "city": "Mauke",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauke%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Mauke Island.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-mitiaro",
+      "city": "Mitiaro",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mitiaro%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Mitiaro Island.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-manihiki",
+      "city": "Manihiki",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manihiki%20lagoon.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Manihiki lagoon.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
+    },
+    {
+      "key": "cook-islands-penrhyn",
+      "city": "Penrhyn",
+      "country": "Cook Islands",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Penrhyn%20Atoll.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Provisional Wikimedia Commons location-labelled filename Penrhyn Atoll.jpg; existence, licence and live rendering NOT verified. Do not regard as complete until checked."
     }
   ]
 }
