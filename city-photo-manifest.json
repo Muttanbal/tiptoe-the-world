@@ -2098,6 +2098,102 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-%C3%89milion%20(Panorama).jpg?width=1200",
       "status": "candidate-needs-visual-verification",
       "source": "Wikimedia Commons existing file: File:Saint-Émilion (Panorama).jpg; author Varvac; source page confirmed; live image loading pending."
+    },
+    {
+      "key": "france-sarlat-la-caneda",
+      "city": "Sarlat-la-Canéda",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarlat-la-Can%C3%A9da%20old%20town.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Sarlat-la-Canéda old town.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-lourdes",
+      "city": "Lourdes",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanctuary%20of%20Our%20Lady%20of%20Lourdes.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Sanctuary of Our Lady of Lourdes.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-pau",
+      "city": "Pau",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Pau.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Château de Pau.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-valence",
+      "city": "Valence",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Valence%20Cathedral%20France.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Valence Cathedral France.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-orange",
+      "city": "Orange",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20antique%20d'Orange.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Théâtre antique d'Orange.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-narbonne",
+      "city": "Narbonne",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palais%20des%20Archev%C3%AAques%20Narbonne.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Palais des Archevêques Narbonne.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-sete",
+      "city": "Sète",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A8te%20panorama.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Sète panorama.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-collioure",
+      "city": "Collioure",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Collioure%20harbour.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Collioure harbour.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-calais",
+      "city": "Calais",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Calais%20town%20hall.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Calais town hall.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-le-mans",
+      "city": "Le Mans",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%20Mans%20Cit%C3%A9%20Plantagen%C3%AAt.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Le Mans Cité Plantagenêt.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-angers",
+      "city": "Angers",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20d'Angers.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Château d'Angers.jpg. Existence, rights and live rendering not confirmed."
+    },
+    {
+      "key": "france-blois",
+      "city": "Blois",
+      "country": "France",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ch%C3%A2teau%20de%20Blois.jpg?width=1200",
+      "status": "candidate-needs-visual-verification",
+      "source": "Unverified Wikimedia Commons filename candidate: File:Château de Blois.jpg. Existence, rights and live rendering not confirmed."
     }
   ]
 }
