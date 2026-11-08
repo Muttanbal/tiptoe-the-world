@@ -134,6 +134,12 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ 'Denver':'Colorado','Boulder':'Colorado','Colorado Springs':'Colorado','Aspen':'Colorado','Vail':'Colorado','Breckenridge':'Colorado',
+ 'Hartford':'Connecticut','New Haven':'Connecticut','Mystic':'Connecticut',
+ 'Wilmington':'Delaware','Dover':'Delaware','Rehoboth Beach':'Delaware',
+ 'Mobile':'Alabama','Sedona':'Arizona','Bentonville':'Arkansas','Sacramento':'California',
+ 'Santa Barbara':'California','Santa Monica':'California','Malibu':'California','Yosemite Valley':'California',
+ 
  'Hot Springs':'Arkansas','Bentonville':'Arkansas','Little Rock':'Arkansas',
  'Santa Barbara':'California','Napa':'California','Sonoma':'California','Monterey':'California',
  'Sacramento':'California','Santa Monica':'California','Malibu':'California','Santa Cruz':'California',
@@ -181,6 +187,22 @@ async function findUSCommonsPhoto(name){
     }
    }catch{}
   }
+  // Search Wikipedia's article index if the precise title has no lead image.
+  try{
+   const q=new URLSearchParams({action:'query',generator:'search',gsrsearch:'intitle:'+city+' '+(state||'United States'),gsrnamespace:'0',gsrlimit:'12',prop:'pageimages',pithumbsize:'1200',format:'json',origin:'*'});
+   const res=await fetch('https://en.wikipedia.org/w/api.php?'+q);
+   if(res.ok){
+    const data=await res.json();
+    for(const page of Object.values(data.query?.pages||{}).sort((x,y)=>(x.index??999)-(y.index??999))){
+     const title=(page.title||'').toLowerCase();
+     if(!page.thumbnail?.source || !title.includes(city.toLowerCase()))continue;
+     if(state && !title.includes(state.toLowerCase()) && !title.includes('united states'))continue;
+     if(usCommonsUsedPhotos.has(page.thumbnail.source))continue;
+     usCommonsUsedPhotos.add(page.thumbnail.source);
+     return page.thumbnail.source;
+    }
+   }
+  }catch{}
   // If the destination article lacks a photo, search Commons with strict location/title filters.
   for(const query of [city+' '+state+' skyline',city+' '+state+' downtown',city+' '+state+' cityscape']){
    try{
