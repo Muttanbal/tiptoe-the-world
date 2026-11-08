@@ -2479,17 +2479,17 @@
       "key": "new-zealand-nelson",
       "city": "Nelson",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20New%20Zealand%20city.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Nelson New Zealand city.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20NZ%20banner.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Nelson NZ banner.jpg; AlasdairW, CC BY-SA 3.0; file page confirmed, live rendering pending"
     },
     {
       "key": "new-zealand-abel-tasman",
       "city": "Abel Tasman",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Tasman%20National%20Park%20New%20Zealand.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Abel Tasman National Park New Zealand.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AbelTasmanBeach.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:AbelTasmanBeach.jpg; Patrick Orlob, public domain; file page confirmed, live rendering pending"
     },
     {
       "key": "new-zealand-kaikoura",
@@ -2503,17 +2503,17 @@
       "key": "new-zealand-picton",
       "city": "Picton",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picton%20New%20Zealand%20harbour.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Picton New Zealand harbour.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Picton%20harbour.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Picton harbour.jpg; ParadiseDweller, CC BY-SA 4.0; file page confirmed, live rendering pending"
     },
     {
       "key": "new-zealand-blenheim",
       "city": "Blenheim",
       "country": "New Zealand",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blenheim%20New%20Zealand.jpg?width=1200",
-      "status": "candidate-needs-visual-verification",
-      "source": "Unverified candidate filename: Blenheim New Zealand.jpg; live rendering pending"
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Market%20Street%2C%20Blenheim%2C%20New%20Zealand%202022-06-05.jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Wikimedia Commons File:Market Street, Blenheim, New Zealand 2022-06-05.jpg; Maksym Kozlenko, Commons; file page confirmed, live rendering pending"
     },
     {
       "key": "new-zealand-napier",
