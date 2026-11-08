@@ -891,9 +891,9 @@
       "key": "netherlands-the-hague",
       "city": "The Hague",
       "country": "Netherlands",
-      "url": "https://unsplash.com/photos/EaZuQOtemis/download?force=true&w=1200",
+      "url": "https://images.unsplash.com/photo-1534351590666-13e3e1a3d3b9?w=1200&q=85",
       "status": "candidate-needs-visual-verification",
-      "source": "Alireza Parpaei; Hofvijver at sunset, The Hague; https://unsplash.com/photos/a-large-building-with-a-lot-of-windows-next-to-a-body-of-water-EaZuQOtemis; Unsplash License; image rendering unverified."
+      "source": "Temporary Netherlands canal image fallback; replace with verified The Hague landmark image."
     },
     {
       "key": "switzerland-zurich",
