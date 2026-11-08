@@ -3282,6 +3282,62 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lomaiviti%20Islands%20banner%20Fish.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Exact file title listed on Wikimedia Commons: File:Lomaiviti Islands banner Fish.jpg; destination relevance checked; live image rendering unverified"
+    },
+    {
+      "key": "samoa-lalomanu",
+      "city": "Lalomanu",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach%20fales%20at%20Lalomanu%20beach%2C%20Upolu%2C%20Samoa%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Beach fales at Lalomanu beach, Upolu, Samoa - August 2016.jpg; Exact Lalomanu beach; live rendering unverified"
+    },
+    {
+      "key": "samoa-salamumu",
+      "city": "Salamumu",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Samoa%20coastal%20road.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Samoa coastal road.jpg; Regional Samoa coastal scene; not verified as Salamumu; live rendering unverified"
+    },
+    {
+      "key": "samoa-mulifanua",
+      "city": "Mulifanua",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulifanua%20wharf%20and%20ferry%20terminal%2C%20Upolu%2C%20Samoa%20-%20August%202016.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Mulifanua wharf and ferry terminal, Upolu, Samoa - August 2016.jpg; Exact Mulifanua wharf; live rendering unverified"
+    },
+    {
+      "key": "samoa-faleolo",
+      "city": "Faleolo",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Faleolo.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Faleolo.jpg; Exact Faleolo airport; live rendering unverified"
+    },
+    {
+      "key": "samoa-manono-island",
+      "city": "Manono Island",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manono%20Island.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Manono Island.jpg; Exact Manono meeting house; live rendering unverified"
+    },
+    {
+      "key": "samoa-apolima-island",
+      "city": "Apolima Island",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Apolima%20island%20in%20the%20background.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Apolima island in the background.jpg; Exact Apolima island; live rendering unverified"
+    },
+    {
+      "key": "samoa-aleipata-islands",
+      "city": "Aleipata Islands",
+      "country": "Samoa",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aleipata.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Wikimedia Commons existing file: Aleipata.jpg; Exact Aleipata Islands NASA view; live rendering unverified"
     }
   ]
 }
