@@ -2847,9 +2847,9 @@
       "key": "australia-coffs-harbour",
       "city": "Coffs Harbour",
       "country": "Australia",
-      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coffs%20Harbour?width=1200",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coffs%20Harbour%20Skyline.jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
-      "source": "Coffs Harbour category photo; Commons file listing located; live rendering pending"
+      "source": "Existing Wikimedia Commons file located: File:Coffs Harbour Skyline.jpg; location checked; image display on Tiptoe not yet verified"
     },
     {
       "key": "australia-port-macquarie",
@@ -2922,6 +2922,86 @@
       "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20perspective%20of%20Geelong%20(2).jpg?width=1200",
       "status": "candidate-needs-live-render-verification",
       "source": "Geelong category; Commons file listing located; live rendering pending"
+    },
+    {
+      "key": "australia-great-ocean-road",
+      "city": "Great Ocean Road",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Twelve%20Apostles.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:The Twelve Apostles.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-phillip-island",
+      "city": "Phillip Island",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Australia%20-%20Phillip%20Island%20-%20Penguin%20(Eudyptula%20minor).jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Australia - Phillip Island - Penguin (Eudyptula minor).jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-mornington-peninsula",
+      "city": "Mornington Peninsula",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sorrento%20back%20beach.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Sorrento back beach.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-hobart",
+      "city": "Hobart",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hobart%20waterfront.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Hobart waterfront.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-launceston",
+      "city": "Launceston",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cataract%20Gorge%2C%20Launceston.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Cataract Gorge, Launceston.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-cradle-mountain",
+      "city": "Cradle Mountain",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cradle%20Mountain%2C%20Tasmania.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Cradle Mountain, Tasmania.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-freycinet-national-park",
+      "city": "Freycinet National Park",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wineglass%20Bay%2C%20Freycinet%20National%20Park.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Wineglass Bay, Freycinet National Park.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-darwin",
+      "city": "Darwin",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Darwin%20skyline.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Darwin skyline.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-kakadu-national-park",
+      "city": "Kakadu National Park",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ubirr%20Kakadu%20NT.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Ubirr Kakadu NT.jpg; location checked; image display on Tiptoe not yet verified"
+    },
+    {
+      "key": "australia-alice-springs",
+      "city": "Alice Springs",
+      "country": "Australia",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Springs%20banner%20Township%20and%20MacDonnell%20Ranges.jpg?width=1200",
+      "status": "candidate-needs-live-render-verification",
+      "source": "Existing Wikimedia Commons file located: File:Alice Springs banner Township and MacDonnell Ranges.jpg; location checked; image display on Tiptoe not yet verified"
     }
   ]
 }
