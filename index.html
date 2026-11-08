@@ -144,7 +144,22 @@ const netherlandsCityFallback='https://images.unsplash.com/photo-1754835143820-b
 const netherlandsCityPhotos={"Rotterdam":"https://unsplash.com/photos/mzrPiJ2Rnxc/download?force=true&w=1200","The Hague":"https://unsplash.com/photos/EaZuQOtemis/download?force=true&w=1200"};
 function installCityPhoto(element,name,country){
  if(country==='France'){
- element.classList.remove('city-photo-loading','city-photo-unavailable');element.classList.add('city-photo-loaded');element.style.backgroundImage='url("https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=85")';element.setAttribute('role','img');element.setAttribute('aria-label',name+', France — temporary destination photograph');return;
+  const fallback='https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=85';
+  element.classList.add('city-photo-loading');
+  element.setAttribute('role','img');
+  element.setAttribute('aria-label','Photograph of '+name+', France');
+  const cacheKey='ttw-france-photo-'+name;
+  const setPhoto=(url)=>{const img=new Image();img.onload=()=>{element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.remove('city-photo-loading','city-photo-unavailable');element.classList.add('city-photo-loaded')};img.onerror=()=>{element.style.backgroundImage='url("'+fallback+'")';element.classList.remove('city-photo-loading')};img.src=url};
+  const saved=sessionStorage.getItem(cacheKey);
+  if(saved){setPhoto(saved);return}
+  const params=new URLSearchParams({action:'query',generator:'search',gsrsearch:'filetype:bitmap '+name+' France',gsrnamespace:'6',gsrlimit:'12',prop:'imageinfo',iiprop:'url|mime',iiurlwidth:'900',format:'json',origin:'*'});
+  fetch('https://commons.wikimedia.org/w/api.php?'+params.toString()).then(r=>{if(!r.ok)throw Error('image search failed');return r.json()}).then(data=>{
+    const pages=Object.values(data.query?.pages||{}).filter(p=>p.imageinfo?.[0]?.thumburl&&/^image\\/(jpeg|png|webp)$/.test(p.imageinfo[0].mime||'')&&new RegExp(name.replace(/[.*+?^$\\{\\}()|[\\]\\\\]/g,'\\\\$&').split(' ').join('|'),'i').test(p.title));
+    const chosen=pages.sort((x,y)=>{const score=p=>(p.title.toLowerCase().includes(name.toLowerCase())?10:0)+(p.title.toLowerCase().includes('france')?2:0);return score(y)-score(x)})[0];
+    if(!chosen)throw Error('no city-specific image');
+    const url=chosen.imageinfo[0].thumburl;sessionStorage.setItem(cacheKey,url);setPhoto(url);
+  }).catch(()=>{element.style.backgroundImage='url("'+fallback+'")';element.classList.remove('city-photo-loading');element.setAttribute('aria-label',name+', France — fallback image; city photo not yet verified')});
+  return;
  }
  if(country==='Netherlands'){
   element.classList.remove('city-photo-loading','city-photo-unavailable');
