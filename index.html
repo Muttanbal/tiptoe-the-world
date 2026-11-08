@@ -134,6 +134,29 @@ const cityPhotoManifestPromise=fetch('./city-photo-manifest.json',{cache:'no-sto
 const usCommonsPhotoCache=new Map();
 const usCommonsUsedPhotos=new Set();
 const usCityStates={
+ "Cody":"Wyoming",
+ "Casper":"Wyoming",
+ "Green Bay":"Wisconsin",
+ "Wisconsin Dells":"Wisconsin",
+ "Jackson":"Wyoming",
+ "Cheyenne":"Wyoming",
+ "Madison":"Wisconsin",
+ "Milwaukee":"Wisconsin",
+ "Morgantown":"West Virginia",
+ "Harpers Ferry":"West Virginia",
+ "Tacoma":"Washington",
+ "Olympia":"Washington",
+ "Leavenworth, Washington":"Washington",
+ "Charleston, West Virginia":"West Virginia",
+ "Spokane":"Washington",
+ "Seattle":"Washington",
+ "Charlottesville":"Virginia",
+ "Williamsburg":"Virginia",
+ "Alexandria":"Virginia",
+ "Virginia Beach":"Virginia",
+ "Richmond":"Virginia",
+ "Stowe":"Vermont",
+
  'Fort Worth':'Texas','Galveston':'Texas','El Paso':'Texas','Corpus Christi':'Texas','Fredericksburg, Texas':'Texas',
  'Houston':'Texas','Dallas':'Texas','Austin':'Texas','San Antonio':'Texas',
  'Salt Lake City':'Utah','Park City':'Utah','Moab':'Utah','St George':'Utah','Springdale, Utah':'Utah',
@@ -192,7 +215,19 @@ async function findUSCommonsPhoto(name){
  const task=(async()=>{
   const city=name.split(',')[0].trim();
   const state=name.includes(',')?name.split(',').slice(1).join(',').trim():(usCityStates[name]||'');
-  const candidates=[city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'];
+  const preferredTitles={
+ 'Jackson':'Jackson, Wyoming','Morgantown':'Morgantown, West Virginia',
+ 'Leavenworth, Washington':'Leavenworth, Washington','Charleston, West Virginia':'Charleston, West Virginia',
+ 'Harpers Ferry':'Harpers Ferry, West Virginia','Wisconsin Dells':'Wisconsin Dells, Wisconsin',
+ 'Virginia Beach':'Virginia Beach, Virginia','Green Bay':'Green Bay, Wisconsin',
+ 'Cody':'Cody, Wyoming','Casper':'Casper, Wyoming','Cheyenne':'Cheyenne, Wyoming',
+ 'Madison':'Madison, Wisconsin','Milwaukee':'Milwaukee, Wisconsin',
+ 'Tacoma':'Tacoma, Washington','Olympia':'Olympia, Washington','Spokane':'Spokane, Washington',
+ 'Seattle':'Seattle, Washington','Charlottesville':'Charlottesville, Virginia',
+ 'Williamsburg':'Williamsburg, Virginia','Alexandria':'Alexandria, Virginia',
+ 'Richmond':'Richmond, Virginia','Stowe':'Stowe, Vermont'
+ };
+ const candidates=[preferredTitles[name],city+', '+state,city+' ('+state+')',city+' ('+state+' city)',city+' (city)'].filter(Boolean);
   // Prefer the lead photograph on the actual destination encyclopedia page.
   for(const title of [...new Set(candidates)]){
    try{
