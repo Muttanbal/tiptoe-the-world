@@ -216,7 +216,11 @@ async function findUSCommonsPhoto(name){
 const verifiedUSCityPhotos={
  'Harpers Ferry':{file:'Harpers Ferry, as viewed from Maryland Heights.jpg',credit:'Wikimedia Commons'},
  'Milwaukee':{file:'Milwaukee June 2026 06 (city skyline).jpg',credit:'Michael Barera / Wikimedia Commons, CC BY-SA 4.0'},
- 'Jackson':{file:'Downtown Jackson Wyoming.jpg',credit:'Wikimedia Commons'}
+ 'Jackson':{file:'Downtown Jackson Wyoming.jpg',credit:'Wikimedia Commons'},
+ 'Waikiki':{file:'Waikiki Beach, Hawaii.jpg',credit:'Julianibarra / Wikimedia Commons, CC0'},
+ 'Hilo':{file:'Hilo Waterfront, Hawaii.jpg',credit:'Ken Eckert / Wikimedia Commons, CC BY-SA 4.0'},
+ 'Kihei':{file:'Kihei coast.jpg',credit:'Michael Oswald / Wikimedia Commons'},
+ 'Lihue':{file:'Lihue-hawaii-aerial.jpg',credit:'Christopher P. Becker / Wikimedia Commons, CC BY-SA 3.0'}
 };
 function commonsCityFile(file){return 'https://commons.wikimedia.org/wiki/Special:FilePath/'+encodeURIComponent(file)+'?width=1200'}
 async function cityPhotoFor(name,country){
