@@ -19,6 +19,11 @@ header{position:relative;background:#0b251e;min-height:83px}.site{display:none}.
 .country-city-grid .city{min-width:0;overflow:hidden;border-radius:12px}
 .country-city-grid .photo{aspect-ratio:4/3;height:auto;min-height:0;background-size:cover;background-position:center}
 .country-city-grid .city-body{padding:18px}
+.country-city-grid .city{display:flex;flex-direction:column;height:100%}
+.country-city-grid .city-body{display:flex;flex-direction:column;flex:1}
+.country-city-grid .city-body h3{min-height:2.5em}
+.country-city-grid .city-body .cta{margin-top:auto;align-self:stretch;text-align:left}
+
 .country-city-grid .city h3{font-size:clamp(1.15rem,1.7vw,1.55rem)}
 @media(max-width:1050px){.country-city-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:560px){.country-city-grid{grid-template-columns:1fr}.country-city-grid .photo{aspect-ratio:16/9}}
@@ -214,6 +219,8 @@ async function findUSCommonsPhoto(name){
  return task;
 }
 const verifiedUSCityPhotos={
+ 'St Paul':{file:'Saint Paul Minnesota skyline.jpg',credit:'Wikimedia Commons'},
+ 'St Louis':{file:'St Louis skyline and Gateway Arch.jpg',credit:'Wikimedia Commons'},
  'St Petersburg':{file:'St. Petersburg Florida skyline at sunrise 1.jpg',credit:'Andrew Heneen / Wikimedia Commons, CC BY 4.0'},
  'Harpers Ferry':{file:'Harpers Ferry, as viewed from Maryland Heights.jpg',credit:'Wikimedia Commons'},
  'Milwaukee':{file:'Milwaukee June 2026 06 (city skyline).jpg',credit:'Michael Barera / Wikimedia Commons, CC BY-SA 4.0'},
