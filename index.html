@@ -234,15 +234,18 @@ function commonsCityFile(file){return 'https://commons.wikimedia.org/wiki/Specia
 async function cityPhotoFor(name,country){
  const key=country+'|'+name;
  if(cityPhotoCache.has(key))return cityPhotoCache.get(key);
+ const photo=await cityPhotoManifestPromise;
+ const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
+ // A reviewed, explicitly assigned photograph must override US runtime lookups.
+ const assigned=(match?.url && ['verified','candidate','candidate-needs-visual-verification','source-location-and-license-confirmed-render-pending','candidate-needs-live-render-verification'].includes(match.status))?match.url:null;
+ if(assigned){cityPhotoCache.set(key,assigned);return assigned;}
  if(country==='United States'){
   if(verifiedUSCityPhotos[name]){const url=commonsCityFile(verifiedUSCityPhotos[name].file);cityPhotoCache.set(key,url);return url;}
   const found=await findUSCommonsPhoto(name);
   cityPhotoCache.set(key,found);
   return found;
  }
- const photo=await cityPhotoManifestPromise;
- const match=photo.byLocation.get(key) || photo.byKey.get((country+'-'+name).toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,''));
- const url=(match?.url && ['verified','candidate','candidate-needs-visual-verification','source-location-and-license-confirmed-render-pending','candidate-needs-live-render-verification'].includes(match.status))?match.url:null;
+ const url=assigned;
  cityPhotoCache.set(key,url);
  return url;
 }
