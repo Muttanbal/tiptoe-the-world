@@ -248,6 +248,28 @@ async function cityPhotoFor(name,country){
 }
 const netherlandsCityFallback='https://images.unsplash.com/photo-1754835143820-bcf20e2e1a35?w=1200&q=85';
 const netherlandsCityPhotos={"Rotterdam":"https://unsplash.com/photos/mzrPiJ2Rnxc/download?force=true&w=1200","The Hague":"https://unsplash.com/photos/EaZuQOtemis/download?force=true&w=1200"};
+// Fallback is used only when a destination's assigned image fails to load.
+const cityPhotoFallbackCache=new Map();
+async function fallbackCityPhoto(name,country){
+ const key=country+'|'+name;
+ if(cityPhotoFallbackCache.has(key))return cityPhotoFallbackCache.get(key);
+ const task=(async()=>{
+  try{
+   const params=new URLSearchParams({action:'query',titles:name+', '+country,redirects:'1',prop:'pageimages',pithumbsize:'1200',format:'json',origin:'*'});
+   const response=await fetch('https://en.wikipedia.org/w/api.php?'+params);
+   if(!response.ok)return null;
+   const data=await response.json();
+   for(const page of Object.values(data.query?.pages||{})){
+    if(page.missing!==undefined || !(page.title||'').toLowerCase().includes(name.toLowerCase()))continue;
+    const url=page.thumbnail?.source||'';
+    if(url && !/\.svg(?:\?|$)|map|flag|logo|seal|diagram|locator/i.test(url))return url;
+   }
+  }catch{}
+  return null;
+ })();
+ cityPhotoFallbackCache.set(key,task);
+ return task;
+}
 function installCityPhoto(element,name,country){
  if(country==='Netherlands'){
   element.classList.remove('city-photo-loading','city-photo-unavailable');
@@ -269,7 +291,14 @@ function installCityPhoto(element,name,country){
   if(!url){unavailable();return}
   const testImage=new Image();
   testImage.onload=()=>{element.style.backgroundImage='url("'+url.replace(/"/g,'%22')+'")';element.classList.remove('city-photo-unavailable');element.classList.add('city-photo-loaded');element.setAttribute('aria-label',name+', '+country)};
-  testImage.onerror=unavailable;
+  testImage.onerror=async()=>{
+   const fallback=await fallbackCityPhoto(name,country);
+   if(!fallback || fallback===url){unavailable();return}
+   const retry=new Image();
+   retry.onload=()=>{element.style.backgroundImage='url("'+fallback.replace(/"/g,'%22')+'")';element.classList.remove('city-photo-unavailable');element.classList.add('city-photo-loaded');element.setAttribute('aria-label',name+', '+country)};
+   retry.onerror=unavailable;
+   retry.src=fallback;
+  };
   testImage.src=url;
  }).catch(()=>{element.classList.remove('city-photo-loading');element.classList.add('city-photo-unavailable');element.setAttribute('aria-label',name+', '+country+' — photograph unavailable')});
 }
