@@ -4215,9 +4215,9 @@
       "key": "united-states-flagstaff",
       "city": "Flagstaff",
       "country": "United States",
-      "url": "",
-      "status": "dynamic-wikimedia-location-search-unverified",
-      "source": "Previous unverified or duplicated image disabled. Runtime Wikimedia Commons file-title search, minimum dimensions and open-license filter; visual accuracy and attribution require review."
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Flagstaff%20on%20Art%20Walk%20(cropped).jpg?width=1200",
+      "status": "source-location-and-license-confirmed-render-pending",
+      "source": "Deborah Lee Soltesz, Downtown Flagstaff on Art Walk (cropped), 1 May 2009, Wikimedia Commons, CC0; https://commons.wikimedia.org/wiki/File:Downtown_Flagstaff_on_Art_Walk_(cropped).jpg. Remote preview candidate only; local asset and render validation pending."
     },
     {
       "key": "united-states-tucson",
